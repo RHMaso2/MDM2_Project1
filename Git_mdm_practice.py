@@ -1,2 +1,2 @@
-print('git push')
 print('hello')
+print('Alex done')
