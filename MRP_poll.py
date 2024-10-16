@@ -1,25 +1,22 @@
 import random
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
+from tqdm import tqdm
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LogisticRegression
+from joblib import Parallel, delayed
 
 # Define parties and regions
-parties = ['Labour', 'Conservative', 'Reform UK', 'Liberal Democrats', 'Green Party of England and Wales',
-           'Scottish National Party']
-
-regions = ['Wales', 'Scotland', 'North East', 'North West', 'Yorkshire and The Humber', 'East Midlands',
+parties = ['Labour', 'Conservative', 'Reform UK', 'Liberal Democrats', 'Green Party of England and Wales', 'Scottish National Party']
+regions = ['Wales', 'Scotland', 'North East', 'North West', 'Yorkshire and The Humber', 'East Midlands', 
            'West Midlands', 'East of England', 'London', 'South East', 'South West']
 
 # Adjusted distributions based on UK statistics
 age_distribution = ['18-24', '25-34', '35-44', '45-54', '55-64', '65+']
 age_probabilities = [0.1, 0.2, 0.2, 0.2, 0.2, 0.1]  # Approximate age distribution
-
 education_distribution = ['Degree', 'A-levels', 'GCSE', 'None']
 education_probabilities = [0.3, 0.25, 0.25, 0.2]  # Approximate education distribution
-
 income_distribution = ['0-£12,570', '£12,571-£50,270', '£50,271-£125,140', '£125,140+']
 income_probabilities = [0.2, 0.5, 0.2, 0.1]  # Approximate income distribution
 
@@ -45,10 +42,6 @@ constituency_data = pd.DataFrame({
 # Clip populations to be at least 1000 (minimum constituency size)
 constituency_data['population'] = constituency_data['population'].clip(lower=1000)
 
-# Save to CSV
-polling_data.to_csv('polling_data.csv', index=False)
-constituency_data.to_csv('constituency_data.csv', index=False)
-
 # Data Preparation
 X = pd.get_dummies(polling_data[['age', 'gender', 'education', 'income', 'region']], drop_first=True)
 y = polling_data['party_preference']
@@ -70,24 +63,13 @@ X_train_scaled = scaler.fit_transform(X_train)
 log_reg = LogisticRegression(solver='lbfgs', penalty='l2', max_iter=1000)
 log_reg.fit(X_train_scaled, y_train.codes)  # Use y_train.codes for categorical labels
 
-# Evaluate model performance on the test set
-X_test_scaled = scaler.transform(X_test)
-y_pred = log_reg.predict(X_test_scaled)
-accuracy = np.mean(y_pred == y_test.codes)
-print("Test set accuracy:", accuracy)
-
-# Apply the model to each constituency
-constituency_results = []
-
 # Define the full columns from the training data
-full_columns = X_train.columns  # Ensure these are the columns used in training the model
+full_columns = X_train.columns
 
-for idx, row in constituency_data.iterrows():
-    # Initialize votes for this constituency
-    constituency_votes = np.zeros(len(parties))
+# Function to process each constituency
+def process_constituency(row, full_columns, scaler, log_reg, num_samples=100):
+    constituency_votes = np.zeros(len(parties))  # Initialize votes array for the constituency
 
-    # Sample multiple demographic profiles within this constituency
-    num_samples = 100  # Number of demographic samples per constituency
     for _ in range(num_samples):
         # Create demographic factors for the constituency
         demographic_data = {
@@ -118,22 +100,28 @@ for idx, row in constituency_data.iterrows():
 
     # Multiply votes by the population size to scale to the actual constituency size
     constituency_votes *= row['population'] / num_samples
+    return constituency_votes
 
-    # Append the total votes for this constituency
-    constituency_results.append(constituency_votes)
+# Apply parallel processing using joblib to speed up processing for each constituency
+constituency_results = Parallel(n_jobs=-1)(
+    delayed(process_constituency)(row, full_columns, scaler, log_reg, num_samples=100)
+    for idx, row in tqdm(constituency_data.iterrows(), total=constituency_data.shape[0], desc="Processing Constituencies")
+)
 
 # Convert results into a 2D array (500 constituencies, 6 parties)
 constituency_results_2d = np.array(constituency_results)
 
-# Create a DataFrame
+# Create a DataFrame for the results
 constituency_results_df = pd.DataFrame(constituency_results_2d, columns=log_reg.classes_)
 
 # Determine the winning party for each constituency
-winner_indices = constituency_results_df.idxmax(axis=1)  # Get the index of the winning party
-constituency_results_df['winner'] = log_reg.classes_[winner_indices].tolist()  # Use party names directly
+constituency_results_df['winner'] = constituency_results_df.idxmax(axis=1)  # Get the index of the winning party
 
 # Combine with constituency names and region
 final_results = pd.concat([constituency_data[['constituency', 'region']], constituency_results_df], axis=1)
+
+# Convert winner index (which is numerical) into the actual party name
+final_results['winner'] = final_results['winner'].map(lambda x: parties[x])  # Fix winner to show party names
 
 # Count the number of seats won by each party overall
 overall_results = final_results['winner'].value_counts()
@@ -144,11 +132,3 @@ regional_results = final_results.groupby('region')['winner'].value_counts().unst
 # Check the results
 print("Overall seat count by party:\n", overall_results)
 print("\nSeat count by party in each region:\n", regional_results)
-
-# Plot overall seat count by party
-overall_results.plot(kind='bar', title='Overall Seat Count by Party', ylabel='Number of Seats')
-plt.show()
-
-# Plot seat count by region for each party
-regional_results.plot(kind='bar', stacked=True, title='Seats by Party in Each Region', ylabel='Number of Seats')
-plt.show()
