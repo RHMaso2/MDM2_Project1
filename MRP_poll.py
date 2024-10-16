@@ -13,18 +13,37 @@ parties = [ 'Labour', 'Conservative', 'Reform UK', 'Liberal Democrats', 'Green P
 regions = [ 'Wales', 'Scotland', 'North East', 'North West', 'Yorkshire and The Humber', 'East Midlands', 
     'West Midlands', 'East of England', 'London', 'South East', 'South West']
 
-# Generate polling data
-polling_data = pd.DataFrame({
-    'age': np.random.choice(['18-24', '25-34', '35-44', '45-54', '55-64', '65+'], size=1000),
-    'gender': np.random.choice(['Male', 'Female'], size=1000),
-    'education': np.random.choice(['Degree', 'A-levels', 'GCSE', 'None'], size=1000),
-    'income': np.random.choice(['0-£12,570', '£12,571-£50,270', '£50,271-£125,140', '£125,140+'], size=1000),
-    'region': np.random.choice(regions, size=1000),
-    'party_preference': np.random.choice(parties, size=1000) })
+# Adjusted distributions based on UK statistics
+age_distribution = ['18-24', '25-34', '35-44', '45-54', '55-64', '65+']
+age_probabilities = [0.1, 0.2, 0.2, 0.2, 0.2, 0.1]  # Approximate age distribution
 
-# Generate constituency data
-constituency_data = pd.DataFrame({'constituency': [f'Constituency {i+1}' for i in range(500)],
-    'population': np.random.randint(1000, 10000, size=500),'region': np.random.choice(regions, size=500)})
+education_distribution = ['Degree', 'A-levels', 'GCSE', 'None']
+education_probabilities = [0.3, 0.25, 0.25, 0.2]  # Approximate education distribution
+
+income_distribution = ['0-£12,570', '£12,571-£50,270', '£50,271-£125,140', '£125,140+']
+income_probabilities = [0.2, 0.5, 0.2, 0.1]  # Approximate income distribution
+
+# Generate polling data with realistic distributions
+polling_data = pd.DataFrame({
+    'age': np.random.choice(age_distribution, size=1000, p=age_probabilities),
+    'gender': np.random.choice(['Male', 'Female'], size=1000),
+    'education': np.random.choice(education_distribution, size=1000, p=education_probabilities),
+    'income': np.random.choice(income_distribution, size=1000, p=income_probabilities),
+    'region': np.random.choice(regions, size=1000),
+    'party_preference': np.random.choice(parties, size=1000)
+})
+
+# Generate constituency data with realistic population sizes
+average_population_size = 75000  # Average constituency population
+population_std_dev = 20000  # Standard deviation for population size
+constituency_data = pd.DataFrame({
+    'constituency': [f'Constituency {i+1}' for i in range(500)],
+    'population': np.random.normal(loc=average_population_size, scale=population_std_dev, size=500).astype(int),
+    'region': np.random.choice(regions, size=500)
+})
+
+# Clip populations to be at least 1000 (minimum constituency size)
+constituency_data['population'] = constituency_data['population'].clip(lower=1000)
 
 # Save to CSV
 polling_data.to_csv('polling_data.csv', index=False)
@@ -60,10 +79,10 @@ full_columns = X_train.columns  # Ensure these are the columns used in training 
 for idx, row in constituency_data.iterrows():
     # Create demographic factors for the constituency
     demographic_data = {
-        'age': random.choice(['18-24', '25-34', '35-44', '45-54', '55-64', '65+']),
+        'age': random.choice(age_distribution),
         'gender': random.choice(['Male', 'Female']),
-        'education': random.choice(['Degree', 'A-levels', 'GCSE', 'None']),
-        'income': random.choice(['0-£12,570', '£12,571-£50,270', '£50,271-£125,140', '£125,140+']),
+        'education': random.choice(education_distribution),
+        'income': random.choice(income_distribution),
         'region': row['region']
     }
     
@@ -95,7 +114,8 @@ constituency_results_2d = np.array(constituency_results)
 constituency_results_df = pd.DataFrame(constituency_results_2d, columns=log_reg.classes_)
 
 # Determine the winning party for each constituency
-constituency_results_df['winner'] = constituency_results_df.idxmax(axis=1)
+winner_indices = constituency_results_df.idxmax(axis=1)  # Get the index of the winning party
+constituency_results_df['winner'] = log_reg.classes_[winner_indices].tolist()  # Use party names directly
 
 # Combine with constituency names and region
 final_results = pd.concat([constituency_data[['constituency', 'region']], constituency_results_df], axis=1)
@@ -109,18 +129,3 @@ regional_results = final_results.groupby('region')['winner'].value_counts().unst
 # Check the results
 print("Overall seat count by party:\n", overall_results)
 print("\nSeat count by party in each region:\n", regional_results)
-
-# Plot pie charts for overall results and regional results
-def plot_pie_chart(data, title):
-    plt.figure(figsize=(8, 6))
-    plt.pie(data, labels=data.index, autopct='%1.1f%%', startangle=140)
-    plt.title(title)
-    plt.axis('equal')  # Equal aspect ratio ensures that pie chart is circular.
-    plt.show()
-
-# Overall results pie chart
-plot_pie_chart(overall_results, "Overall Seat Count by Party")
-
-# Regional results pie charts
-#for region in regional_results.index:
-#    plot_pie_chart(regional_results.loc[region], f"Seat Count by Party in {region}")
