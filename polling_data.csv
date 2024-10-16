@@ -1,0 +1,1001 @@
+age,gender,education,region,party_preference
+65+,Male,GCSE,Scotland,Labour
+35-44,Male,A-level,Northern Ireland,LibDem
+45-54,Male,Degree,Scotland,LibDem
+65+,Male,GCSE,Scotland,ReformUK
+45-54,Male,Degree,South East,LibDem
+45-54,Male,A-level,London,Green
+18-24,Male,None,London,ReformUK
+18-24,Female,A-level,Midlands,LibDem
+35-44,Female,None,Wales,Conservative
+18-24,Female,GCSE,Wales,ReformUK
+65+,Male,Degree,South East,Green
+25-34,Male,None,South East,Labour
+35-44,Male,A-level,North West,Conservative
+18-24,Male,Degree,Northern Ireland,Conservative
+55-64,Male,None,London,Green
+35-44,Male,Degree,Wales,Labour
+65+,Male,None,Wales,Green
+18-24,Male,A-level,South East,Green
+35-44,Male,A-level,Scotland,ReformUK
+18-24,Female,A-level,Northern Ireland,Green
+55-64,Male,A-level,North West,SNP
+65+,Female,A-level,London,Labour
+35-44,Male,Degree,London,Green
+35-44,Male,None,Scotland,ReformUK
+25-34,Male,Degree,North West,SNP
+25-34,Female,None,Midlands,Conservative
+25-34,Male,A-level,South East,Green
+35-44,Female,GCSE,London,Green
+65+,Male,Degree,North West,ReformUK
+45-54,Male,None,North West,Labour
+35-44,Male,None,Scotland,Conservative
+45-54,Male,Degree,London,ReformUK
+18-24,Female,Degree,Northern Ireland,Labour
+45-54,Male,A-level,South East,Labour
+55-64,Male,None,Midlands,Conservative
+55-64,Female,None,Midlands,Conservative
+65+,Male,GCSE,Scotland,Green
+65+,Male,GCSE,Scotland,Green
+25-34,Male,Degree,Scotland,Labour
+25-34,Male,Degree,Wales,Conservative
+25-34,Female,GCSE,South East,SNP
+55-64,Male,A-level,North West,Green
+35-44,Male,Degree,North West,LibDem
+25-34,Female,None,South East,Green
+45-54,Male,Degree,South East,Conservative
+25-34,Female,A-level,Northern Ireland,Conservative
+18-24,Female,GCSE,Midlands,LibDem
+25-34,Female,Degree,Wales,ReformUK
+65+,Male,GCSE,Scotland,LibDem
+55-64,Male,Degree,North West,Green
+35-44,Female,Degree,North West,Conservative
+18-24,Male,GCSE,Northern Ireland,LibDem
+65+,Female,A-level,London,ReformUK
+55-64,Male,Degree,Midlands,LibDem
+35-44,Male,GCSE,Wales,ReformUK
+18-24,Female,Degree,South East,Labour
+55-64,Female,GCSE,London,LibDem
+55-64,Female,GCSE,London,Conservative
+55-64,Male,GCSE,Wales,Labour
+18-24,Female,None,Midlands,Conservative
+35-44,Female,GCSE,Wales,Green
+25-34,Male,A-level,Midlands,Green
+35-44,Male,GCSE,Scotland,Labour
+65+,Female,None,Midlands,LibDem
+45-54,Female,GCSE,Scotland,LibDem
+45-54,Female,None,Scotland,LibDem
+65+,Male,A-level,Northern Ireland,ReformUK
+18-24,Female,A-level,Wales,Conservative
+45-54,Male,None,Midlands,Labour
+55-64,Male,None,North West,ReformUK
+25-34,Female,A-level,Scotland,ReformUK
+55-64,Male,None,South East,Green
+65+,Male,None,Scotland,LibDem
+45-54,Female,A-level,Scotland,ReformUK
+45-54,Male,None,Northern Ireland,Labour
+25-34,Female,None,Northern Ireland,Labour
+35-44,Male,A-level,Scotland,Green
+18-24,Female,None,London,Conservative
+65+,Female,GCSE,South East,Conservative
+18-24,Male,A-level,Midlands,Conservative
+55-64,Female,A-level,London,LibDem
+65+,Male,Degree,Scotland,ReformUK
+65+,Female,None,Wales,Conservative
+35-44,Male,None,Northern Ireland,LibDem
+35-44,Female,A-level,Scotland,Green
+18-24,Female,Degree,Northern Ireland,Conservative
+45-54,Male,None,London,LibDem
+18-24,Male,GCSE,North West,Labour
+45-54,Male,A-level,South East,Green
+35-44,Female,A-level,Northern Ireland,LibDem
+35-44,Female,None,London,ReformUK
+18-24,Female,GCSE,Scotland,Labour
+65+,Female,None,Wales,Labour
+35-44,Female,A-level,South East,Conservative
+18-24,Male,GCSE,London,Conservative
+18-24,Male,GCSE,Midlands,ReformUK
+65+,Male,A-level,Scotland,Green
+35-44,Male,None,Wales,Conservative
+18-24,Male,A-level,North West,Conservative
+55-64,Female,GCSE,Scotland,LibDem
+18-24,Male,GCSE,North West,Labour
+45-54,Male,GCSE,Wales,Green
+35-44,Female,A-level,Northern Ireland,ReformUK
+45-54,Male,None,Northern Ireland,ReformUK
+45-54,Male,None,London,Conservative
+65+,Male,None,Northern Ireland,Green
+65+,Male,Degree,Scotland,LibDem
+18-24,Female,None,North West,Green
+55-64,Female,A-level,Northern Ireland,Labour
+35-44,Male,GCSE,Scotland,Labour
+45-54,Female,None,Wales,LibDem
+18-24,Female,GCSE,North West,Labour
+25-34,Male,Degree,Wales,Labour
+35-44,Male,A-level,North West,ReformUK
+25-34,Male,None,South East,Labour
+55-64,Female,None,North West,ReformUK
+18-24,Female,GCSE,Wales,Green
+45-54,Female,Degree,Midlands,Green
+45-54,Female,GCSE,Wales,LibDem
+25-34,Female,GCSE,North West,Labour
+65+,Male,None,Scotland,LibDem
+65+,Male,None,Scotland,Labour
+25-34,Female,GCSE,South East,ReformUK
+65+,Female,GCSE,Northern Ireland,Labour
+18-24,Female,Degree,Wales,ReformUK
+35-44,Female,None,South East,Green
+18-24,Female,Degree,Northern Ireland,Labour
+35-44,Male,Degree,Scotland,Conservative
+18-24,Male,Degree,South East,Green
+45-54,Female,GCSE,Midlands,ReformUK
+55-64,Female,None,Scotland,ReformUK
+18-24,Male,Degree,Northern Ireland,ReformUK
+45-54,Female,None,London,LibDem
+35-44,Female,None,South East,ReformUK
+65+,Female,Degree,Wales,ReformUK
+45-54,Male,None,Midlands,LibDem
+45-54,Female,Degree,South East,LibDem
+65+,Female,A-level,Scotland,Conservative
+45-54,Female,GCSE,London,Conservative
+65+,Female,A-level,Midlands,Labour
+55-64,Female,A-level,Scotland,Labour
+35-44,Male,A-level,South East,Conservative
+65+,Male,None,Scotland,Labour
+55-64,Female,GCSE,London,Green
+25-34,Male,GCSE,Northern Ireland,Green
+35-44,Male,Degree,London,Green
+25-34,Male,None,Northern Ireland,ReformUK
+35-44,Male,Degree,Wales,Labour
+65+,Male,Degree,Midlands,Green
+45-54,Female,GCSE,Wales,ReformUK
+65+,Female,Degree,Wales,Conservative
+25-34,Female,A-level,Scotland,LibDem
+35-44,Female,None,Scotland,ReformUK
+35-44,Female,A-level,Scotland,Green
+65+,Female,None,London,Conservative
+55-64,Male,Degree,Midlands,LibDem
+45-54,Male,None,London,Conservative
+18-24,Female,GCSE,South East,LibDem
+45-54,Male,None,Midlands,Conservative
+25-34,Male,GCSE,Midlands,Conservative
+65+,Male,None,Midlands,Green
+35-44,Female,GCSE,South East,Conservative
+35-44,Female,GCSE,South East,LibDem
+35-44,Male,GCSE,South East,LibDem
+55-64,Male,A-level,London,Green
+65+,Male,GCSE,North West,ReformUK
+18-24,Female,Degree,Northern Ireland,ReformUK
+65+,Male,None,Scotland,LibDem
+65+,Male,A-level,London,Green
+18-24,Female,A-level,Midlands,LibDem
+55-64,Male,GCSE,Northern Ireland,Green
+25-34,Male,A-level,Midlands,ReformUK
+18-24,Female,Degree,South East,Labour
+45-54,Female,Degree,Wales,ReformUK
+18-24,Female,GCSE,Midlands,Labour
+18-24,Male,None,Midlands,Green
+65+,Male,None,Northern Ireland,LibDem
+18-24,Female,A-level,Northern Ireland,LibDem
+18-24,Female,GCSE,North West,Green
+35-44,Male,A-level,South East,LibDem
+45-54,Female,GCSE,Wales,ReformUK
+18-24,Male,Degree,Scotland,LibDem
+25-34,Male,Degree,London,Labour
+25-34,Female,GCSE,Scotland,SNP
+25-34,Female,Degree,Wales,Labour
+65+,Female,Degree,North West,LibDem
+35-44,Male,Degree,Scotland,Conservative
+45-54,Male,GCSE,London,ReformUK
+55-64,Male,None,Scotland,Conservative
+35-44,Female,None,North West,LibDem
+65+,Female,None,North West,ReformUK
+65+,Female,None,Midlands,Green
+18-24,Male,A-level,Midlands,LibDem
+18-24,Female,A-level,Northern Ireland,Labour
+25-34,Male,A-level,London,Labour
+18-24,Male,A-level,Northern Ireland,ReformUK
+65+,Female,None,London,Green
+45-54,Male,None,Northern Ireland,LibDem
+55-64,Female,None,Northern Ireland,Labour
+35-44,Female,A-level,Midlands,Green
+65+,Female,A-level,North West,Green
+18-24,Male,GCSE,South East,LibDem
+45-54,Female,GCSE,North West,ReformUK
+18-24,Male,GCSE,South East,ReformUK
+18-24,Male,GCSE,London,Labour
+25-34,Female,GCSE,North West,ReformUK
+25-34,Male,GCSE,Scotland,Green
+35-44,Male,A-level,London,Conservative
+35-44,Male,GCSE,Wales,ReformUK
+55-64,Female,None,North West,LibDem
+65+,Male,GCSE,North West,Labour
+55-64,Female,GCSE,South East,Labour
+55-64,Male,Degree,North West,LibDem
+35-44,Female,A-level,Wales,LibDem
+45-54,Male,A-level,Midlands,ReformUK
+25-34,Male,Degree,Midlands,LibDem
+55-64,Male,A-level,Northern Ireland,Labour
+45-54,Female,Degree,London,ReformUK
+45-54,Female,GCSE,London,ReformUK
+65+,Female,Degree,Wales,SNP
+35-44,Male,Degree,Northern Ireland,SNP
+65+,Male,GCSE,Scotland,Labour
+55-64,Female,None,London,Green
+35-44,Male,Degree,Midlands,Green
+18-24,Male,A-level,London,LibDem
+35-44,Male,Degree,North West,Labour
+45-54,Male,GCSE,Scotland,Conservative
+45-54,Female,None,London,Green
+65+,Male,GCSE,Midlands,Green
+35-44,Male,None,South East,LibDem
+65+,Male,None,London,Green
+25-34,Female,GCSE,Wales,Conservative
+25-34,Female,GCSE,Scotland,LibDem
+18-24,Male,Degree,Midlands,Conservative
+35-44,Male,A-level,Northern Ireland,Green
+25-34,Female,GCSE,Wales,ReformUK
+55-64,Male,None,London,Labour
+25-34,Female,Degree,Scotland,Green
+45-54,Male,Degree,London,Labour
+25-34,Male,GCSE,Midlands,LibDem
+35-44,Female,GCSE,North West,Green
+25-34,Male,A-level,Wales,Conservative
+18-24,Male,A-level,North West,LibDem
+25-34,Male,None,Wales,Conservative
+18-24,Female,Degree,South East,Conservative
+25-34,Female,A-level,Scotland,SNP
+55-64,Female,Degree,Northern Ireland,Labour
+25-34,Male,Degree,Midlands,Green
+55-64,Female,None,Scotland,LibDem
+55-64,Female,Degree,South East,Conservative
+25-34,Female,Degree,North West,ReformUK
+55-64,Male,Degree,Scotland,ReformUK
+18-24,Male,None,North West,ReformUK
+45-54,Female,None,London,LibDem
+25-34,Female,A-level,Midlands,Conservative
+35-44,Male,A-level,Wales,SNP
+65+,Female,None,North West,LibDem
+55-64,Female,GCSE,Midlands,Green
+45-54,Male,None,North West,Conservative
+65+,Male,A-level,Northern Ireland,LibDem
+25-34,Male,A-level,North West,Green
+65+,Female,None,Midlands,Conservative
+18-24,Female,Degree,Northern Ireland,Labour
+65+,Male,GCSE,Wales,Green
+18-24,Male,None,Midlands,ReformUK
+35-44,Female,None,North West,Labour
+65+,Male,A-level,South East,Green
+35-44,Male,GCSE,Northern Ireland,ReformUK
+65+,Female,GCSE,South East,LibDem
+18-24,Female,Degree,Wales,Labour
+55-64,Male,None,Wales,Green
+18-24,Female,A-level,London,Labour
+65+,Female,A-level,Midlands,Conservative
+65+,Male,Degree,South East,Conservative
+25-34,Female,None,Wales,Conservative
+18-24,Female,None,South East,Green
+18-24,Female,A-level,Scotland,Labour
+35-44,Male,A-level,Wales,Labour
+45-54,Male,Degree,North West,LibDem
+45-54,Female,None,London,Labour
+25-34,Female,None,London,ReformUK
+65+,Male,GCSE,Northern Ireland,Conservative
+65+,Male,GCSE,South East,Labour
+18-24,Male,GCSE,North West,LibDem
+35-44,Male,None,Midlands,Labour
+55-64,Male,Degree,North West,Green
+25-34,Female,GCSE,Midlands,ReformUK
+55-64,Female,GCSE,South East,ReformUK
+45-54,Female,None,Midlands,Labour
+55-64,Female,A-level,Scotland,LibDem
+25-34,Male,A-level,Wales,LibDem
+25-34,Female,GCSE,Midlands,LibDem
+25-34,Male,A-level,North West,ReformUK
+45-54,Female,GCSE,Northern Ireland,LibDem
+18-24,Female,A-level,Scotland,Green
+18-24,Female,None,South East,Conservative
+35-44,Male,None,South East,ReformUK
+35-44,Female,None,Northern Ireland,Green
+25-34,Female,GCSE,Wales,Labour
+25-34,Male,GCSE,Wales,Green
+55-64,Female,Degree,London,Green
+55-64,Female,None,Midlands,LibDem
+45-54,Female,Degree,Scotland,ReformUK
+55-64,Female,None,London,Labour
+25-34,Female,GCSE,North West,ReformUK
+65+,Female,Degree,Northern Ireland,LibDem
+18-24,Male,None,Scotland,Labour
+35-44,Male,Degree,Midlands,Conservative
+55-64,Male,GCSE,London,Conservative
+65+,Male,A-level,Scotland,Labour
+45-54,Male,A-level,Northern Ireland,Green
+35-44,Male,A-level,Wales,ReformUK
+35-44,Female,A-level,London,Labour
+35-44,Male,Degree,Northern Ireland,Labour
+65+,Female,None,Midlands,Labour
+25-34,Female,GCSE,Wales,LibDem
+18-24,Male,None,South East,Labour
+55-64,Female,None,North West,Labour
+55-64,Male,None,Wales,ReformUK
+45-54,Male,None,Scotland,LibDem
+35-44,Female,None,Scotland,ReformUK
+25-34,Male,None,Northern Ireland,Conservative
+35-44,Female,None,Scotland,Green
+55-64,Female,GCSE,Midlands,Green
+25-34,Male,GCSE,Wales,Labour
+45-54,Female,A-level,Midlands,LibDem
+35-44,Female,GCSE,Midlands,Labour
+45-54,Female,A-level,South East,LibDem
+45-54,Male,None,South East,ReformUK
+18-24,Female,None,South East,Labour
+18-24,Female,A-level,London,LibDem
+18-24,Female,None,Northern Ireland,LibDem
+35-44,Male,A-level,London,Green
+65+,Female,GCSE,Scotland,LibDem
+65+,Female,None,South East,Conservative
+18-24,Female,GCSE,North West,Labour
+25-34,Female,None,Midlands,LibDem
+55-64,Female,None,North West,Labour
+45-54,Female,Degree,Northern Ireland,Labour
+45-54,Male,Degree,London,Labour
+45-54,Male,A-level,Northern Ireland,ReformUK
+55-64,Male,GCSE,Wales,LibDem
+65+,Female,A-level,South East,LibDem
+35-44,Female,A-level,Northern Ireland,Conservative
+65+,Female,A-level,Northern Ireland,ReformUK
+35-44,Female,A-level,South East,Conservative
+35-44,Female,A-level,Midlands,Green
+45-54,Male,Degree,London,ReformUK
+65+,Male,None,Wales,LibDem
+65+,Female,A-level,Wales,Labour
+65+,Male,None,South East,Labour
+18-24,Female,A-level,Northern Ireland,Green
+18-24,Male,A-level,Wales,Labour
+25-34,Female,A-level,Scotland,Labour
+18-24,Female,Degree,Northern Ireland,Conservative
+55-64,Male,GCSE,Midlands,LibDem
+55-64,Male,Degree,Northern Ireland,Conservative
+25-34,Male,A-level,South East,Labour
+55-64,Female,Degree,South East,Green
+55-64,Female,None,Northern Ireland,LibDem
+55-64,Male,None,London,ReformUK
+25-34,Female,GCSE,North West,ReformUK
+25-34,Male,A-level,London,ReformUK
+18-24,Male,Degree,Scotland,ReformUK
+45-54,Male,A-level,Northern Ireland,Labour
+35-44,Female,None,London,Labour
+25-34,Female,GCSE,London,Conservative
+45-54,Male,Degree,Northern Ireland,Green
+18-24,Male,A-level,Northern Ireland,Green
+25-34,Female,Degree,Midlands,ReformUK
+35-44,Male,A-level,North West,Green
+55-64,Female,None,Northern Ireland,Conservative
+45-54,Male,GCSE,Wales,ReformUK
+45-54,Female,Degree,London,Conservative
+45-54,Male,GCSE,Northern Ireland,SNP
+65+,Female,A-level,Midlands,Conservative
+65+,Female,Degree,Midlands,LibDem
+45-54,Female,Degree,North West,ReformUK
+18-24,Female,Degree,London,ReformUK
+55-64,Male,GCSE,Midlands,Conservative
+45-54,Male,GCSE,Midlands,LibDem
+55-64,Male,Degree,Scotland,Green
+25-34,Male,Degree,Wales,Green
+55-64,Male,Degree,North West,Labour
+18-24,Female,A-level,London,LibDem
+35-44,Male,Degree,North West,Conservative
+18-24,Female,Degree,Midlands,Labour
+55-64,Male,GCSE,Midlands,Green
+65+,Female,A-level,Northern Ireland,Green
+35-44,Male,None,Northern Ireland,ReformUK
+55-64,Female,None,London,ReformUK
+35-44,Male,None,Northern Ireland,LibDem
+18-24,Male,GCSE,Northern Ireland,Labour
+45-54,Male,None,Northern Ireland,Conservative
+25-34,Female,A-level,South East,ReformUK
+35-44,Male,Degree,North West,Labour
+25-34,Male,None,Scotland,LibDem
+35-44,Male,Degree,Wales,Labour
+65+,Female,Degree,Wales,Labour
+35-44,Female,None,Scotland,Conservative
+45-54,Female,GCSE,Northern Ireland,Conservative
+25-34,Female,None,Wales,ReformUK
+45-54,Male,Degree,London,Labour
+45-54,Male,A-level,South East,Green
+65+,Female,Degree,Midlands,ReformUK
+65+,Female,GCSE,London,Labour
+18-24,Male,Degree,Northern Ireland,LibDem
+65+,Male,Degree,Northern Ireland,ReformUK
+35-44,Male,Degree,Wales,Green
+25-34,Male,Degree,South East,LibDem
+55-64,Female,Degree,Wales,Green
+35-44,Female,GCSE,Northern Ireland,Green
+55-64,Male,A-level,Wales,Green
+18-24,Male,None,London,ReformUK
+45-54,Male,None,South East,Green
+45-54,Male,None,Northern Ireland,Conservative
+65+,Male,GCSE,Scotland,Conservative
+65+,Female,A-level,Northern Ireland,Conservative
+25-34,Male,A-level,Wales,Conservative
+18-24,Male,None,South East,Labour
+18-24,Male,None,Scotland,ReformUK
+25-34,Female,Degree,Midlands,ReformUK
+65+,Male,Degree,Wales,Labour
+25-34,Female,A-level,South East,Conservative
+25-34,Female,None,North West,Conservative
+18-24,Female,Degree,Northern Ireland,LibDem
+35-44,Male,None,Midlands,Labour
+18-24,Female,None,South East,Conservative
+45-54,Female,None,Scotland,Labour
+18-24,Male,A-level,Northern Ireland,LibDem
+25-34,Male,GCSE,London,Green
+55-64,Female,None,Midlands,Conservative
+65+,Female,Degree,North West,Green
+45-54,Male,A-level,South East,Green
+55-64,Female,A-level,Midlands,ReformUK
+55-64,Male,Degree,South East,LibDem
+18-24,Female,None,North West,LibDem
+65+,Male,A-level,Wales,Conservative
+35-44,Male,GCSE,South East,Green
+25-34,Female,None,Midlands,Green
+18-24,Female,GCSE,South East,ReformUK
+18-24,Male,None,Midlands,ReformUK
+65+,Male,None,North West,Green
+25-34,Female,Degree,Wales,Conservative
+35-44,Female,None,Northern Ireland,SNP
+18-24,Female,None,London,LibDem
+18-24,Male,None,London,Labour
+55-64,Female,Degree,Scotland,Conservative
+18-24,Female,Degree,South East,Conservative
+18-24,Female,A-level,Scotland,Labour
+25-34,Male,A-level,South East,ReformUK
+18-24,Female,GCSE,Wales,Green
+45-54,Male,A-level,Wales,Green
+45-54,Female,GCSE,Northern Ireland,Conservative
+45-54,Female,None,Wales,Green
+55-64,Female,Degree,London,Conservative
+35-44,Male,GCSE,Scotland,ReformUK
+25-34,Female,GCSE,Wales,SNP
+25-34,Male,A-level,South East,Green
+35-44,Male,None,Wales,LibDem
+45-54,Male,None,Northern Ireland,Conservative
+55-64,Female,GCSE,Northern Ireland,Labour
+25-34,Male,GCSE,South East,ReformUK
+35-44,Male,Degree,Scotland,LibDem
+35-44,Male,GCSE,North West,Labour
+25-34,Female,None,Northern Ireland,Labour
+25-34,Male,GCSE,London,ReformUK
+55-64,Male,Degree,Midlands,LibDem
+45-54,Male,None,Scotland,Labour
+45-54,Female,Degree,Northern Ireland,ReformUK
+45-54,Female,GCSE,North West,ReformUK
+25-34,Male,GCSE,North West,ReformUK
+45-54,Female,A-level,Midlands,Labour
+65+,Male,Degree,London,ReformUK
+45-54,Female,Degree,Midlands,LibDem
+25-34,Female,A-level,South East,Labour
+25-34,Female,None,Midlands,LibDem
+18-24,Female,A-level,Scotland,Conservative
+18-24,Male,GCSE,Scotland,Conservative
+45-54,Male,A-level,North West,Green
+65+,Female,Degree,Scotland,Green
+55-64,Male,None,Scotland,Labour
+45-54,Female,GCSE,Scotland,Green
+18-24,Female,None,Scotland,ReformUK
+25-34,Female,GCSE,London,ReformUK
+18-24,Female,GCSE,Northern Ireland,Labour
+18-24,Female,Degree,Wales,Labour
+25-34,Female,None,Northern Ireland,SNP
+18-24,Male,GCSE,North West,Labour
+25-34,Male,GCSE,North West,Conservative
+18-24,Male,Degree,Northern Ireland,Green
+45-54,Female,GCSE,North West,Labour
+45-54,Female,None,South East,Green
+45-54,Female,None,Wales,Labour
+35-44,Male,GCSE,Scotland,LibDem
+35-44,Male,Degree,North West,LibDem
+35-44,Female,GCSE,London,LibDem
+25-34,Female,A-level,Scotland,Labour
+45-54,Male,Degree,Wales,Labour
+25-34,Male,None,South East,LibDem
+35-44,Female,A-level,Midlands,LibDem
+55-64,Male,Degree,Wales,Conservative
+65+,Female,GCSE,London,ReformUK
+25-34,Male,GCSE,Scotland,Labour
+35-44,Female,Degree,Midlands,ReformUK
+35-44,Male,None,London,ReformUK
+35-44,Male,None,Northern Ireland,LibDem
+45-54,Female,Degree,Northern Ireland,LibDem
+18-24,Male,Degree,Scotland,ReformUK
+25-34,Male,None,Northern Ireland,LibDem
+45-54,Female,Degree,Wales,LibDem
+35-44,Male,None,London,Green
+65+,Male,A-level,North West,Labour
+35-44,Female,GCSE,London,Conservative
+65+,Male,Degree,Midlands,ReformUK
+45-54,Male,GCSE,South East,Conservative
+35-44,Male,A-level,South East,LibDem
+25-34,Male,A-level,South East,ReformUK
+45-54,Male,Degree,South East,Conservative
+35-44,Male,Degree,Scotland,LibDem
+25-34,Male,A-level,South East,Green
+18-24,Female,None,Midlands,LibDem
+45-54,Female,Degree,South East,ReformUK
+65+,Male,A-level,North West,Green
+25-34,Female,None,London,LibDem
+35-44,Male,A-level,London,LibDem
+35-44,Female,None,Midlands,ReformUK
+35-44,Male,None,North West,ReformUK
+55-64,Male,Degree,Midlands,ReformUK
+18-24,Male,GCSE,North West,Green
+35-44,Female,None,North West,Labour
+55-64,Female,Degree,Midlands,Green
+65+,Male,GCSE,Scotland,Labour
+55-64,Female,Degree,Scotland,Conservative
+35-44,Female,Degree,North West,ReformUK
+35-44,Male,A-level,London,Conservative
+18-24,Male,None,North West,Green
+55-64,Male,None,London,Green
+25-34,Male,Degree,Scotland,Conservative
+35-44,Male,None,Wales,Conservative
+65+,Male,Degree,North West,Conservative
+55-64,Female,GCSE,Midlands,Labour
+35-44,Female,None,Midlands,Labour
+55-64,Female,Degree,Scotland,Conservative
+45-54,Male,Degree,North West,Conservative
+18-24,Male,A-level,Northern Ireland,Labour
+45-54,Male,Degree,Scotland,Labour
+25-34,Male,GCSE,North West,LibDem
+65+,Female,A-level,Midlands,LibDem
+35-44,Male,Degree,Wales,LibDem
+65+,Male,Degree,North West,Conservative
+25-34,Male,GCSE,South East,Conservative
+55-64,Male,None,Wales,LibDem
+18-24,Male,A-level,Northern Ireland,Conservative
+18-24,Male,Degree,North West,Labour
+35-44,Female,None,North West,Conservative
+18-24,Male,None,Northern Ireland,LibDem
+18-24,Male,Degree,Midlands,LibDem
+25-34,Male,None,Midlands,Green
+65+,Male,None,Midlands,Conservative
+18-24,Female,None,Northern Ireland,ReformUK
+35-44,Male,A-level,North West,Labour
+25-34,Male,A-level,South East,Labour
+25-34,Female,None,North West,Labour
+35-44,Male,GCSE,Midlands,Conservative
+65+,Female,GCSE,Wales,ReformUK
+35-44,Male,Degree,London,Labour
+25-34,Male,None,London,Labour
+25-34,Male,Degree,North West,LibDem
+45-54,Female,GCSE,Scotland,ReformUK
+65+,Male,GCSE,Scotland,Green
+25-34,Male,Degree,North West,ReformUK
+35-44,Female,GCSE,London,LibDem
+18-24,Female,None,Wales,LibDem
+55-64,Male,None,London,Conservative
+55-64,Female,None,Wales,Labour
+25-34,Male,GCSE,Wales,Labour
+65+,Female,A-level,London,ReformUK
+55-64,Female,Degree,North West,Conservative
+45-54,Male,Degree,Scotland,Labour
+45-54,Male,GCSE,North West,ReformUK
+45-54,Female,A-level,London,Labour
+55-64,Male,GCSE,Northern Ireland,SNP
+45-54,Female,None,South East,ReformUK
+45-54,Male,GCSE,Scotland,ReformUK
+55-64,Male,None,South East,Conservative
+45-54,Female,None,South East,ReformUK
+25-34,Female,Degree,Northern Ireland,Green
+18-24,Male,None,Northern Ireland,ReformUK
+25-34,Female,Degree,South East,LibDem
+18-24,Male,A-level,Midlands,LibDem
+25-34,Female,Degree,Northern Ireland,LibDem
+18-24,Female,GCSE,North West,Green
+55-64,Female,None,London,ReformUK
+18-24,Female,A-level,South East,Green
+18-24,Male,Degree,Midlands,ReformUK
+65+,Male,None,Scotland,Green
+45-54,Male,GCSE,North West,ReformUK
+45-54,Male,A-level,Midlands,LibDem
+45-54,Female,A-level,Northern Ireland,ReformUK
+18-24,Female,A-level,Northern Ireland,Labour
+25-34,Female,Degree,Scotland,Labour
+55-64,Female,GCSE,Wales,Labour
+55-64,Female,GCSE,London,Green
+65+,Female,None,Wales,Green
+35-44,Female,Degree,Scotland,Labour
+18-24,Female,A-level,Scotland,Green
+55-64,Female,None,Wales,Green
+65+,Male,None,Scotland,Labour
+45-54,Female,Degree,Northern Ireland,Conservative
+25-34,Male,Degree,London,Green
+55-64,Female,None,Midlands,Labour
+35-44,Male,A-level,South East,Conservative
+45-54,Female,GCSE,South East,Labour
+35-44,Female,A-level,London,LibDem
+45-54,Female,None,Wales,Labour
+18-24,Male,None,South East,Labour
+55-64,Male,None,Wales,ReformUK
+45-54,Male,None,North West,LibDem
+45-54,Male,Degree,Midlands,Labour
+25-34,Male,Degree,North West,Green
+35-44,Female,None,Midlands,LibDem
+35-44,Male,GCSE,South East,Labour
+35-44,Male,Degree,Northern Ireland,Conservative
+45-54,Male,Degree,Northern Ireland,Conservative
+35-44,Female,A-level,Wales,ReformUK
+35-44,Male,A-level,Scotland,Labour
+65+,Male,None,London,Conservative
+35-44,Female,Degree,Wales,Labour
+45-54,Male,Degree,Midlands,ReformUK
+55-64,Male,None,North West,Labour
+35-44,Male,GCSE,South East,Conservative
+45-54,Male,GCSE,North West,Conservative
+35-44,Male,A-level,North West,Green
+55-64,Female,A-level,South East,Conservative
+35-44,Female,Degree,North West,LibDem
+35-44,Female,Degree,Midlands,Conservative
+18-24,Female,None,Wales,Green
+35-44,Female,None,Midlands,ReformUK
+45-54,Male,None,Wales,Green
+25-34,Male,None,Northern Ireland,Green
+45-54,Female,None,Northern Ireland,Labour
+45-54,Male,Degree,Northern Ireland,Green
+18-24,Male,GCSE,London,LibDem
+65+,Female,A-level,Wales,ReformUK
+25-34,Female,None,Northern Ireland,LibDem
+65+,Male,None,London,Green
+18-24,Male,Degree,Northern Ireland,LibDem
+45-54,Male,Degree,Midlands,Conservative
+25-34,Male,A-level,Scotland,Green
+65+,Male,None,North West,LibDem
+35-44,Female,A-level,North West,ReformUK
+55-64,Male,None,North West,Labour
+45-54,Male,A-level,Wales,ReformUK
+45-54,Male,GCSE,Wales,Conservative
+35-44,Female,GCSE,Scotland,Labour
+35-44,Male,GCSE,Wales,Labour
+65+,Female,Degree,Scotland,LibDem
+18-24,Male,A-level,South East,ReformUK
+18-24,Male,Degree,Northern Ireland,LibDem
+65+,Male,A-level,North West,LibDem
+35-44,Male,None,Wales,LibDem
+35-44,Female,Degree,Wales,LibDem
+35-44,Female,None,North West,Conservative
+18-24,Male,None,Northern Ireland,Labour
+55-64,Male,GCSE,London,Conservative
+35-44,Male,Degree,Wales,LibDem
+45-54,Female,A-level,North West,LibDem
+55-64,Male,Degree,London,Conservative
+35-44,Male,A-level,London,Conservative
+35-44,Male,A-level,Midlands,Labour
+55-64,Female,GCSE,London,ReformUK
+55-64,Female,GCSE,South East,Labour
+18-24,Male,Degree,North West,ReformUK
+45-54,Male,GCSE,North West,LibDem
+45-54,Female,A-level,Scotland,ReformUK
+55-64,Male,Degree,London,Conservative
+25-34,Male,A-level,Wales,Labour
+25-34,Female,A-level,Midlands,Conservative
+35-44,Female,A-level,South East,Conservative
+18-24,Male,A-level,Scotland,Conservative
+35-44,Male,A-level,Midlands,LibDem
+18-24,Male,None,London,ReformUK
+25-34,Female,A-level,Midlands,LibDem
+35-44,Male,None,Wales,Labour
+35-44,Male,None,Wales,ReformUK
+18-24,Female,A-level,South East,LibDem
+18-24,Male,A-level,Midlands,Labour
+55-64,Female,None,Wales,Labour
+65+,Male,None,South East,ReformUK
+35-44,Male,Degree,London,ReformUK
+45-54,Male,Degree,London,ReformUK
+65+,Female,None,Wales,Labour
+25-34,Male,A-level,Midlands,Green
+55-64,Female,Degree,North West,ReformUK
+65+,Female,Degree,Northern Ireland,Green
+25-34,Male,None,South East,Green
+65+,Male,Degree,Northern Ireland,Conservative
+18-24,Male,None,London,Green
+25-34,Male,A-level,North West,Green
+55-64,Male,GCSE,Midlands,Labour
+25-34,Male,None,South East,ReformUK
+35-44,Male,A-level,Northern Ireland,Labour
+65+,Male,GCSE,Scotland,Green
+25-34,Female,A-level,South East,Labour
+18-24,Female,None,South East,Conservative
+55-64,Female,A-level,London,LibDem
+18-24,Male,A-level,North West,Conservative
+45-54,Female,Degree,South East,ReformUK
+45-54,Female,A-level,Northern Ireland,ReformUK
+35-44,Female,None,Scotland,LibDem
+65+,Male,GCSE,South East,Labour
+65+,Female,None,Scotland,Conservative
+65+,Female,GCSE,South East,LibDem
+65+,Male,A-level,South East,ReformUK
+25-34,Male,A-level,Wales,Green
+55-64,Male,Degree,Wales,ReformUK
+55-64,Female,None,Scotland,Conservative
+55-64,Female,A-level,Scotland,Conservative
+45-54,Female,A-level,Wales,Conservative
+35-44,Female,None,Midlands,Green
+55-64,Female,Degree,Wales,LibDem
+18-24,Male,None,Scotland,SNP
+35-44,Female,Degree,Midlands,Labour
+55-64,Female,A-level,North West,ReformUK
+45-54,Male,None,Northern Ireland,Conservative
+25-34,Male,GCSE,North West,Labour
+65+,Female,GCSE,London,Conservative
+55-64,Male,Degree,London,ReformUK
+55-64,Male,None,London,Labour
+18-24,Male,A-level,Scotland,Labour
+45-54,Female,GCSE,Midlands,ReformUK
+55-64,Female,Degree,Northern Ireland,ReformUK
+35-44,Female,Degree,Scotland,Labour
+18-24,Male,Degree,Midlands,LibDem
+55-64,Female,GCSE,London,Conservative
+45-54,Female,GCSE,Scotland,Green
+25-34,Female,Degree,North West,ReformUK
+65+,Female,None,Scotland,SNP
+55-64,Male,GCSE,South East,ReformUK
+65+,Male,None,Scotland,Green
+65+,Male,GCSE,North West,Labour
+25-34,Male,None,South East,LibDem
+65+,Male,Degree,South East,Green
+25-34,Male,A-level,South East,LibDem
+35-44,Male,A-level,Scotland,Green
+55-64,Female,Degree,North West,LibDem
+18-24,Male,A-level,Midlands,Labour
+45-54,Female,Degree,Northern Ireland,Labour
+65+,Female,A-level,North West,LibDem
+18-24,Female,Degree,Wales,Green
+55-64,Male,None,Northern Ireland,LibDem
+35-44,Female,Degree,South East,Green
+65+,Female,GCSE,South East,Conservative
+45-54,Male,GCSE,Northern Ireland,Conservative
+65+,Male,None,Wales,ReformUK
+18-24,Female,GCSE,Wales,Labour
+45-54,Male,GCSE,South East,Green
+35-44,Female,GCSE,Northern Ireland,Green
+45-54,Male,A-level,South East,Labour
+18-24,Male,None,Northern Ireland,LibDem
+25-34,Male,GCSE,North West,Green
+45-54,Female,Degree,South East,Green
+35-44,Male,GCSE,Wales,Conservative
+18-24,Male,Degree,Midlands,LibDem
+18-24,Female,GCSE,Midlands,ReformUK
+25-34,Male,GCSE,London,LibDem
+25-34,Male,GCSE,Midlands,Conservative
+55-64,Female,GCSE,North West,Labour
+25-34,Female,Degree,Northern Ireland,Conservative
+45-54,Male,Degree,Wales,ReformUK
+25-34,Female,GCSE,Northern Ireland,LibDem
+18-24,Male,Degree,Northern Ireland,Labour
+65+,Female,GCSE,North West,ReformUK
+25-34,Female,A-level,Northern Ireland,ReformUK
+35-44,Female,A-level,Northern Ireland,Conservative
+25-34,Female,Degree,Midlands,ReformUK
+18-24,Male,Degree,Midlands,Green
+65+,Female,Degree,Scotland,ReformUK
+35-44,Female,None,London,Conservative
+55-64,Male,Degree,Midlands,ReformUK
+45-54,Female,GCSE,Scotland,Green
+35-44,Female,GCSE,Northern Ireland,ReformUK
+45-54,Male,Degree,North West,ReformUK
+18-24,Female,Degree,London,Conservative
+45-54,Male,Degree,South East,Labour
+18-24,Female,None,Northern Ireland,Green
+18-24,Female,A-level,London,Labour
+25-34,Male,Degree,Northern Ireland,Green
+65+,Male,Degree,Scotland,Conservative
+35-44,Male,GCSE,London,LibDem
+18-24,Male,Degree,Midlands,Conservative
+55-64,Female,Degree,Scotland,LibDem
+18-24,Male,A-level,Wales,LibDem
+55-64,Female,A-level,North West,LibDem
+55-64,Female,None,South East,Green
+18-24,Male,GCSE,Wales,Green
+25-34,Male,None,Midlands,Green
+45-54,Female,Degree,Midlands,Conservative
+35-44,Female,None,Midlands,LibDem
+35-44,Female,A-level,Scotland,ReformUK
+55-64,Male,Degree,Northern Ireland,Green
+18-24,Male,Degree,Midlands,Labour
+65+,Female,Degree,Scotland,Green
+55-64,Female,None,London,Labour
+45-54,Female,Degree,Midlands,Conservative
+45-54,Female,None,South East,Green
+45-54,Female,GCSE,South East,Labour
+18-24,Female,None,South East,Labour
+18-24,Female,None,Wales,Labour
+18-24,Female,A-level,London,SNP
+25-34,Male,None,South East,Labour
+25-34,Female,Degree,South East,Labour
+65+,Male,Degree,Midlands,Conservative
+18-24,Female,GCSE,North West,LibDem
+45-54,Male,GCSE,London,Conservative
+35-44,Male,Degree,South East,Conservative
+55-64,Female,Degree,London,Conservative
+35-44,Female,GCSE,Scotland,ReformUK
+65+,Male,None,London,LibDem
+18-24,Male,GCSE,Midlands,Green
+35-44,Female,GCSE,Midlands,Conservative
+35-44,Male,Degree,Wales,Conservative
+18-24,Male,Degree,North West,ReformUK
+45-54,Male,Degree,Northern Ireland,ReformUK
+45-54,Male,GCSE,Scotland,Conservative
+55-64,Male,GCSE,Scotland,Labour
+18-24,Female,A-level,London,ReformUK
+45-54,Male,None,South East,ReformUK
+25-34,Female,None,North West,Labour
+55-64,Male,GCSE,South East,Labour
+55-64,Female,GCSE,North West,Conservative
+45-54,Female,GCSE,Northern Ireland,ReformUK
+18-24,Male,GCSE,London,ReformUK
+35-44,Female,GCSE,South East,Green
+65+,Male,Degree,Midlands,Labour
+25-34,Female,A-level,South East,ReformUK
+18-24,Male,Degree,London,Green
+25-34,Female,Degree,Midlands,Green
+25-34,Male,None,London,Green
+55-64,Male,Degree,Northern Ireland,ReformUK
+45-54,Male,GCSE,North West,Labour
+65+,Male,Degree,Scotland,ReformUK
+65+,Female,None,Wales,ReformUK
+45-54,Female,Degree,South East,Green
+65+,Female,A-level,London,Green
+55-64,Male,A-level,South East,Labour
+45-54,Female,A-level,South East,Labour
+25-34,Male,None,London,LibDem
+45-54,Male,Degree,Scotland,Conservative
+35-44,Female,None,South East,ReformUK
+18-24,Male,GCSE,South East,ReformUK
+35-44,Female,Degree,South East,Labour
+55-64,Female,GCSE,Scotland,Conservative
+65+,Female,Degree,Wales,LibDem
+45-54,Male,None,North West,ReformUK
+45-54,Female,GCSE,Northern Ireland,LibDem
+35-44,Male,GCSE,Midlands,ReformUK
+25-34,Male,A-level,North West,Labour
+45-54,Female,A-level,Wales,Labour
+45-54,Female,None,London,Green
+18-24,Male,None,South East,LibDem
+18-24,Female,None,South East,ReformUK
+45-54,Female,None,Midlands,Green
+55-64,Female,Degree,London,Conservative
+65+,Male,None,Scotland,Labour
+65+,Male,A-level,Wales,Conservative
+35-44,Female,Degree,Northern Ireland,ReformUK
+55-64,Female,Degree,Midlands,ReformUK
+25-34,Female,GCSE,Scotland,ReformUK
+25-34,Female,None,South East,Green
+35-44,Male,None,Wales,LibDem
+35-44,Male,Degree,South East,SNP
+45-54,Female,A-level,Northern Ireland,LibDem
+35-44,Female,None,Midlands,LibDem
+65+,Female,None,London,Labour
+55-64,Male,A-level,Wales,Green
+55-64,Male,Degree,Northern Ireland,ReformUK
+18-24,Female,Degree,Midlands,LibDem
+35-44,Male,None,North West,ReformUK
+45-54,Female,GCSE,Midlands,LibDem
+65+,Female,None,North West,Labour
+45-54,Female,None,Northern Ireland,ReformUK
+18-24,Male,A-level,North West,Green
+35-44,Female,Degree,North West,Labour
+65+,Male,A-level,Scotland,Green
+65+,Female,A-level,Northern Ireland,Green
+25-34,Male,Degree,Scotland,Labour
+55-64,Female,None,Midlands,ReformUK
+45-54,Female,Degree,London,LibDem
+18-24,Female,None,South East,Green
+65+,Male,A-level,Scotland,Labour
+55-64,Male,Degree,Wales,Conservative
+25-34,Male,Degree,Scotland,Labour
+18-24,Male,Degree,South East,Labour
+55-64,Male,A-level,South East,LibDem
+55-64,Male,A-level,South East,LibDem
+55-64,Male,GCSE,North West,Conservative
+25-34,Male,GCSE,Midlands,Green
+25-34,Male,GCSE,London,Labour
+45-54,Male,A-level,South East,Labour
+55-64,Female,Degree,North West,Conservative
+18-24,Male,GCSE,Northern Ireland,Conservative
+65+,Female,None,Wales,LibDem
+35-44,Female,None,Midlands,LibDem
+55-64,Male,A-level,North West,ReformUK
+35-44,Female,A-level,Scotland,Conservative
+18-24,Male,None,Northern Ireland,Labour
+35-44,Female,A-level,Northern Ireland,LibDem
+18-24,Male,GCSE,Wales,LibDem
+35-44,Female,None,London,ReformUK
+65+,Male,GCSE,London,Labour
+55-64,Female,GCSE,Northern Ireland,Conservative
+55-64,Male,None,Northern Ireland,LibDem
+65+,Female,Degree,Midlands,LibDem
+45-54,Male,GCSE,North West,Labour
+18-24,Female,A-level,Midlands,Conservative
+65+,Male,GCSE,North West,ReformUK
+45-54,Female,GCSE,Wales,LibDem
+18-24,Female,None,Northern Ireland,Labour
+18-24,Male,A-level,South East,Conservative
+35-44,Male,A-level,North West,ReformUK
+18-24,Female,A-level,North West,Conservative
+25-34,Female,Degree,North West,Green
+55-64,Male,Degree,Wales,ReformUK
+18-24,Female,None,Scotland,LibDem
+65+,Male,None,South East,ReformUK
+45-54,Male,GCSE,Wales,Labour
+45-54,Male,Degree,Northern Ireland,ReformUK
+18-24,Female,Degree,London,ReformUK
+18-24,Male,A-level,Scotland,LibDem
+25-34,Male,A-level,Northern Ireland,LibDem
+65+,Female,GCSE,North West,LibDem
+55-64,Male,None,North West,Conservative
+65+,Male,None,Wales,Green
+65+,Male,GCSE,North West,ReformUK
+25-34,Male,GCSE,Midlands,LibDem
+45-54,Female,A-level,London,ReformUK
+65+,Female,GCSE,Scotland,LibDem
+18-24,Male,Degree,London,Conservative
+35-44,Female,A-level,Wales,Conservative
+18-24,Male,GCSE,North West,Conservative
+55-64,Male,Degree,Northern Ireland,LibDem
+65+,Male,None,London,Conservative
+35-44,Female,Degree,Scotland,Labour
+55-64,Female,Degree,Wales,Labour
+18-24,Female,None,Scotland,Green
+25-34,Female,A-level,Northern Ireland,Conservative
+45-54,Male,A-level,South East,LibDem
+18-24,Female,GCSE,Midlands,ReformUK
+35-44,Male,Degree,London,Conservative
+35-44,Female,None,Northern Ireland,Conservative
+45-54,Female,None,Northern Ireland,Conservative
+45-54,Male,Degree,London,Green
+25-34,Female,A-level,Midlands,LibDem
+18-24,Male,Degree,South East,ReformUK
+65+,Male,None,South East,Conservative
+65+,Male,A-level,London,ReformUK
+65+,Male,A-level,North West,ReformUK
+65+,Female,None,London,ReformUK
+18-24,Female,A-level,Wales,ReformUK
+35-44,Female,None,Midlands,Conservative
+65+,Female,None,Northern Ireland,LibDem
+65+,Male,GCSE,London,Labour
+25-34,Male,GCSE,South East,Labour
+45-54,Male,None,Scotland,Green
+65+,Male,Degree,North West,ReformUK
+65+,Male,Degree,Midlands,Green
+45-54,Male,A-level,North West,LibDem
+55-64,Male,A-level,Midlands,LibDem
+65+,Male,GCSE,Wales,ReformUK
+55-64,Female,None,Midlands,SNP
+25-34,Female,None,Wales,Labour
+18-24,Female,None,South East,Conservative
+35-44,Male,GCSE,North West,Green
+45-54,Female,A-level,Scotland,ReformUK
+18-24,Male,Degree,London,Labour
+65+,Male,GCSE,London,LibDem
+45-54,Female,GCSE,Midlands,Green
+65+,Male,Degree,North West,LibDem
+65+,Male,A-level,London,Conservative
+18-24,Male,None,Midlands,Labour
+18-24,Female,GCSE,Scotland,Labour
+25-34,Male,None,Midlands,Green
+35-44,Female,GCSE,Northern Ireland,ReformUK
+18-24,Male,GCSE,Northern Ireland,Conservative
+25-34,Male,GCSE,North West,LibDem
+45-54,Female,A-level,South East,ReformUK
+35-44,Female,None,Scotland,Labour
+55-64,Female,Degree,Midlands,Green
+65+,Female,None,Wales,LibDem
+25-34,Female,A-level,North West,Conservative
+45-54,Female,GCSE,Wales,ReformUK
+65+,Male,GCSE,North West,LibDem
+35-44,Male,A-level,Wales,Labour
+45-54,Female,GCSE,Midlands,Labour
+65+,Male,None,South East,ReformUK
+55-64,Male,GCSE,Midlands,Conservative
+35-44,Male,A-level,Scotland,Labour
+25-34,Male,Degree,South East,Conservative
