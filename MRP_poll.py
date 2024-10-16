@@ -1,4 +1,4 @@
-import random 
+import random
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -7,11 +7,11 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LogisticRegression
 
 # Define parties and regions
-parties = [ 'Labour', 'Conservative', 'Reform UK', 'Liberal Democrats', 'Green Party of England and Wales',
- 'Scottish National Party' ]
+parties = ['Labour', 'Conservative', 'Reform UK', 'Liberal Democrats', 'Green Party of England and Wales',
+           'Scottish National Party']
 
-regions = [ 'Wales', 'Scotland', 'North East', 'North West', 'Yorkshire and The Humber', 'East Midlands', 
-    'West Midlands', 'East of England', 'London', 'South East', 'South West']
+regions = ['Wales', 'Scotland', 'North East', 'North West', 'Yorkshire and The Humber', 'East Midlands',
+           'West Midlands', 'East of England', 'London', 'South East', 'South West']
 
 # Adjusted distributions based on UK statistics
 age_distribution = ['18-24', '25-34', '35-44', '45-54', '55-64', '65+']
@@ -70,6 +70,12 @@ X_train_scaled = scaler.fit_transform(X_train)
 log_reg = LogisticRegression(solver='lbfgs', penalty='l2', max_iter=1000)
 log_reg.fit(X_train_scaled, y_train.codes)  # Use y_train.codes for categorical labels
 
+# Evaluate model performance on the test set
+X_test_scaled = scaler.transform(X_test)
+y_pred = log_reg.predict(X_test_scaled)
+accuracy = np.mean(y_pred == y_test.codes)
+print("Test set accuracy:", accuracy)
+
 # Apply the model to each constituency
 constituency_results = []
 
@@ -77,35 +83,44 @@ constituency_results = []
 full_columns = X_train.columns  # Ensure these are the columns used in training the model
 
 for idx, row in constituency_data.iterrows():
-    # Create demographic factors for the constituency
-    demographic_data = {
-        'age': random.choice(age_distribution),
-        'gender': random.choice(['Male', 'Female']),
-        'education': random.choice(education_distribution),
-        'income': random.choice(income_distribution),
-        'region': row['region']
-    }
-    
-    # Create a DataFrame with a single row
-    demographic_factors = pd.DataFrame(demographic_data, index=[0])
-    
-    # Create dummy variables
-    demographic_factors = pd.get_dummies(demographic_factors, drop_first=True)
-    
-    # Ensure demographic_factors has all columns from the model
-    demographic_factors = demographic_factors.reindex(columns=full_columns, fill_value=0)
+    # Initialize votes for this constituency
+    constituency_votes = np.zeros(len(parties))
 
-    # Scale the features using the same scaler used on the training data
-    demographic_factors_scaled = scaler.transform(demographic_factors)
+    # Sample multiple demographic profiles within this constituency
+    num_samples = 100  # Number of demographic samples per constituency
+    for _ in range(num_samples):
+        # Create demographic factors for the constituency
+        demographic_data = {
+            'age': random.choice(age_distribution),
+            'gender': random.choice(['Male', 'Female']),
+            'education': random.choice(education_distribution),
+            'income': random.choice(income_distribution),
+            'region': row['region']
+        }
 
-    # Predict party preference probabilities for this demographic group
-    predicted_probs = log_reg.predict_proba(demographic_factors_scaled)
+        # Create a DataFrame with a single row
+        demographic_factors = pd.DataFrame(demographic_data, index=[0])
 
-    # Calculate predicted votes based on population size
-    votes = predicted_probs * row['population']
-    
-    # Sum votes across parties for the constituency
-    constituency_results.append(votes.flatten())
+        # Create dummy variables
+        demographic_factors = pd.get_dummies(demographic_factors, drop_first=True)
+
+        # Ensure demographic_factors has all columns from the model
+        demographic_factors = demographic_factors.reindex(columns=full_columns, fill_value=0)
+
+        # Scale the features using the same scaler used on the training data
+        demographic_factors_scaled = scaler.transform(demographic_factors)
+
+        # Predict party preference probabilities for this demographic group
+        predicted_probs = log_reg.predict_proba(demographic_factors_scaled)
+
+        # Add the predicted probabilities to the total votes for this constituency
+        constituency_votes += predicted_probs.flatten()
+
+    # Multiply votes by the population size to scale to the actual constituency size
+    constituency_votes *= row['population'] / num_samples
+
+    # Append the total votes for this constituency
+    constituency_results.append(constituency_votes)
 
 # Convert results into a 2D array (500 constituencies, 6 parties)
 constituency_results_2d = np.array(constituency_results)
@@ -129,3 +144,11 @@ regional_results = final_results.groupby('region')['winner'].value_counts().unst
 # Check the results
 print("Overall seat count by party:\n", overall_results)
 print("\nSeat count by party in each region:\n", regional_results)
+
+# Plot overall seat count by party
+overall_results.plot(kind='bar', title='Overall Seat Count by Party', ylabel='Number of Seats')
+plt.show()
+
+# Plot seat count by region for each party
+regional_results.plot(kind='bar', stacked=True, title='Seats by Party in Each Region', ylabel='Number of Seats')
+plt.show()
