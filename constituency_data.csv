@@ -1,501 +1,501 @@
-constituency,age_group,gender,education_level,population
-Constituency3,65+,Male,GCSE,1143
-Constituency1,35-44,Female,GCSE,2519
-Constituency3,45-54,Female,Degree,6107
-Constituency3,55-64,Female,GCSE,6008
-Constituency5,18-24,Female,None,3971
-Constituency4,18-24,Male,Degree,9741
-Constituency5,55-64,Female,A-level,1384
-Constituency5,45-54,Male,Degree,9376
-Constituency1,45-54,Male,Degree,4671
-Constituency1,65+,Male,None,5347
-Constituency1,25-34,Male,GCSE,4625
-Constituency3,45-54,Male,GCSE,4240
-Constituency5,65+,Male,Degree,1124
-Constituency2,18-24,Male,GCSE,7203
-Constituency4,55-64,Male,GCSE,4872
-Constituency3,18-24,Female,Degree,1693
-Constituency4,18-24,Female,None,7895
-Constituency3,25-34,Female,GCSE,2924
-Constituency2,65+,Female,Degree,7924
-Constituency2,35-44,Female,Degree,2139
-Constituency5,35-44,Male,GCSE,5893
-Constituency5,25-34,Female,GCSE,3640
-Constituency3,45-54,Male,GCSE,9903
-Constituency2,45-54,Male,Degree,6793
-Constituency2,35-44,Male,None,9901
-Constituency3,18-24,Male,None,4561
-Constituency1,18-24,Female,A-level,9959
-Constituency2,65+,Female,GCSE,4669
-Constituency1,25-34,Male,A-level,8174
-Constituency1,55-64,Female,A-level,6366
-Constituency3,25-34,Female,None,7961
-Constituency4,18-24,Female,Degree,2765
-Constituency4,25-34,Female,Degree,7857
-Constituency5,65+,Male,None,3369
-Constituency5,55-64,Male,GCSE,4149
-Constituency1,65+,Female,None,3031
-Constituency4,65+,Male,None,1999
-Constituency5,18-24,Male,Degree,7565
-Constituency3,35-44,Male,Degree,6268
-Constituency2,65+,Male,Degree,1128
-Constituency4,45-54,Female,Degree,6783
-Constituency2,55-64,Female,None,1987
-Constituency3,55-64,Female,Degree,2928
-Constituency2,25-34,Female,None,8028
-Constituency5,25-34,Female,Degree,9895
-Constituency1,25-34,Female,A-level,1131
-Constituency5,25-34,Female,GCSE,1243
-Constituency5,35-44,Female,Degree,6500
-Constituency1,65+,Female,None,2233
-Constituency1,65+,Male,GCSE,2949
-Constituency3,55-64,Female,GCSE,8417
-Constituency4,65+,Female,A-level,8016
-Constituency5,45-54,Female,Degree,9432
-Constituency3,55-64,Male,Degree,9917
-Constituency1,25-34,Female,GCSE,6445
-Constituency5,25-34,Female,GCSE,4225
-Constituency2,25-34,Male,Degree,3467
-Constituency5,65+,Male,None,3125
-Constituency2,35-44,Female,None,2499
-Constituency5,55-64,Male,None,7571
-Constituency4,55-64,Female,A-level,1055
-Constituency4,45-54,Male,GCSE,5666
-Constituency1,55-64,Female,None,6669
-Constituency4,25-34,Male,Degree,1020
-Constituency4,18-24,Female,Degree,7583
-Constituency2,35-44,Male,Degree,7577
-Constituency1,25-34,Female,A-level,1846
-Constituency3,45-54,Male,GCSE,2623
-Constituency2,25-34,Female,Degree,5394
-Constituency3,25-34,Female,None,3408
-Constituency5,25-34,Female,None,3470
-Constituency3,25-34,Male,Degree,3900
-Constituency3,35-44,Male,A-level,2275
-Constituency5,45-54,Male,None,6589
-Constituency1,35-44,Male,None,6303
-Constituency5,55-64,Female,None,5470
-Constituency2,25-34,Female,A-level,5643
-Constituency4,45-54,Female,Degree,5971
-Constituency1,45-54,Female,A-level,7752
-Constituency1,55-64,Female,None,6721
-Constituency1,25-34,Male,A-level,2727
-Constituency5,25-34,Male,GCSE,8976
-Constituency5,35-44,Male,A-level,6400
-Constituency4,35-44,Male,GCSE,9198
-Constituency4,35-44,Male,A-level,7533
-Constituency4,55-64,Female,None,7792
-Constituency2,35-44,Male,Degree,9869
-Constituency2,45-54,Female,None,5268
-Constituency5,25-34,Male,GCSE,7645
-Constituency4,35-44,Male,None,3507
-Constituency1,25-34,Female,GCSE,1257
-Constituency5,55-64,Female,None,2374
-Constituency4,25-34,Male,None,4678
-Constituency1,55-64,Female,Degree,8808
-Constituency1,25-34,Female,GCSE,4420
-Constituency2,25-34,Female,None,1180
-Constituency2,65+,Female,A-level,7176
-Constituency2,25-34,Female,A-level,2930
-Constituency3,35-44,Male,Degree,2493
-Constituency1,55-64,Male,A-level,6488
-Constituency3,45-54,Female,A-level,1059
-Constituency2,65+,Female,None,3894
-Constituency5,65+,Male,A-level,9455
-Constituency4,18-24,Male,None,9099
-Constituency1,18-24,Female,A-level,7879
-Constituency3,45-54,Male,Degree,1298
-Constituency1,65+,Female,None,3568
-Constituency3,65+,Female,None,4151
-Constituency2,45-54,Female,Degree,6450
-Constituency2,35-44,Female,GCSE,3582
-Constituency4,65+,Male,GCSE,3510
-Constituency2,18-24,Female,GCSE,2129
-Constituency5,45-54,Female,A-level,3584
-Constituency5,35-44,Female,None,3491
-Constituency4,55-64,Female,None,5258
-Constituency2,65+,Male,GCSE,3561
-Constituency3,25-34,Female,A-level,3767
-Constituency1,45-54,Male,GCSE,4153
-Constituency1,35-44,Female,A-level,6603
-Constituency2,65+,Male,None,5257
-Constituency5,45-54,Female,GCSE,8811
-Constituency2,35-44,Female,A-level,6088
-Constituency3,25-34,Male,Degree,7797
-Constituency5,18-24,Female,A-level,1208
-Constituency5,65+,Male,GCSE,2409
-Constituency5,55-64,Female,GCSE,5453
-Constituency1,18-24,Female,None,5197
-Constituency4,25-34,Male,Degree,6236
-Constituency1,65+,Male,None,2488
-Constituency5,35-44,Male,A-level,6535
-Constituency1,55-64,Female,Degree,5811
-Constituency4,65+,Female,GCSE,3016
-Constituency1,45-54,Male,GCSE,3738
-Constituency5,25-34,Female,GCSE,6669
-Constituency4,18-24,Male,GCSE,8706
-Constituency2,35-44,Female,GCSE,2555
-Constituency1,55-64,Male,GCSE,4089
-Constituency1,18-24,Female,None,2343
-Constituency3,35-44,Female,A-level,7355
-Constituency4,65+,Male,A-level,7132
-Constituency3,18-24,Female,GCSE,2925
-Constituency3,18-24,Female,Degree,1862
-Constituency1,25-34,Female,A-level,5774
-Constituency5,18-24,Male,Degree,5123
-Constituency2,45-54,Female,Degree,5170
-Constituency3,45-54,Female,Degree,1895
-Constituency4,65+,Female,GCSE,4339
-Constituency1,35-44,Female,GCSE,6629
-Constituency5,45-54,Male,None,2108
-Constituency3,18-24,Female,Degree,4179
-Constituency2,25-34,Female,None,6984
-Constituency1,35-44,Female,GCSE,9545
-Constituency5,65+,Female,GCSE,7644
-Constituency4,25-34,Female,None,9558
-Constituency5,45-54,Female,Degree,1920
-Constituency2,18-24,Male,Degree,8954
-Constituency3,45-54,Female,Degree,8769
-Constituency3,65+,Female,Degree,5213
-Constituency3,65+,Male,None,5078
-Constituency2,35-44,Male,A-level,7386
-Constituency2,65+,Male,A-level,8313
-Constituency5,35-44,Male,GCSE,2477
-Constituency1,55-64,Male,A-level,2412
-Constituency3,45-54,Female,Degree,1632
-Constituency1,55-64,Female,None,8542
-Constituency4,35-44,Male,None,5248
-Constituency1,65+,Female,None,7981
-Constituency3,35-44,Male,GCSE,4070
-Constituency3,65+,Male,Degree,5577
-Constituency2,18-24,Female,None,3499
-Constituency4,18-24,Male,None,1761
-Constituency2,18-24,Female,GCSE,6042
-Constituency2,25-34,Male,None,7703
-Constituency3,45-54,Female,GCSE,7201
-Constituency4,35-44,Female,A-level,4751
-Constituency5,18-24,Female,GCSE,1403
-Constituency5,25-34,Male,None,8648
-Constituency3,35-44,Female,Degree,1969
-Constituency1,65+,Male,Degree,1188
-Constituency4,55-64,Female,Degree,2686
-Constituency2,35-44,Female,None,1024
-Constituency4,35-44,Female,A-level,8621
-Constituency3,35-44,Female,Degree,7490
-Constituency3,25-34,Female,GCSE,3290
-Constituency3,45-54,Female,None,8710
-Constituency4,35-44,Male,None,4250
-Constituency4,25-34,Male,A-level,5882
-Constituency1,18-24,Male,None,2643
-Constituency2,45-54,Male,GCSE,1398
-Constituency1,35-44,Female,Degree,6576
-Constituency1,35-44,Male,None,1253
-Constituency1,18-24,Male,None,3615
-Constituency3,55-64,Male,GCSE,4506
-Constituency3,65+,Female,Degree,4843
-Constituency3,25-34,Female,Degree,7240
-Constituency5,65+,Male,GCSE,6394
-Constituency4,18-24,Male,Degree,5536
-Constituency4,65+,Male,None,9231
-Constituency3,45-54,Female,GCSE,8316
-Constituency4,65+,Male,GCSE,1998
-Constituency2,25-34,Female,Degree,5927
-Constituency3,65+,Male,Degree,7485
-Constituency1,55-64,Male,A-level,7005
-Constituency4,35-44,Female,GCSE,5022
-Constituency1,65+,Male,Degree,7011
-Constituency3,65+,Female,Degree,4115
-Constituency1,55-64,Male,None,1507
-Constituency1,55-64,Female,None,7661
-Constituency5,45-54,Female,Degree,3495
-Constituency5,65+,Female,Degree,8419
-Constituency1,25-34,Female,None,7895
-Constituency3,25-34,Male,GCSE,8339
-Constituency4,65+,Male,Degree,3273
-Constituency1,25-34,Female,GCSE,6718
-Constituency1,45-54,Male,GCSE,4063
-Constituency3,55-64,Male,Degree,3094
-Constituency2,18-24,Male,GCSE,5965
-Constituency5,25-34,Female,GCSE,3843
-Constituency3,18-24,Female,None,8627
-Constituency4,65+,Female,None,5377
-Constituency4,18-24,Male,GCSE,2099
-Constituency5,18-24,Male,GCSE,4744
-Constituency2,35-44,Male,A-level,4504
-Constituency1,65+,Male,Degree,3281
-Constituency2,55-64,Female,None,5913
-Constituency1,25-34,Female,GCSE,7300
-Constituency5,45-54,Male,GCSE,1684
-Constituency3,45-54,Male,A-level,6204
-Constituency3,55-64,Female,None,8733
-Constituency4,25-34,Male,A-level,7611
-Constituency5,45-54,Female,A-level,6169
-Constituency1,65+,Male,A-level,2200
-Constituency5,25-34,Female,Degree,3451
-Constituency1,25-34,Female,GCSE,1004
-Constituency5,25-34,Female,None,8320
-Constituency1,55-64,Male,A-level,1978
-Constituency2,55-64,Female,A-level,2709
-Constituency2,35-44,Male,A-level,7641
-Constituency1,55-64,Male,GCSE,6294
-Constituency4,18-24,Female,GCSE,2673
-Constituency3,25-34,Male,Degree,8285
-Constituency2,35-44,Female,A-level,4011
-Constituency1,55-64,Male,GCSE,2979
-Constituency1,55-64,Male,Degree,3888
-Constituency3,55-64,Male,GCSE,1273
-Constituency2,18-24,Female,Degree,7471
-Constituency1,35-44,Female,A-level,4595
-Constituency1,25-34,Male,A-level,5982
-Constituency2,65+,Male,A-level,6309
-Constituency4,35-44,Female,GCSE,7494
-Constituency5,45-54,Female,Degree,7079
-Constituency4,25-34,Female,None,8209
-Constituency1,65+,Male,Degree,6310
-Constituency1,18-24,Male,A-level,3938
-Constituency3,55-64,Female,None,9497
-Constituency2,35-44,Male,None,8819
-Constituency2,55-64,Female,None,2295
-Constituency5,25-34,Male,Degree,2117
-Constituency1,18-24,Female,A-level,9768
-Constituency4,25-34,Male,None,3073
-Constituency4,35-44,Female,None,6652
-Constituency1,55-64,Female,A-level,3599
-Constituency1,55-64,Female,GCSE,9688
-Constituency5,18-24,Male,GCSE,4682
-Constituency3,45-54,Female,A-level,4701
-Constituency1,65+,Male,A-level,3191
-Constituency5,45-54,Female,A-level,6988
-Constituency3,45-54,Male,None,5091
-Constituency5,25-34,Male,Degree,1639
-Constituency2,18-24,Male,A-level,3648
-Constituency2,25-34,Male,None,9860
-Constituency5,18-24,Male,GCSE,4186
-Constituency1,35-44,Female,Degree,7126
-Constituency4,65+,Male,None,4707
-Constituency4,55-64,Female,None,5150
-Constituency2,65+,Male,None,8923
-Constituency4,45-54,Male,GCSE,6447
-Constituency3,35-44,Male,Degree,9093
-Constituency3,45-54,Female,GCSE,9532
-Constituency4,55-64,Male,GCSE,1498
-Constituency5,45-54,Male,None,2124
-Constituency4,25-34,Male,GCSE,1033
-Constituency4,35-44,Male,A-level,1979
-Constituency3,18-24,Male,Degree,5900
-Constituency4,55-64,Female,None,9595
-Constituency2,45-54,Male,None,9164
-Constituency5,55-64,Female,None,2009
-Constituency3,18-24,Female,A-level,5214
-Constituency1,35-44,Male,GCSE,3150
-Constituency2,65+,Female,A-level,2003
-Constituency5,25-34,Female,Degree,2309
-Constituency3,65+,Female,GCSE,1499
-Constituency4,45-54,Female,Degree,4941
-Constituency3,25-34,Male,Degree,2691
-Constituency3,25-34,Female,None,9893
-Constituency1,55-64,Male,GCSE,6237
-Constituency2,18-24,Female,GCSE,2751
-Constituency5,35-44,Male,A-level,9073
-Constituency1,55-64,Male,A-level,5024
-Constituency5,55-64,Male,GCSE,5349
-Constituency3,45-54,Female,Degree,4966
-Constituency1,35-44,Female,GCSE,7986
-Constituency1,18-24,Male,None,6649
-Constituency4,65+,Male,Degree,1871
-Constituency4,55-64,Female,A-level,4313
-Constituency1,18-24,Male,None,5276
-Constituency3,45-54,Male,None,2448
-Constituency1,65+,Female,None,7307
-Constituency1,35-44,Female,None,3684
-Constituency1,35-44,Female,None,9826
-Constituency1,55-64,Female,Degree,4934
-Constituency4,45-54,Female,GCSE,7991
-Constituency1,45-54,Male,A-level,8789
-Constituency1,25-34,Male,Degree,8126
-Constituency2,35-44,Female,GCSE,3444
-Constituency1,35-44,Male,A-level,6946
-Constituency2,45-54,Female,Degree,6370
-Constituency1,35-44,Male,None,4757
-Constituency3,65+,Female,Degree,2287
-Constituency4,35-44,Male,A-level,3274
-Constituency5,35-44,Male,A-level,7007
-Constituency4,55-64,Male,GCSE,6165
-Constituency3,55-64,Female,None,2825
-Constituency5,65+,Female,A-level,1297
-Constituency4,35-44,Male,Degree,5136
-Constituency4,55-64,Male,Degree,5057
-Constituency1,65+,Female,GCSE,7684
-Constituency3,25-34,Male,A-level,6045
-Constituency4,45-54,Female,GCSE,7354
-Constituency1,18-24,Female,Degree,9302
-Constituency1,65+,Male,A-level,8660
-Constituency1,35-44,Female,Degree,2456
-Constituency3,18-24,Female,A-level,4010
-Constituency1,65+,Female,Degree,1553
-Constituency2,65+,Male,GCSE,1671
-Constituency5,65+,Male,None,7486
-Constituency4,55-64,Male,None,4958
-Constituency2,55-64,Male,A-level,4855
-Constituency5,55-64,Female,Degree,3257
-Constituency1,25-34,Female,GCSE,9656
-Constituency5,45-54,Female,GCSE,1722
-Constituency5,25-34,Female,A-level,1566
-Constituency5,65+,Female,None,8639
-Constituency1,18-24,Male,A-level,9175
-Constituency5,25-34,Male,GCSE,1328
-Constituency4,25-34,Female,A-level,5120
-Constituency2,25-34,Male,A-level,6948
-Constituency4,35-44,Female,A-level,8743
-Constituency4,18-24,Male,GCSE,3924
-Constituency3,35-44,Male,Degree,7984
-Constituency5,55-64,Male,None,2143
-Constituency2,35-44,Male,GCSE,5345
-Constituency4,55-64,Female,A-level,4737
-Constituency2,25-34,Female,A-level,7679
-Constituency1,18-24,Female,None,2171
-Constituency2,45-54,Male,Degree,4552
-Constituency2,65+,Male,GCSE,3645
-Constituency4,18-24,Female,GCSE,6100
-Constituency5,45-54,Male,GCSE,6233
-Constituency3,55-64,Male,Degree,3082
-Constituency1,45-54,Male,Degree,5583
-Constituency1,45-54,Male,Degree,6557
-Constituency4,45-54,Male,A-level,2414
-Constituency3,35-44,Male,A-level,5463
-Constituency2,65+,Female,A-level,3632
-Constituency5,35-44,Male,A-level,8181
-Constituency5,18-24,Female,GCSE,1421
-Constituency2,55-64,Female,A-level,9532
-Constituency4,35-44,Female,Degree,3852
-Constituency5,25-34,Female,GCSE,3267
-Constituency5,45-54,Male,Degree,8089
-Constituency3,45-54,Female,GCSE,8105
-Constituency1,55-64,Female,GCSE,4782
-Constituency4,18-24,Male,None,8059
-Constituency5,65+,Male,None,6126
-Constituency4,45-54,Male,GCSE,6078
-Constituency1,18-24,Male,GCSE,6258
-Constituency5,25-34,Female,A-level,9417
-Constituency5,55-64,Female,None,8897
-Constituency3,35-44,Male,None,6813
-Constituency2,25-34,Male,None,2995
-Constituency3,18-24,Male,None,4777
-Constituency1,65+,Female,Degree,2870
-Constituency4,55-64,Male,A-level,2133
-Constituency1,45-54,Male,A-level,9753
-Constituency3,18-24,Male,A-level,1537
-Constituency2,25-34,Female,Degree,2018
-Constituency5,45-54,Male,A-level,8972
-Constituency3,65+,Male,Degree,3800
-Constituency1,45-54,Male,GCSE,1241
-Constituency1,65+,Male,A-level,1436
-Constituency1,65+,Male,Degree,7542
-Constituency1,55-64,Female,A-level,9177
-Constituency2,18-24,Male,Degree,7236
-Constituency3,35-44,Male,A-level,7433
-Constituency2,55-64,Female,A-level,4722
-Constituency5,35-44,Male,GCSE,3022
-Constituency5,25-34,Female,A-level,9486
-Constituency1,25-34,Male,A-level,3424
-Constituency2,35-44,Male,None,5493
-Constituency4,65+,Male,Degree,7943
-Constituency2,35-44,Male,A-level,7063
-Constituency3,55-64,Male,A-level,8103
-Constituency3,25-34,Female,None,4068
-Constituency2,25-34,Male,GCSE,7930
-Constituency3,65+,Female,GCSE,9533
-Constituency1,35-44,Male,GCSE,8196
-Constituency2,65+,Male,A-level,7438
-Constituency2,18-24,Male,A-level,9819
-Constituency1,18-24,Female,None,3826
-Constituency4,25-34,Female,Degree,9638
-Constituency4,45-54,Female,A-level,8975
-Constituency5,18-24,Male,GCSE,7354
-Constituency3,18-24,Male,GCSE,3899
-Constituency4,35-44,Male,None,5035
-Constituency2,65+,Male,Degree,5555
-Constituency3,45-54,Female,None,8765
-Constituency2,35-44,Female,A-level,4406
-Constituency4,35-44,Female,Degree,9503
-Constituency1,65+,Male,None,9921
-Constituency1,18-24,Male,Degree,4203
-Constituency4,55-64,Female,GCSE,8781
-Constituency2,45-54,Male,GCSE,7885
-Constituency5,25-34,Male,Degree,2329
-Constituency1,35-44,Female,None,2517
-Constituency1,55-64,Male,Degree,2496
-Constituency4,25-34,Female,None,6006
-Constituency4,25-34,Male,None,9295
-Constituency5,25-34,Male,Degree,9666
-Constituency5,35-44,Female,Degree,5433
-Constituency5,18-24,Male,GCSE,2133
-Constituency2,45-54,Female,None,2556
-Constituency1,18-24,Female,A-level,1197
-Constituency2,65+,Female,None,8218
-Constituency1,25-34,Female,A-level,3307
-Constituency5,55-64,Female,None,4741
-Constituency2,55-64,Male,None,4408
-Constituency5,18-24,Female,Degree,5741
-Constituency4,65+,Female,None,2520
-Constituency1,18-24,Female,Degree,7725
-Constituency3,65+,Female,None,1948
-Constituency5,55-64,Female,GCSE,5736
-Constituency2,25-34,Female,None,3228
-Constituency2,35-44,Female,Degree,3949
-Constituency4,55-64,Male,Degree,6452
-Constituency5,35-44,Female,A-level,2453
-Constituency3,18-24,Female,A-level,5780
-Constituency2,18-24,Female,Degree,9962
-Constituency3,35-44,Female,None,7350
-Constituency3,45-54,Male,Degree,7020
-Constituency2,65+,Female,A-level,7778
-Constituency5,45-54,Male,None,4496
-Constituency3,18-24,Female,A-level,7721
-Constituency4,35-44,Female,None,6673
-Constituency4,45-54,Male,Degree,1052
-Constituency5,35-44,Female,A-level,4232
-Constituency2,25-34,Male,Degree,4594
-Constituency3,18-24,Female,A-level,4843
-Constituency3,35-44,Male,GCSE,2388
-Constituency4,25-34,Female,A-level,2730
-Constituency4,65+,Male,GCSE,4982
-Constituency3,25-34,Male,Degree,6297
-Constituency3,35-44,Male,None,3165
-Constituency1,55-64,Male,A-level,9082
-Constituency2,65+,Male,Degree,9839
-Constituency2,65+,Male,Degree,2793
-Constituency1,25-34,Male,GCSE,5324
-Constituency5,35-44,Female,Degree,4122
-Constituency2,35-44,Female,Degree,3876
-Constituency2,25-34,Female,GCSE,2396
-Constituency1,18-24,Female,GCSE,7414
-Constituency2,45-54,Male,None,8266
-Constituency3,65+,Female,GCSE,1842
-Constituency3,45-54,Male,A-level,1101
-Constituency4,45-54,Male,GCSE,9905
-Constituency5,18-24,Female,Degree,4212
-Constituency1,45-54,Female,Degree,6257
-Constituency1,45-54,Male,A-level,1682
-Constituency3,25-34,Female,A-level,3861
-Constituency5,18-24,Male,None,6866
-Constituency5,18-24,Male,Degree,2791
-Constituency2,18-24,Female,None,1214
-Constituency5,55-64,Female,None,5227
-Constituency3,25-34,Male,A-level,9692
-Constituency5,35-44,Female,Degree,7454
-Constituency1,55-64,Female,A-level,9903
-Constituency2,55-64,Female,None,1205
-Constituency3,25-34,Male,A-level,4341
-Constituency1,55-64,Female,Degree,1511
-Constituency5,55-64,Female,None,2592
-Constituency1,18-24,Female,A-level,4834
-Constituency2,65+,Male,GCSE,6193
-Constituency5,65+,Female,Degree,5909
-Constituency5,65+,Female,None,4626
-Constituency1,35-44,Female,Degree,7186
-Constituency4,45-54,Male,A-level,1140
-Constituency1,65+,Male,None,8755
-Constituency1,45-54,Female,GCSE,6602
-Constituency3,45-54,Male,None,2506
-Constituency1,25-34,Female,A-level,3096
+constituency,population,region
+Constituency 1,101012,East Midlands
+Constituency 2,60278,East Midlands
+Constituency 3,123858,Scotland
+Constituency 4,55118,East Midlands
+Constituency 5,42693,East Midlands
+Constituency 6,70259,East of England
+Constituency 7,69824,North East
+Constituency 8,84375,East Midlands
+Constituency 9,56808,Scotland
+Constituency 10,46930,South East
+Constituency 11,60491,East of England
+Constituency 12,72479,East of England
+Constituency 13,85384,Scotland
+Constituency 14,37423,Yorkshire and The Humber
+Constituency 15,85047,South East
+Constituency 16,97230,Scotland
+Constituency 17,77057,South West
+Constituency 18,40550,Yorkshire and The Humber
+Constituency 19,29748,East of England
+Constituency 20,88059,South East
+Constituency 21,73282,South East
+Constituency 22,72829,East of England
+Constituency 23,59343,Wales
+Constituency 24,76131,North West
+Constituency 25,102827,East of England
+Constituency 26,67306,West Midlands
+Constituency 27,62924,Wales
+Constituency 28,84039,Wales
+Constituency 29,91418,South East
+Constituency 30,79204,Scotland
+Constituency 31,96285,North East
+Constituency 32,45071,West Midlands
+Constituency 33,51262,West Midlands
+Constituency 34,103398,Yorkshire and The Humber
+Constituency 35,58794,West Midlands
+Constituency 36,83890,West Midlands
+Constituency 37,96426,Scotland
+Constituency 38,64750,South West
+Constituency 39,61893,Wales
+Constituency 40,81878,Yorkshire and The Humber
+Constituency 41,37545,South West
+Constituency 42,107264,East Midlands
+Constituency 43,122233,West Midlands
+Constituency 44,66780,South West
+Constituency 45,71652,East of England
+Constituency 46,74212,Scotland
+Constituency 47,59540,Yorkshire and The Humber
+Constituency 48,60210,West Midlands
+Constituency 49,92753,Scotland
+Constituency 50,51051,Scotland
+Constituency 51,60235,East of England
+Constituency 52,78943,Scotland
+Constituency 53,60192,East of England
+Constituency 54,50450,East Midlands
+Constituency 55,64888,North East
+Constituency 56,96281,Yorkshire and The Humber
+Constituency 57,79281,West Midlands
+Constituency 58,88628,North West
+Constituency 59,66050,London
+Constituency 60,83120,South East
+Constituency 61,102258,South West
+Constituency 62,75923,East of England
+Constituency 63,89076,East of England
+Constituency 64,102686,East Midlands
+Constituency 65,50880,South East
+Constituency 66,90830,Wales
+Constituency 67,59593,Yorkshire and The Humber
+Constituency 68,75850,Yorkshire and The Humber
+Constituency 69,111823,Yorkshire and The Humber
+Constituency 70,49371,Wales
+Constituency 71,85437,South West
+Constituency 72,46256,North East
+Constituency 73,72897,Scotland
+Constituency 74,57179,South West
+Constituency 75,139202,Scotland
+Constituency 76,81997,South West
+Constituency 77,72929,North West
+Constituency 78,91328,Scotland
+Constituency 79,64837,Yorkshire and The Humber
+Constituency 80,56566,Yorkshire and The Humber
+Constituency 81,69029,West Midlands
+Constituency 82,59990,North East
+Constituency 83,59092,South East
+Constituency 84,66807,West Midlands
+Constituency 85,69526,Scotland
+Constituency 86,51410,Yorkshire and The Humber
+Constituency 87,73639,East of England
+Constituency 88,124323,Yorkshire and The Humber
+Constituency 89,96077,London
+Constituency 90,51910,Wales
+Constituency 91,44510,Wales
+Constituency 92,83026,Wales
+Constituency 93,68943,Scotland
+Constituency 94,62109,London
+Constituency 95,40563,Scotland
+Constituency 96,83454,South West
+Constituency 97,87798,Scotland
+Constituency 98,90895,Wales
+Constituency 99,48856,Scotland
+Constituency 100,53754,London
+Constituency 101,46576,Wales
+Constituency 102,59482,Yorkshire and The Humber
+Constituency 103,73831,Yorkshire and The Humber
+Constituency 104,64029,West Midlands
+Constituency 105,73620,East Midlands
+Constituency 106,67214,East Midlands
+Constituency 107,49542,South East
+Constituency 108,91100,Scotland
+Constituency 109,56753,North East
+Constituency 110,94403,Wales
+Constituency 111,75944,Yorkshire and The Humber
+Constituency 112,86105,Wales
+Constituency 113,61756,East of England
+Constituency 114,42366,Yorkshire and The Humber
+Constituency 115,61150,South East
+Constituency 116,89361,South West
+Constituency 117,71018,South East
+Constituency 118,73878,Yorkshire and The Humber
+Constituency 119,94384,East Midlands
+Constituency 120,58203,Yorkshire and The Humber
+Constituency 121,67966,South East
+Constituency 122,70550,North West
+Constituency 123,30019,London
+Constituency 124,74012,East Midlands
+Constituency 125,87380,North West
+Constituency 126,50660,West Midlands
+Constituency 127,26731,South West
+Constituency 128,60828,East Midlands
+Constituency 129,94974,North West
+Constituency 130,93313,London
+Constituency 131,70015,North West
+Constituency 132,66940,North West
+Constituency 133,72789,East Midlands
+Constituency 134,56887,South East
+Constituency 135,49579,West Midlands
+Constituency 136,99180,North West
+Constituency 137,121665,Scotland
+Constituency 138,47356,Wales
+Constituency 139,78178,South West
+Constituency 140,77525,North West
+Constituency 141,93853,North East
+Constituency 142,63379,North West
+Constituency 143,77773,London
+Constituency 144,63025,West Midlands
+Constituency 145,90638,South East
+Constituency 146,69802,West Midlands
+Constituency 147,42916,London
+Constituency 148,78074,Wales
+Constituency 149,84999,East Midlands
+Constituency 150,95818,South West
+Constituency 151,28100,West Midlands
+Constituency 152,86720,Scotland
+Constituency 153,67626,Scotland
+Constituency 154,54200,London
+Constituency 155,65733,South West
+Constituency 156,78792,East of England
+Constituency 157,52971,East of England
+Constituency 158,84416,South East
+Constituency 159,103281,West Midlands
+Constituency 160,76295,West Midlands
+Constituency 161,41135,North West
+Constituency 162,56459,West Midlands
+Constituency 163,111543,South East
+Constituency 164,82667,Scotland
+Constituency 165,43909,South West
+Constituency 166,94664,East of England
+Constituency 167,96388,South West
+Constituency 168,65877,Wales
+Constituency 169,97181,North East
+Constituency 170,84402,North West
+Constituency 171,39292,Scotland
+Constituency 172,83485,East Midlands
+Constituency 173,89098,Scotland
+Constituency 174,83640,West Midlands
+Constituency 175,83031,North East
+Constituency 176,90772,Scotland
+Constituency 177,79538,South East
+Constituency 178,52865,Scotland
+Constituency 179,95282,Wales
+Constituency 180,66409,West Midlands
+Constituency 181,65809,South West
+Constituency 182,85704,West Midlands
+Constituency 183,92430,West Midlands
+Constituency 184,79593,North West
+Constituency 185,45042,Wales
+Constituency 186,67940,South West
+Constituency 187,60523,Scotland
+Constituency 188,56346,South West
+Constituency 189,69754,London
+Constituency 190,86789,East Midlands
+Constituency 191,55990,Scotland
+Constituency 192,62799,Wales
+Constituency 193,68088,East of England
+Constituency 194,99230,Wales
+Constituency 195,80646,North East
+Constituency 196,80755,Yorkshire and The Humber
+Constituency 197,39485,East Midlands
+Constituency 198,83017,South West
+Constituency 199,75618,West Midlands
+Constituency 200,103470,Scotland
+Constituency 201,74467,North West
+Constituency 202,54666,North East
+Constituency 203,63618,East of England
+Constituency 204,69730,Wales
+Constituency 205,94996,East Midlands
+Constituency 206,81427,East of England
+Constituency 207,68431,East of England
+Constituency 208,68227,North West
+Constituency 209,78969,Scotland
+Constituency 210,67709,East of England
+Constituency 211,61846,East Midlands
+Constituency 212,72337,London
+Constituency 213,76881,West Midlands
+Constituency 214,64387,Yorkshire and The Humber
+Constituency 215,68156,Scotland
+Constituency 216,94874,Yorkshire and The Humber
+Constituency 217,74647,West Midlands
+Constituency 218,80451,Yorkshire and The Humber
+Constituency 219,95737,Yorkshire and The Humber
+Constituency 220,81093,East of England
+Constituency 221,53952,South East
+Constituency 222,80804,Yorkshire and The Humber
+Constituency 223,61582,South East
+Constituency 224,82829,South West
+Constituency 225,88754,East of England
+Constituency 226,44825,South West
+Constituency 227,81165,East of England
+Constituency 228,84210,East of England
+Constituency 229,102017,North East
+Constituency 230,88237,East of England
+Constituency 231,88221,Scotland
+Constituency 232,76566,North West
+Constituency 233,91146,South West
+Constituency 234,86191,East Midlands
+Constituency 235,76303,South East
+Constituency 236,111046,North East
+Constituency 237,97783,Scotland
+Constituency 238,74687,South West
+Constituency 239,83266,West Midlands
+Constituency 240,89821,North West
+Constituency 241,115254,East of England
+Constituency 242,78705,North West
+Constituency 243,81984,South East
+Constituency 244,79545,East of England
+Constituency 245,66676,West Midlands
+Constituency 246,49373,Yorkshire and The Humber
+Constituency 247,82605,Wales
+Constituency 248,84241,East of England
+Constituency 249,95661,Scotland
+Constituency 250,104013,Yorkshire and The Humber
+Constituency 251,82478,South West
+Constituency 252,82243,East of England
+Constituency 253,64492,West Midlands
+Constituency 254,74514,North East
+Constituency 255,113296,South West
+Constituency 256,21360,West Midlands
+Constituency 257,57547,Yorkshire and The Humber
+Constituency 258,94298,London
+Constituency 259,77390,Yorkshire and The Humber
+Constituency 260,75156,North West
+Constituency 261,87158,London
+Constituency 262,53342,Scotland
+Constituency 263,56759,Yorkshire and The Humber
+Constituency 264,97273,East Midlands
+Constituency 265,120996,Yorkshire and The Humber
+Constituency 266,90482,South East
+Constituency 267,68512,London
+Constituency 268,70420,West Midlands
+Constituency 269,68987,Wales
+Constituency 270,87565,Yorkshire and The Humber
+Constituency 271,42650,Wales
+Constituency 272,71513,East of England
+Constituency 273,90400,West Midlands
+Constituency 274,78170,London
+Constituency 275,42020,West Midlands
+Constituency 276,55590,West Midlands
+Constituency 277,47669,Yorkshire and The Humber
+Constituency 278,68721,Wales
+Constituency 279,101265,Wales
+Constituency 280,104197,South East
+Constituency 281,84402,North West
+Constituency 282,65739,London
+Constituency 283,95376,East of England
+Constituency 284,77357,North East
+Constituency 285,85664,West Midlands
+Constituency 286,83902,South East
+Constituency 287,82497,North East
+Constituency 288,61642,South East
+Constituency 289,85182,North West
+Constituency 290,106524,South East
+Constituency 291,110326,South East
+Constituency 292,80358,North East
+Constituency 293,23554,South East
+Constituency 294,92705,North West
+Constituency 295,65073,East Midlands
+Constituency 296,80199,Wales
+Constituency 297,86009,East of England
+Constituency 298,68134,Yorkshire and The Humber
+Constituency 299,61748,West Midlands
+Constituency 300,46861,West Midlands
+Constituency 301,100075,Wales
+Constituency 302,65289,East Midlands
+Constituency 303,94156,Yorkshire and The Humber
+Constituency 304,99533,East of England
+Constituency 305,44010,South East
+Constituency 306,56063,Scotland
+Constituency 307,106340,Wales
+Constituency 308,78234,South East
+Constituency 309,58560,South West
+Constituency 310,92496,West Midlands
+Constituency 311,64100,South West
+Constituency 312,88880,Scotland
+Constituency 313,64062,Scotland
+Constituency 314,98081,Yorkshire and The Humber
+Constituency 315,96603,London
+Constituency 316,104794,South East
+Constituency 317,62854,East Midlands
+Constituency 318,87568,Wales
+Constituency 319,103343,Scotland
+Constituency 320,111312,North West
+Constituency 321,65986,Yorkshire and The Humber
+Constituency 322,75475,South West
+Constituency 323,43598,East of England
+Constituency 324,77834,London
+Constituency 325,85121,East Midlands
+Constituency 326,72451,Yorkshire and The Humber
+Constituency 327,67432,West Midlands
+Constituency 328,73386,East Midlands
+Constituency 329,84631,East Midlands
+Constituency 330,44274,North East
+Constituency 331,56888,North East
+Constituency 332,55415,East of England
+Constituency 333,89245,Wales
+Constituency 334,93820,South West
+Constituency 335,99697,Scotland
+Constituency 336,59506,Wales
+Constituency 337,59276,Wales
+Constituency 338,37409,West Midlands
+Constituency 339,77913,South West
+Constituency 340,79772,West Midlands
+Constituency 341,65004,South West
+Constituency 342,49858,South East
+Constituency 343,59573,North East
+Constituency 344,67976,Yorkshire and The Humber
+Constituency 345,99172,Yorkshire and The Humber
+Constituency 346,39342,West Midlands
+Constituency 347,79033,North East
+Constituency 348,75435,North East
+Constituency 349,117370,East Midlands
+Constituency 350,69374,Scotland
+Constituency 351,73357,Scotland
+Constituency 352,91654,North West
+Constituency 353,93304,Wales
+Constituency 354,57068,South East
+Constituency 355,78733,Wales
+Constituency 356,58523,Wales
+Constituency 357,68071,Wales
+Constituency 358,125257,London
+Constituency 359,46558,North East
+Constituency 360,74342,Wales
+Constituency 361,76593,North East
+Constituency 362,86028,Scotland
+Constituency 363,49881,Yorkshire and The Humber
+Constituency 364,72117,Scotland
+Constituency 365,110939,Yorkshire and The Humber
+Constituency 366,36236,South East
+Constituency 367,57371,East Midlands
+Constituency 368,40682,West Midlands
+Constituency 369,76020,South East
+Constituency 370,60911,London
+Constituency 371,73648,London
+Constituency 372,144158,Wales
+Constituency 373,40607,London
+Constituency 374,56929,East of England
+Constituency 375,76622,London
+Constituency 376,76370,East of England
+Constituency 377,53405,North West
+Constituency 378,94991,South East
+Constituency 379,114640,North East
+Constituency 380,88765,London
+Constituency 381,92183,Wales
+Constituency 382,77235,Wales
+Constituency 383,85868,North West
+Constituency 384,67545,South West
+Constituency 385,104600,London
+Constituency 386,54212,West Midlands
+Constituency 387,73033,North East
+Constituency 388,84426,North West
+Constituency 389,85691,North West
+Constituency 390,101397,North West
+Constituency 391,76606,London
+Constituency 392,92858,Wales
+Constituency 393,68746,North East
+Constituency 394,53350,South East
+Constituency 395,61656,Wales
+Constituency 396,88737,Wales
+Constituency 397,96144,London
+Constituency 398,114531,West Midlands
+Constituency 399,78235,East of England
+Constituency 400,83706,North West
+Constituency 401,98190,North East
+Constituency 402,70425,London
+Constituency 403,78205,Scotland
+Constituency 404,63289,West Midlands
+Constituency 405,54050,Scotland
+Constituency 406,79396,London
+Constituency 407,64854,North West
+Constituency 408,62803,Yorkshire and The Humber
+Constituency 409,45200,Yorkshire and The Humber
+Constituency 410,78277,Scotland
+Constituency 411,85090,North West
+Constituency 412,43915,London
+Constituency 413,92760,East of England
+Constituency 414,64061,North East
+Constituency 415,65036,Wales
+Constituency 416,90328,North East
+Constituency 417,74456,East of England
+Constituency 418,85220,East of England
+Constituency 419,38406,South East
+Constituency 420,109905,London
+Constituency 421,61877,East of England
+Constituency 422,65045,South West
+Constituency 423,53663,East of England
+Constituency 424,104556,Wales
+Constituency 425,84862,East Midlands
+Constituency 426,94986,South East
+Constituency 427,69873,North West
+Constituency 428,84594,Wales
+Constituency 429,75337,Scotland
+Constituency 430,45851,South West
+Constituency 431,76159,North West
+Constituency 432,53468,Scotland
+Constituency 433,72775,Yorkshire and The Humber
+Constituency 434,86011,London
+Constituency 435,60987,West Midlands
+Constituency 436,70274,South East
+Constituency 437,51739,South East
+Constituency 438,58782,North East
+Constituency 439,73946,North West
+Constituency 440,88085,North West
+Constituency 441,15005,East Midlands
+Constituency 442,73711,North East
+Constituency 443,117648,East Midlands
+Constituency 444,57053,London
+Constituency 445,73563,London
+Constituency 446,95073,North East
+Constituency 447,112985,West Midlands
+Constituency 448,67178,South East
+Constituency 449,86035,East Midlands
+Constituency 450,56058,East of England
+Constituency 451,88538,Yorkshire and The Humber
+Constituency 452,101354,South West
+Constituency 453,69673,North West
+Constituency 454,85352,Wales
+Constituency 455,83264,Wales
+Constituency 456,84401,West Midlands
+Constituency 457,41668,South East
+Constituency 458,41112,London
+Constituency 459,90805,South East
+Constituency 460,71609,Yorkshire and The Humber
+Constituency 461,62966,London
+Constituency 462,99779,London
+Constituency 463,83602,South West
+Constituency 464,54267,Scotland
+Constituency 465,63766,London
+Constituency 466,79885,East Midlands
+Constituency 467,85672,Yorkshire and The Humber
+Constituency 468,57584,London
+Constituency 469,121369,West Midlands
+Constituency 470,43497,East of England
+Constituency 471,45776,East Midlands
+Constituency 472,55383,London
+Constituency 473,68114,North East
+Constituency 474,79052,South East
+Constituency 475,75400,North West
+Constituency 476,87352,East Midlands
+Constituency 477,66640,North West
+Constituency 478,53490,West Midlands
+Constituency 479,78161,North West
+Constituency 480,41652,West Midlands
+Constituency 481,59421,West Midlands
+Constituency 482,62570,West Midlands
+Constituency 483,41100,West Midlands
+Constituency 484,73715,Wales
+Constituency 485,84631,Yorkshire and The Humber
+Constituency 486,60325,East Midlands
+Constituency 487,68603,South East
+Constituency 488,59268,London
+Constituency 489,71407,South West
+Constituency 490,92853,South West
+Constituency 491,112003,West Midlands
+Constituency 492,46595,South West
+Constituency 493,101257,East Midlands
+Constituency 494,76456,Yorkshire and The Humber
+Constituency 495,81329,North East
+Constituency 496,52710,East Midlands
+Constituency 497,45058,Yorkshire and The Humber
+Constituency 498,84501,North West
+Constituency 499,92422,London
+Constituency 500,106276,South West
