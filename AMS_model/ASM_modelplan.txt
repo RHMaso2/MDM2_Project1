@@ -1,0 +1,15 @@
+Total Seats:  975 (325 more than current)
+
+List seats - Effectively make up the difference of seats between constituent
+			seats and the precentage of overall seats they should get
+			
+e.g. if 975 seats available and party A gets 200 constituent seats, list
+seats would be 93 (round up from 92.5)
+
+
+Process:
+	Constituency votes and seats remain the same
+	Based off constituency votes, predict the party each voter would have voted for
+	Total up number of votes each party would have recieved
+	Calculate their list seats
+	Election Results
