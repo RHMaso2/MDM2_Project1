@@ -12,32 +12,29 @@ import matplotlib.pyplot as plt
 polling_data = pd.read_csv('polling_data.csv')
 constituency_data = pd.read_csv('constituency_data.csv')
 
-# Define parties (assumed consistent with CSV)
-parties = ['Labour', 'Conservative', 'Reform UK', 'Liberal Democrats', 'Green Party of England and Wales', 'Scottish National Party']
+# Define parties and regions
+parties = ['Labour', 'Conservative', 'Reform UK', 'Lib-Dems', 'Greens', 'SNP']
+regions = constituency_data['region'].unique()
 
 # Data Preparation
+# Convert categorical data to numeric codes if not already in numeric form
 X = pd.get_dummies(polling_data[['age', 'gender', 'education', 'income', 'region']], drop_first=True)
-y = pd.Categorical(polling_data['party_preference'])
+y = pd.Categorical(polling_data['party_preference']).codes
 
-# Ensure integer conversion for boolean columns
-X = X.astype(int)
-
-# Split into training and test sets
+# Split data and scale features
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-
-# Scale features
 scaler = StandardScaler()
 X_train_scaled = scaler.fit_transform(X_train)
 
-# Train a Multinomial Logistic Regression Model
-log_reg = LogisticRegression(solver='saga', penalty='l2', C=1.0, max_iter=1000)
-log_reg.fit(X_train_scaled, y_train.codes)
+# Train a Multinomial Logistic Regression Model                                                                
+log_reg = LogisticRegression(solver='saga', penalty='l2', C=1.5, max_iter=1000, random_state=42, class_weight={0:0.6, 1:2, 2:0.8, 3:1, 4:0.4, 5:0.4})
+log_reg.fit(X_train_scaled, y_train)
 
-# Define column structure from training data
+# Define column structure for dummy variables
 full_columns = X_train.columns
 
 # Function to simulate voting for each constituency
-def process_constituency(row, full_columns, scaler, log_reg, num_samples=500):
+def process_constituency(row, full_columns, scaler, log_reg, num_samples=100):
     constituency_votes = np.zeros(len(parties))  # Vote counts for each party
 
     for _ in range(num_samples):
@@ -54,28 +51,30 @@ def process_constituency(row, full_columns, scaler, log_reg, num_samples=500):
         demographic_factors = demographic_factors.reindex(columns=full_columns, fill_value=0)
         demographic_factors_scaled = scaler.transform(demographic_factors)
 
-        predicted_probs = log_reg.predict_proba(demographic_factors_scaled)
-        sampled_vote = np.random.choice(len(parties), p=predicted_probs.flatten())
+        # Predict and sample vote based on predicted probabilities
+        predicted_probs = log_reg.predict_proba(demographic_factors_scaled).flatten()
+        sampled_vote = np.random.choice(len(parties), p=predicted_probs)
         constituency_votes[sampled_vote] += 1
 
     # Scale by population
     constituency_votes = (constituency_votes / num_samples) * row['population']
     return constituency_votes
 
-# Parallel processing for each constituency
+# Process each constituency in parallel
 constituency_results = Parallel(n_jobs=-1)(
     delayed(process_constituency)(row, full_columns, scaler, log_reg)
-    for idx, row in tqdm(constituency_data.iterrows(), total=constituency_data.shape[0], desc="Processing Constituencies")
+    for idx, row in tqdm(constituency_data.iterrows(), total=constituency_data.shape[0])
 )
 
 # Convert results into DataFrame
-constituency_results_df = pd.DataFrame(constituency_results, columns=log_reg.classes_)
-constituency_results_df['winner'] = constituency_results_df.idxmax(axis=1)
+constituency_results_df = pd.DataFrame(constituency_results, columns=parties)
+# Get the index of the party with the highest vote count
+constituency_results_df['winner'] = constituency_results_df.values.argmax(axis=1)
 
-# Combine results with constituency and region data
+# Combine results with constituency data
 final_results = pd.concat([constituency_data[['constituency', 'region']], constituency_results_df], axis=1)
 
-# Map index of winning party to party name
+# Map the index of the winning party to the party name
 final_results['winner'] = final_results['winner'].map(lambda x: parties[x])
 
 # Overall and regional results
@@ -87,9 +86,14 @@ print("Overall seat count by party:\n", overall_results)
 print("\nSeat count by party in each region:\n", regional_results)
 
 # Plot overall seat count
+plt.figure(figsize=(10, 6))
 overall_results.plot(kind='bar', title='Overall Seat Count by Party', ylabel='Number of Seats')
 plt.show()
 
 # Plot regional seat counts by party
+plt.figure(figsize=(12, 8))
 regional_results.plot(kind='bar', stacked=True, title='Seats by Party in Each Region', ylabel='Number of Seats')
+plt.tight_layout()
 plt.show()
+
+
