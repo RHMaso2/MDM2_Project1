@@ -8,19 +8,19 @@ from sklearn.linear_model import LogisticRegression
 from joblib import Parallel, delayed
 
 # Define parties and regions
-parties = ['Labour', 'Conservative', 'Reform UK', 'Liberal Democrats', 'Green Party of England and Wales', 'Scottish National Party']
+parties = ['Labour', 'Conservatives', 'Reform UK', 'Lib-Dems', 'Greens', 'SNP']
 regions = {
-    'Wales': 40,
-    'Scotland': 59,
-    'North East': 29,
-    'North West': 75,
+    'Wales': 32,
+    'Scotland': 57,
+    'North East': 27,
+    'North West': 73,
     'Yorkshire and The Humber': 54,
     'East Midlands': 47,
-    'West Midlands': 59,
-    'East of England': 58,
-    'London': 73,
-    'South East': 84,
-    'South West': 55
+    'West Midlands': 57,
+    'East of England': 61,
+    'London': 75,
+    'South East': 91,
+    'South West': 58
 }
 
 # Adjusted distributions based on UK statistics
@@ -31,15 +31,34 @@ education_probabilities = [0.3, 0.25, 0.25, 0.2]  # Approximate education distri
 income_distribution = ['0-£12,570', '£12,571-£50,270', '£50,271-£125,140', '£125,140+']
 income_probabilities = [0.2, 0.5, 0.2, 0.1]  # Approximate income distribution
 
-# Generate polling data with realistic distributions
+# Define regional party preference tendencies for the 2024 election
+party_preferences_by_region = {
+    'Wales': [0.35, 0.25, 0.05, 0.15, 0.1, 0.1],
+    'Scotland': [0.2, 0.2, 0.05, 0.1, 0.05, 0.4],
+    'North East': [0.4, 0.3, 0.1, 0.1, 0.05, 0.05],
+    'North West': [0.35, 0.3, 0.1, 0.15, 0.05, 0.05],
+    'Yorkshire and The Humber': [0.35, 0.3, 0.1, 0.1, 0.1, 0.05],
+    'East Midlands': [0.3, 0.35, 0.1, 0.1, 0.1, 0.05],
+    'West Midlands': [0.3, 0.35, 0.1, 0.1, 0.1, 0.05],
+    'East of England': [0.25, 0.4, 0.1, 0.15, 0.05, 0.05],
+    'London': [0.4, 0.2, 0.05, 0.2, 0.1, 0.05],
+    'South East': [0.25, 0.4, 0.1, 0.15, 0.05, 0.05],
+    'South West': [0.25, 0.4, 0.1, 0.15, 0.05, 0.05]
+}
+
+# Generate polling data with realistic distributions and election-based party preference
 polling_data = pd.DataFrame({
     'age': np.random.choice(age_distribution, size=1000, p=age_probabilities),
     'gender': np.random.choice(['Male', 'Female'], size=1000),
     'education': np.random.choice(education_distribution, size=1000, p=education_probabilities),
     'income': np.random.choice(income_distribution, size=1000, p=income_probabilities),
-    'region': np.random.choice(list(regions.keys()), size=1000),
-    'party_preference': np.random.choice(parties, size=1000)
+    'region': np.random.choice(list(regions.keys()), size=1000)
 })
+
+# Assign party preferences based on region-specific probabilities
+polling_data['party_preference'] = polling_data['region'].apply(
+    lambda region: np.random.choice(parties, p=party_preferences_by_region[region])
+)
 
 # Generate constituency data by region
 constituency_list = []
