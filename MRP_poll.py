@@ -26,8 +26,11 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 scaler = StandardScaler()
 X_train_scaled = scaler.fit_transform(X_train)
 
-# Train a Multinomial Logistic Regression Model                                                                
-log_reg = LogisticRegression(solver='saga', penalty='l2', C=1.5, max_iter=1000, random_state=42, class_weight={0:0.6, 1:2, 2:0.8, 3:1, 4:0.4, 5:0.4})
+# Train a Multinomial Logistic Regression Model with increased weight for SNP
+log_reg = LogisticRegression(
+    solver='saga', penalty='l2', C=1.5, max_iter=1000, random_state=42,
+    class_weight={0: 0.65, 1: 1.8, 2: 0.6, 3: 1.2, 4: 1.7, 5: 0.9}
+)
 log_reg.fit(X_train_scaled, y_train)
 
 # Define column structure for dummy variables
@@ -53,6 +56,12 @@ def process_constituency(row, full_columns, scaler, log_reg, num_samples=100):
 
         # Predict and sample vote based on predicted probabilities
         predicted_probs = log_reg.predict_proba(demographic_factors_scaled).flatten()
+
+        # Increase SNP probability slightly for Scotland
+        if row['region'] == 'Scotland':
+            predicted_probs[5] += 0.1  # Boost SNP probability
+            predicted_probs = predicted_probs / predicted_probs.sum()  # Normalize
+
         sampled_vote = np.random.choice(len(parties), p=predicted_probs)
         constituency_votes[sampled_vote] += 1
 
@@ -85,15 +94,48 @@ regional_results = final_results.groupby('region')['winner'].value_counts().unst
 print("Overall seat count by party:\n", overall_results)
 print("\nSeat count by party in each region:\n", regional_results)
 
-# Plot overall seat count
-plt.figure(figsize=(10, 6))
-overall_results.plot(kind='bar', title='Overall Seat Count by Party', ylabel='Number of Seats')
-plt.show()
+party_colors = {
+    'Labour': '#AA0000',         # Red
+    'Conservative': '#0056A6',    # Blue
+    'Lib-Dems': '#FDBB30',       # Yellow/Orange
+    'SNP': '#FDF38E',            # Light yellow
+    'Greens': '#6AB023',         # Green
+    'Reform UK': '#0D8CE3',      # Light Blue
+}
 
-# Plot regional seat counts by party
-plt.figure(figsize=(12, 8))
-regional_results.plot(kind='bar', stacked=True, title='Seats by Party in Each Region', ylabel='Number of Seats')
+# Create a single figure with two subplots
+fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(18, 8))
+
+# First plot: Overall seat count
+overall_results_sorted = overall_results.sort_values(ascending=False)
+overall_results_sorted.plot(
+    kind='barh', 
+    color=[party_colors.get(party, 'gray') for party in overall_results_sorted.index], 
+    ax=ax1
+)
+ax1.set_title("2024 General Election: Number of Seats Won by Party", fontsize=14, weight='bold')
+ax1.set_xlabel("Number of Seats")
+ax1.set_ylabel("")
+ax1.invert_yaxis()  # To have the largest bar at the top
+for index, value in enumerate(overall_results_sorted):
+    ax1.text(value + 2, index, str(value), va='center', fontsize=10)
+
+# Second plot: Regional seat counts by party
+regional_results.plot(
+    kind='bar', 
+    stacked=True, 
+    color=[party_colors.get(party, 'gray') for party in regional_results.columns], 
+    edgecolor='black', 
+    ax=ax2
+)
+ax2.set_title("Seats by Party in Each Region", fontsize=14, weight='bold')
+ax2.set_xlabel("Region")
+ax2.set_ylabel("Number of Seats")
+ax2.tick_params(axis='x', rotation=45)
+
+# Add legend with more formatting
+ax2.legend(title="Party", bbox_to_anchor=(1.05, 1), loc='upper left', fontsize=10)
+
+# Adjust layout for better spacing
 plt.tight_layout()
 plt.show()
-
-
