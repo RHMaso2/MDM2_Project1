@@ -1,0 +1,633 @@
+constituency,population,region
+Wales Constituency 1,51454,Wales
+Wales Constituency 2,63479,Wales
+Wales Constituency 3,84260,Wales
+Wales Constituency 4,85363,Wales
+Wales Constituency 5,61067,Wales
+Wales Constituency 6,87168,Wales
+Wales Constituency 7,100066,Wales
+Wales Constituency 8,64355,Wales
+Wales Constituency 9,89311,Wales
+Wales Constituency 10,59259,Wales
+Wales Constituency 11,109874,Wales
+Wales Constituency 12,65599,Wales
+Wales Constituency 13,71870,Wales
+Wales Constituency 14,84163,Wales
+Wales Constituency 15,78758,Wales
+Wales Constituency 16,97602,Wales
+Wales Constituency 17,78099,Wales
+Wales Constituency 18,104249,Wales
+Wales Constituency 19,71091,Wales
+Wales Constituency 20,75778,Wales
+Wales Constituency 21,77179,Wales
+Wales Constituency 22,22068,Wales
+Wales Constituency 23,63731,Wales
+Wales Constituency 24,47084,Wales
+Wales Constituency 25,94890,Wales
+Wales Constituency 26,42020,Wales
+Wales Constituency 27,63237,Wales
+Wales Constituency 28,75948,Wales
+Wales Constituency 29,72520,Wales
+Wales Constituency 30,75324,Wales
+Wales Constituency 31,82597,Wales
+Wales Constituency 32,30898,Wales
+Wales Constituency 33,84676,Wales
+Wales Constituency 34,93966,Wales
+Wales Constituency 35,61377,Wales
+Wales Constituency 36,69022,Wales
+Wales Constituency 37,80242,Wales
+Wales Constituency 38,66550,Wales
+Wales Constituency 39,57208,Wales
+Wales Constituency 40,62907,Wales
+Scotland Constituency 1,71827,Scotland
+Scotland Constituency 2,74357,Scotland
+Scotland Constituency 3,61494,Scotland
+Scotland Constituency 4,91847,Scotland
+Scotland Constituency 5,88338,Scotland
+Scotland Constituency 6,113550,Scotland
+Scotland Constituency 7,91457,Scotland
+Scotland Constituency 8,70693,Scotland
+Scotland Constituency 9,62660,Scotland
+Scotland Constituency 10,53903,Scotland
+Scotland Constituency 11,67931,Scotland
+Scotland Constituency 12,69773,Scotland
+Scotland Constituency 13,33661,Scotland
+Scotland Constituency 14,74718,Scotland
+Scotland Constituency 15,40030,Scotland
+Scotland Constituency 16,86199,Scotland
+Scotland Constituency 17,113906,Scotland
+Scotland Constituency 18,101539,Scotland
+Scotland Constituency 19,91558,Scotland
+Scotland Constituency 20,79505,Scotland
+Scotland Constituency 21,77709,Scotland
+Scotland Constituency 22,50947,Scotland
+Scotland Constituency 23,71244,Scotland
+Scotland Constituency 24,83619,Scotland
+Scotland Constituency 25,111537,Scotland
+Scotland Constituency 26,57852,Scotland
+Scotland Constituency 27,68875,Scotland
+Scotland Constituency 28,94389,Scotland
+Scotland Constituency 29,61628,Scotland
+Scotland Constituency 30,76979,Scotland
+Scotland Constituency 31,68051,Scotland
+Scotland Constituency 32,73811,Scotland
+Scotland Constituency 33,69068,Scotland
+Scotland Constituency 34,79330,Scotland
+Scotland Constituency 35,89491,Scotland
+Scotland Constituency 36,85414,Scotland
+Scotland Constituency 37,74092,Scotland
+Scotland Constituency 38,111731,Scotland
+Scotland Constituency 39,70797,Scotland
+Scotland Constituency 40,60395,Scotland
+Scotland Constituency 41,79803,Scotland
+Scotland Constituency 42,103689,Scotland
+Scotland Constituency 43,70366,Scotland
+Scotland Constituency 44,96514,Scotland
+Scotland Constituency 45,121964,Scotland
+Scotland Constituency 46,65571,Scotland
+Scotland Constituency 47,72192,Scotland
+Scotland Constituency 48,74024,Scotland
+Scotland Constituency 49,52733,Scotland
+Scotland Constituency 50,65982,Scotland
+Scotland Constituency 51,85175,Scotland
+Scotland Constituency 52,74973,Scotland
+Scotland Constituency 53,86881,Scotland
+Scotland Constituency 54,43204,Scotland
+Scotland Constituency 55,93150,Scotland
+Scotland Constituency 56,78382,Scotland
+Scotland Constituency 57,82415,Scotland
+Scotland Constituency 58,78126,Scotland
+Scotland Constituency 59,54243,Scotland
+North East Constituency 1,77341,North East
+North East Constituency 2,88064,North East
+North East Constituency 3,83964,North East
+North East Constituency 4,71375,North East
+North East Constituency 5,101433,North East
+North East Constituency 6,45477,North East
+North East Constituency 7,76515,North East
+North East Constituency 8,98093,North East
+North East Constituency 9,63060,North East
+North East Constituency 10,105243,North East
+North East Constituency 11,84102,North East
+North East Constituency 12,77349,North East
+North East Constituency 13,97768,North East
+North East Constituency 14,77262,North East
+North East Constituency 15,91087,North East
+North East Constituency 16,71625,North East
+North East Constituency 17,42886,North East
+North East Constituency 18,88489,North East
+North East Constituency 19,54212,North East
+North East Constituency 20,73965,North East
+North East Constituency 21,50271,North East
+North East Constituency 22,98224,North East
+North East Constituency 23,116069,North East
+North East Constituency 24,114586,North East
+North East Constituency 25,78617,North East
+North East Constituency 26,95261,North East
+North East Constituency 27,59652,North East
+North East Constituency 28,92415,North East
+North East Constituency 29,72982,North East
+North West Constituency 1,75080,North West
+North West Constituency 2,60477,North West
+North West Constituency 3,81617,North West
+North West Constituency 4,87386,North West
+North West Constituency 5,66006,North West
+North West Constituency 6,69576,North West
+North West Constituency 7,80183,North West
+North West Constituency 8,104436,North West
+North West Constituency 9,49977,North West
+North West Constituency 10,70150,North West
+North West Constituency 11,104457,North West
+North West Constituency 12,76431,North West
+North West Constituency 13,80316,North West
+North West Constituency 14,32623,North West
+North West Constituency 15,83880,North West
+North West Constituency 16,68558,North West
+North West Constituency 17,92476,North West
+North West Constituency 18,46800,North West
+North West Constituency 19,71999,North West
+North West Constituency 20,89559,North West
+North West Constituency 21,75658,North West
+North West Constituency 22,27977,North West
+North West Constituency 23,100227,North West
+North West Constituency 24,81592,North West
+North West Constituency 25,71534,North West
+North West Constituency 26,54758,North West
+North West Constituency 27,62945,North West
+North West Constituency 28,62099,North West
+North West Constituency 29,22169,North West
+North West Constituency 30,59323,North West
+North West Constituency 31,115280,North West
+North West Constituency 32,81503,North West
+North West Constituency 33,70974,North West
+North West Constituency 34,71766,North West
+North West Constituency 35,81245,North West
+North West Constituency 36,52870,North West
+North West Constituency 37,79596,North West
+North West Constituency 38,60112,North West
+North West Constituency 39,95375,North West
+North West Constituency 40,78369,North West
+North West Constituency 41,53244,North West
+North West Constituency 42,89069,North West
+North West Constituency 43,45905,North West
+North West Constituency 44,64036,North West
+North West Constituency 45,51862,North West
+North West Constituency 46,61935,North West
+North West Constituency 47,78522,North West
+North West Constituency 48,44057,North West
+North West Constituency 49,63847,North West
+North West Constituency 50,61578,North West
+North West Constituency 51,76112,North West
+North West Constituency 52,118406,North West
+North West Constituency 53,70073,North West
+North West Constituency 54,90329,North West
+North West Constituency 55,102571,North West
+North West Constituency 56,64107,North West
+North West Constituency 57,65126,North West
+North West Constituency 58,76466,North West
+North West Constituency 59,99108,North West
+North West Constituency 60,74680,North West
+North West Constituency 61,93136,North West
+North West Constituency 62,50460,North West
+North West Constituency 63,81314,North West
+North West Constituency 64,57806,North West
+North West Constituency 65,68703,North West
+North West Constituency 66,100098,North West
+North West Constituency 67,81601,North West
+North West Constituency 68,77363,North West
+North West Constituency 69,56591,North West
+North West Constituency 70,123507,North West
+North West Constituency 71,75954,North West
+North West Constituency 72,90213,North West
+North West Constituency 73,86272,North West
+North West Constituency 74,108821,North West
+North West Constituency 75,69293,North West
+Yorkshire and The Humber Constituency 1,86246,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 2,90128,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 3,84412,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 4,82230,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 5,74904,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 6,84742,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 7,67178,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 8,85407,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 9,85380,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 10,72625,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 11,48280,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 12,95970,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 13,87022,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 14,61764,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 15,40629,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 16,88986,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 17,65568,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 18,88597,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 19,77069,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 20,66874,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 21,102714,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 22,75324,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 23,80137,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 24,100864,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 25,62813,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 26,73959,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 27,47084,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 28,66844,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 29,81199,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 30,36218,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 31,125351,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 32,48895,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 33,73845,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 34,65398,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 35,77017,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 36,103093,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 37,43943,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 38,99341,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 39,67451,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 40,57655,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 41,84340,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 42,63668,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 43,71132,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 44,99062,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 45,73139,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 46,89641,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 47,34617,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 48,99190,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 49,84763,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 50,76232,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 51,74449,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 52,69874,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 53,95828,Yorkshire and The Humber
+Yorkshire and The Humber Constituency 54,44692,Yorkshire and The Humber
+East Midlands Constituency 1,68774,East Midlands
+East Midlands Constituency 2,52815,East Midlands
+East Midlands Constituency 3,49096,East Midlands
+East Midlands Constituency 4,106809,East Midlands
+East Midlands Constituency 5,63255,East Midlands
+East Midlands Constituency 6,87192,East Midlands
+East Midlands Constituency 7,86036,East Midlands
+East Midlands Constituency 8,76238,East Midlands
+East Midlands Constituency 9,75080,East Midlands
+East Midlands Constituency 10,76463,East Midlands
+East Midlands Constituency 11,88433,East Midlands
+East Midlands Constituency 12,31449,East Midlands
+East Midlands Constituency 13,52343,East Midlands
+East Midlands Constituency 14,42103,East Midlands
+East Midlands Constituency 15,86930,East Midlands
+East Midlands Constituency 16,79854,East Midlands
+East Midlands Constituency 17,95430,East Midlands
+East Midlands Constituency 18,80748,East Midlands
+East Midlands Constituency 19,53767,East Midlands
+East Midlands Constituency 20,101246,East Midlands
+East Midlands Constituency 21,94351,East Midlands
+East Midlands Constituency 22,88047,East Midlands
+East Midlands Constituency 23,67661,East Midlands
+East Midlands Constituency 24,72906,East Midlands
+East Midlands Constituency 25,71216,East Midlands
+East Midlands Constituency 26,133669,East Midlands
+East Midlands Constituency 27,72567,East Midlands
+East Midlands Constituency 28,86860,East Midlands
+East Midlands Constituency 29,69733,East Midlands
+East Midlands Constituency 30,40938,East Midlands
+East Midlands Constituency 31,96883,East Midlands
+East Midlands Constituency 32,77197,East Midlands
+East Midlands Constituency 33,50247,East Midlands
+East Midlands Constituency 34,79226,East Midlands
+East Midlands Constituency 35,102102,East Midlands
+East Midlands Constituency 36,100997,East Midlands
+East Midlands Constituency 37,98514,East Midlands
+East Midlands Constituency 38,118813,East Midlands
+East Midlands Constituency 39,90941,East Midlands
+East Midlands Constituency 40,118547,East Midlands
+East Midlands Constituency 41,64857,East Midlands
+East Midlands Constituency 42,82770,East Midlands
+East Midlands Constituency 43,51757,East Midlands
+East Midlands Constituency 44,80141,East Midlands
+East Midlands Constituency 45,66097,East Midlands
+East Midlands Constituency 46,86237,East Midlands
+West Midlands Constituency 1,73134,West Midlands
+West Midlands Constituency 2,65645,West Midlands
+West Midlands Constituency 3,98302,West Midlands
+West Midlands Constituency 4,96792,West Midlands
+West Midlands Constituency 5,80385,West Midlands
+West Midlands Constituency 6,70476,West Midlands
+West Midlands Constituency 7,45072,West Midlands
+West Midlands Constituency 8,76014,West Midlands
+West Midlands Constituency 9,79026,West Midlands
+West Midlands Constituency 10,39529,West Midlands
+West Midlands Constituency 11,65200,West Midlands
+West Midlands Constituency 12,83072,West Midlands
+West Midlands Constituency 13,60964,West Midlands
+West Midlands Constituency 14,91644,West Midlands
+West Midlands Constituency 15,63128,West Midlands
+West Midlands Constituency 16,94479,West Midlands
+West Midlands Constituency 17,95036,West Midlands
+West Midlands Constituency 18,54618,West Midlands
+West Midlands Constituency 19,52409,West Midlands
+West Midlands Constituency 20,59502,West Midlands
+West Midlands Constituency 21,86796,West Midlands
+West Midlands Constituency 22,60005,West Midlands
+West Midlands Constituency 23,48578,West Midlands
+West Midlands Constituency 24,89120,West Midlands
+West Midlands Constituency 25,116099,West Midlands
+West Midlands Constituency 26,80996,West Midlands
+West Midlands Constituency 27,103131,West Midlands
+West Midlands Constituency 28,91036,West Midlands
+West Midlands Constituency 29,78756,West Midlands
+West Midlands Constituency 30,43604,West Midlands
+West Midlands Constituency 31,98597,West Midlands
+West Midlands Constituency 32,67043,West Midlands
+West Midlands Constituency 33,45041,West Midlands
+West Midlands Constituency 34,68957,West Midlands
+West Midlands Constituency 35,88488,West Midlands
+West Midlands Constituency 36,61035,West Midlands
+West Midlands Constituency 37,73697,West Midlands
+West Midlands Constituency 38,68781,West Midlands
+West Midlands Constituency 39,57446,West Midlands
+West Midlands Constituency 40,53071,West Midlands
+West Midlands Constituency 41,75592,West Midlands
+West Midlands Constituency 42,113062,West Midlands
+West Midlands Constituency 43,73390,West Midlands
+West Midlands Constituency 44,102471,West Midlands
+West Midlands Constituency 45,79122,West Midlands
+West Midlands Constituency 46,60560,West Midlands
+West Midlands Constituency 47,53528,West Midlands
+West Midlands Constituency 48,59716,West Midlands
+West Midlands Constituency 49,87101,West Midlands
+West Midlands Constituency 50,78433,West Midlands
+West Midlands Constituency 51,50259,West Midlands
+West Midlands Constituency 52,109863,West Midlands
+West Midlands Constituency 53,70939,West Midlands
+West Midlands Constituency 54,55528,West Midlands
+West Midlands Constituency 55,58836,West Midlands
+West Midlands Constituency 56,60635,West Midlands
+West Midlands Constituency 57,82528,West Midlands
+West Midlands Constituency 58,69171,West Midlands
+West Midlands Constituency 59,39141,West Midlands
+East of England Constituency 1,47934,East of England
+East of England Constituency 2,69215,East of England
+East of England Constituency 3,74205,East of England
+East of England Constituency 4,108452,East of England
+East of England Constituency 5,87232,East of England
+East of England Constituency 6,52039,East of England
+East of England Constituency 7,92034,East of England
+East of England Constituency 8,34128,East of England
+East of England Constituency 9,107596,East of England
+East of England Constituency 10,95402,East of England
+East of England Constituency 11,54103,East of England
+East of England Constituency 12,64551,East of England
+East of England Constituency 13,54908,East of England
+East of England Constituency 14,82053,East of England
+East of England Constituency 15,85626,East of England
+East of England Constituency 16,54756,East of England
+East of England Constituency 17,60995,East of England
+East of England Constituency 18,101472,East of England
+East of England Constituency 19,61375,East of England
+East of England Constituency 20,100255,East of England
+East of England Constituency 21,61724,East of England
+East of England Constituency 22,80781,East of England
+East of England Constituency 23,90572,East of England
+East of England Constituency 24,83193,East of England
+East of England Constituency 25,81200,East of England
+East of England Constituency 26,64703,East of England
+East of England Constituency 27,26889,East of England
+East of England Constituency 28,84511,East of England
+East of England Constituency 29,55754,East of England
+East of England Constituency 30,73499,East of England
+East of England Constituency 31,79591,East of England
+East of England Constituency 32,37532,East of England
+East of England Constituency 33,85466,East of England
+East of England Constituency 34,52338,East of England
+East of England Constituency 35,59094,East of England
+East of England Constituency 36,106075,East of England
+East of England Constituency 37,79075,East of England
+East of England Constituency 38,71803,East of England
+East of England Constituency 39,42654,East of England
+East of England Constituency 40,82942,East of England
+East of England Constituency 41,90994,East of England
+East of England Constituency 42,92743,East of England
+East of England Constituency 43,65364,East of England
+East of England Constituency 44,80105,East of England
+East of England Constituency 45,76915,East of England
+East of England Constituency 46,80615,East of England
+East of England Constituency 47,56023,East of England
+East of England Constituency 48,67620,East of England
+East of England Constituency 49,86437,East of England
+East of England Constituency 50,85951,East of England
+East of England Constituency 51,86901,East of England
+East of England Constituency 52,84545,East of England
+East of England Constituency 53,77453,East of England
+East of England Constituency 54,78711,East of England
+East of England Constituency 55,85976,East of England
+East of England Constituency 56,44589,East of England
+East of England Constituency 57,126366,East of England
+East of England Constituency 58,96384,East of England
+London Constituency 1,58383,London
+London Constituency 2,74121,London
+London Constituency 3,67474,London
+London Constituency 4,98024,London
+London Constituency 5,95444,London
+London Constituency 6,73902,London
+London Constituency 7,83406,London
+London Constituency 8,55896,London
+London Constituency 9,79850,London
+London Constituency 10,74862,London
+London Constituency 11,118884,London
+London Constituency 12,60326,London
+London Constituency 13,79244,London
+London Constituency 14,60666,London
+London Constituency 15,58102,London
+London Constituency 16,73616,London
+London Constituency 17,65070,London
+London Constituency 18,82705,London
+London Constituency 19,69238,London
+London Constituency 20,93618,London
+London Constituency 21,65352,London
+London Constituency 22,67142,London
+London Constituency 23,53622,London
+London Constituency 24,90250,London
+London Constituency 25,58304,London
+London Constituency 26,27354,London
+London Constituency 27,87972,London
+London Constituency 28,90523,London
+London Constituency 29,47951,London
+London Constituency 30,69388,London
+London Constituency 31,62333,London
+London Constituency 32,63437,London
+London Constituency 33,83048,London
+London Constituency 34,77716,London
+London Constituency 35,86834,London
+London Constituency 36,102594,London
+London Constituency 37,84033,London
+London Constituency 38,59275,London
+London Constituency 39,67219,London
+London Constituency 40,95530,London
+London Constituency 41,133911,London
+London Constituency 42,80466,London
+London Constituency 43,109057,London
+London Constituency 44,46490,London
+London Constituency 45,87921,London
+London Constituency 46,105148,London
+London Constituency 47,67278,London
+London Constituency 48,99519,London
+London Constituency 49,90200,London
+London Constituency 50,73901,London
+London Constituency 51,66458,London
+London Constituency 52,65220,London
+London Constituency 53,75568,London
+London Constituency 54,78948,London
+London Constituency 55,76645,London
+London Constituency 56,55815,London
+London Constituency 57,51656,London
+London Constituency 58,70686,London
+London Constituency 59,78059,London
+London Constituency 60,45399,London
+London Constituency 61,100554,London
+London Constituency 62,62206,London
+London Constituency 63,68412,London
+London Constituency 64,58434,London
+London Constituency 65,109114,London
+London Constituency 66,73850,London
+London Constituency 67,78212,London
+London Constituency 68,62837,London
+London Constituency 69,67468,London
+London Constituency 70,73112,London
+London Constituency 71,90498,London
+London Constituency 72,92199,London
+London Constituency 73,73038,London
+South East Constituency 1,64979,South East
+South East Constituency 2,62564,South East
+South East Constituency 3,82180,South East
+South East Constituency 4,16999,South East
+South East Constituency 5,25387,South East
+South East Constituency 6,73842,South East
+South East Constituency 7,29389,South East
+South East Constituency 8,132510,South East
+South East Constituency 9,56113,South East
+South East Constituency 10,41020,South East
+South East Constituency 11,106940,South East
+South East Constituency 12,90173,South East
+South East Constituency 13,87775,South East
+South East Constituency 14,94509,South East
+South East Constituency 15,50798,South East
+South East Constituency 16,75140,South East
+South East Constituency 17,41751,South East
+South East Constituency 18,25925,South East
+South East Constituency 19,82708,South East
+South East Constituency 20,45830,South East
+South East Constituency 21,55561,South East
+South East Constituency 22,74276,South East
+South East Constituency 23,71624,South East
+South East Constituency 24,55590,South East
+South East Constituency 25,79529,South East
+South East Constituency 26,77417,South East
+South East Constituency 27,73962,South East
+South East Constituency 28,93728,South East
+South East Constituency 29,89530,South East
+South East Constituency 30,93471,South East
+South East Constituency 31,49428,South East
+South East Constituency 32,76726,South East
+South East Constituency 33,63411,South East
+South East Constituency 34,82744,South East
+South East Constituency 35,97901,South East
+South East Constituency 36,72483,South East
+South East Constituency 37,61409,South East
+South East Constituency 38,79219,South East
+South East Constituency 39,81859,South East
+South East Constituency 40,71320,South East
+South East Constituency 41,41285,South East
+South East Constituency 42,71348,South East
+South East Constituency 43,89980,South East
+South East Constituency 44,60458,South East
+South East Constituency 45,51398,South East
+South East Constituency 46,111108,South East
+South East Constituency 47,128490,South East
+South East Constituency 48,72109,South East
+South East Constituency 49,34490,South East
+South East Constituency 50,115447,South East
+South East Constituency 51,69194,South East
+South East Constituency 52,50439,South East
+South East Constituency 53,78001,South East
+South East Constituency 54,85682,South East
+South East Constituency 55,28580,South East
+South East Constituency 56,110065,South East
+South East Constituency 57,75870,South East
+South East Constituency 58,81188,South East
+South East Constituency 59,63629,South East
+South East Constituency 60,46051,South East
+South East Constituency 61,92420,South East
+South East Constituency 62,85406,South East
+South East Constituency 63,61144,South East
+South East Constituency 64,49806,South East
+South East Constituency 65,61441,South East
+South East Constituency 66,87560,South East
+South East Constituency 67,82407,South East
+South East Constituency 68,122018,South East
+South East Constituency 69,63685,South East
+South East Constituency 70,102006,South East
+South East Constituency 71,89697,South East
+South East Constituency 72,78560,South East
+South East Constituency 73,95511,South East
+South East Constituency 74,38447,South East
+South East Constituency 75,95647,South East
+South East Constituency 76,41677,South East
+South East Constituency 77,74139,South East
+South East Constituency 78,100580,South East
+South East Constituency 79,85750,South East
+South East Constituency 80,38702,South East
+South East Constituency 81,93725,South East
+South East Constituency 82,58305,South East
+South East Constituency 83,80329,South East
+South East Constituency 84,84619,South East
+South West Constituency 1,109199,South West
+South West Constituency 2,58333,South West
+South West Constituency 3,74919,South West
+South West Constituency 4,54761,South West
+South West Constituency 5,78541,South West
+South West Constituency 6,70389,South West
+South West Constituency 7,59942,South West
+South West Constituency 8,41112,South West
+South West Constituency 9,109424,South West
+South West Constituency 10,114241,South West
+South West Constituency 11,93527,South West
+South West Constituency 12,77686,South West
+South West Constituency 13,83881,South West
+South West Constituency 14,56671,South West
+South West Constituency 15,105094,South West
+South West Constituency 16,78676,South West
+South West Constituency 17,63383,South West
+South West Constituency 18,86426,South West
+South West Constituency 19,77184,South West
+South West Constituency 20,117889,South West
+South West Constituency 21,40933,South West
+South West Constituency 22,80943,South West
+South West Constituency 23,111918,South West
+South West Constituency 24,90015,South West
+South West Constituency 25,112061,South West
+South West Constituency 26,62027,South West
+South West Constituency 27,80736,South West
+South West Constituency 28,59052,South West
+South West Constituency 29,58084,South West
+South West Constituency 30,99667,South West
+South West Constituency 31,84767,South West
+South West Constituency 32,25470,South West
+South West Constituency 33,47853,South West
+South West Constituency 34,83054,South West
+South West Constituency 35,70287,South West
+South West Constituency 36,60564,South West
+South West Constituency 37,59453,South West
+South West Constituency 38,100340,South West
+South West Constituency 39,91518,South West
+South West Constituency 40,91181,South West
+South West Constituency 41,90451,South West
+South West Constituency 42,59107,South West
+South West Constituency 43,92744,South West
+South West Constituency 44,67584,South West
+South West Constituency 45,86015,South West
+South West Constituency 46,106031,South West
+South West Constituency 47,64912,South West
+South West Constituency 48,52190,South West
+South West Constituency 49,88920,South West
+South West Constituency 50,61001,South West
+South West Constituency 51,85775,South West
+South West Constituency 52,79156,South West
+South West Constituency 53,79571,South West
+South West Constituency 54,99322,South West
+South West Constituency 55,69772,South West
