@@ -1,0 +1,2001 @@
+age,gender,education,income,region,party_preference
+35-44,Male,None,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+45-54,Female,Degree,"£12,571-£50,270",South East,Lib-Dems
+35-44,Male,GCSE,"£12,571-£50,270",South East,Labour
+55-64,Female,Degree,"0-£12,570",Wales,Greens
+25-34,Female,None,"£50,271-£125,140",Scotland,Greens
+55-64,Male,GCSE,"£50,271-£125,140",West Midlands,Conservatives
+55-64,Male,Degree,"0-£12,570",Scotland,Greens
+65+,Male,None,"£12,571-£50,270",South West,Labour
+45-54,Female,GCSE,"£125,140+",South East,Conservatives
+45-54,Male,GCSE,"£12,571-£50,270",South East,Labour
+65+,Female,Degree,"0-£12,570",South East,Conservatives
+45-54,Male,A-levels,"£12,571-£50,270",London,Reform UK
+35-44,Male,Degree,"£12,571-£50,270",North East,Labour
+18-24,Male,GCSE,"£12,571-£50,270",Wales,Labour
+55-64,Male,GCSE,"£12,571-£50,270",London,Greens
+45-54,Male,None,"£12,571-£50,270",London,Conservatives
+35-44,Female,Degree,"£12,571-£50,270",London,Lib-Dems
+45-54,Male,Degree,"£12,571-£50,270",South East,Conservatives
+25-34,Female,None,"£12,571-£50,270",South East,Lib-Dems
+55-64,Female,A-levels,"£12,571-£50,270",Wales,Labour
+25-34,Female,GCSE,"0-£12,570",London,Greens
+55-64,Male,None,"0-£12,570",South East,Greens
+55-64,Male,GCSE,"£125,140+",Scotland,SNP
+25-34,Male,None,"£12,571-£50,270",East Midlands,Labour
+45-54,Male,A-levels,"£12,571-£50,270",Yorkshire and The Humber,Greens
+55-64,Female,GCSE,"£12,571-£50,270",Yorkshire and The Humber,Lib-Dems
+25-34,Male,None,"£50,271-£125,140",North West,Reform UK
+45-54,Female,A-levels,"£50,271-£125,140",South East,SNP
+45-54,Male,A-levels,"0-£12,570",South East,Greens
+45-54,Male,Degree,"0-£12,570",East Midlands,Labour
+35-44,Female,GCSE,"£50,271-£125,140",London,Labour
+65+,Female,Degree,"£50,271-£125,140",Yorkshire and The Humber,Conservatives
+65+,Female,GCSE,"£50,271-£125,140",Wales,Labour
+18-24,Female,GCSE,"£12,571-£50,270",East Midlands,Conservatives
+35-44,Male,None,"£12,571-£50,270",West Midlands,Conservatives
+65+,Female,A-levels,"£50,271-£125,140",West Midlands,Lib-Dems
+18-24,Male,Degree,"0-£12,570",Yorkshire and The Humber,Conservatives
+65+,Female,A-levels,"0-£12,570",South West,Lib-Dems
+35-44,Male,A-levels,"£12,571-£50,270",East Midlands,Reform UK
+55-64,Female,Degree,"£12,571-£50,270",Scotland,Labour
+45-54,Female,None,"£12,571-£50,270",East of England,Conservatives
+65+,Female,GCSE,"0-£12,570",South East,Greens
+35-44,Female,GCSE,"0-£12,570",Yorkshire and The Humber,Greens
+65+,Male,Degree,"£12,571-£50,270",West Midlands,Labour
+35-44,Male,A-levels,"£12,571-£50,270",East Midlands,Conservatives
+55-64,Female,GCSE,"0-£12,570",South West,Labour
+55-64,Female,None,"£50,271-£125,140",Scotland,Conservatives
+35-44,Male,GCSE,"£50,271-£125,140",Wales,Greens
+25-34,Female,A-levels,"£12,571-£50,270",East Midlands,Labour
+45-54,Male,GCSE,"£12,571-£50,270",North East,Labour
+65+,Male,None,"£12,571-£50,270",London,Reform UK
+35-44,Male,A-levels,"£12,571-£50,270",London,Labour
+35-44,Male,A-levels,"£12,571-£50,270",North East,Reform UK
+45-54,Male,None,"0-£12,570",South East,Conservatives
+65+,Male,None,"£50,271-£125,140",London,Labour
+55-64,Female,Degree,"£12,571-£50,270",West Midlands,Conservatives
+45-54,Female,Degree,"£12,571-£50,270",Scotland,SNP
+35-44,Female,Degree,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+35-44,Female,GCSE,"£12,571-£50,270",North East,Labour
+18-24,Male,A-levels,"£12,571-£50,270",London,Labour
+25-34,Male,Degree,"£50,271-£125,140",Wales,Lib-Dems
+35-44,Female,Degree,"£50,271-£125,140",Wales,Greens
+65+,Male,None,"£12,571-£50,270",East of England,Labour
+25-34,Female,None,"£50,271-£125,140",Scotland,Conservatives
+25-34,Male,None,"£12,571-£50,270",South West,Lib-Dems
+35-44,Male,A-levels,"£12,571-£50,270",East of England,Labour
+25-34,Male,A-levels,"£125,140+",Wales,Lib-Dems
+55-64,Male,A-levels,"£12,571-£50,270",East Midlands,Labour
+45-54,Female,A-levels,"£12,571-£50,270",London,Labour
+18-24,Female,A-levels,"0-£12,570",East Midlands,Labour
+25-34,Male,A-levels,"£12,571-£50,270",Scotland,Lib-Dems
+18-24,Male,Degree,"£12,571-£50,270",London,Labour
+45-54,Male,Degree,"£12,571-£50,270",South East,Reform UK
+45-54,Male,GCSE,"0-£12,570",North East,Labour
+55-64,Female,GCSE,"0-£12,570",South West,Labour
+55-64,Female,GCSE,"£50,271-£125,140",East Midlands,Reform UK
+18-24,Female,A-levels,"£12,571-£50,270",East Midlands,Greens
+65+,Female,A-levels,"£12,571-£50,270",South West,Conservatives
+35-44,Female,Degree,"£12,571-£50,270",South West,Greens
+45-54,Female,GCSE,"0-£12,570",Scotland,Labour
+25-34,Female,A-levels,"£50,271-£125,140",Wales,Greens
+35-44,Female,Degree,"£12,571-£50,270",Scotland,SNP
+55-64,Male,None,"£12,571-£50,270",London,Labour
+25-34,Male,A-levels,"£125,140+",North West,Reform UK
+35-44,Male,GCSE,"£12,571-£50,270",South East,Labour
+45-54,Female,GCSE,"0-£12,570",Scotland,Lib-Dems
+45-54,Male,None,"0-£12,570",South East,Labour
+45-54,Male,None,"£12,571-£50,270",South East,Reform UK
+65+,Male,A-levels,"£12,571-£50,270",East Midlands,Greens
+35-44,Male,None,"£50,271-£125,140",London,Reform UK
+25-34,Male,Degree,"£12,571-£50,270",South West,Labour
+35-44,Male,Degree,"£12,571-£50,270",South East,Conservatives
+45-54,Male,GCSE,"£50,271-£125,140",West Midlands,Reform UK
+45-54,Male,Degree,"0-£12,570",South West,Greens
+45-54,Male,GCSE,"£12,571-£50,270",East Midlands,Labour
+18-24,Female,Degree,"£12,571-£50,270",North West,Conservatives
+45-54,Male,A-levels,"£125,140+",South East,Conservatives
+35-44,Male,GCSE,"0-£12,570",North West,Conservatives
+55-64,Female,Degree,"£12,571-£50,270",North West,Reform UK
+25-34,Male,Degree,"£12,571-£50,270",North East,Labour
+65+,Female,None,"£50,271-£125,140",North East,Reform UK
+65+,Female,A-levels,"0-£12,570",South East,Greens
+18-24,Female,Degree,"£50,271-£125,140",South West,Labour
+25-34,Female,Degree,"£12,571-£50,270",Wales,Labour
+25-34,Male,A-levels,"0-£12,570",Scotland,Labour
+65+,Male,None,"£12,571-£50,270",Yorkshire and The Humber,Lib-Dems
+35-44,Male,Degree,"£125,140+",North West,Labour
+55-64,Male,GCSE,"£12,571-£50,270",Wales,Lib-Dems
+55-64,Female,None,"0-£12,570",South West,Reform UK
+25-34,Male,Degree,"£12,571-£50,270",London,Labour
+35-44,Male,Degree,"£50,271-£125,140",Wales,SNP
+45-54,Male,A-levels,"0-£12,570",West Midlands,Labour
+18-24,Female,Degree,"0-£12,570",East of England,Reform UK
+35-44,Female,GCSE,"0-£12,570",East of England,Reform UK
+35-44,Female,None,"£12,571-£50,270",Scotland,Reform UK
+25-34,Female,A-levels,"£12,571-£50,270",East of England,Labour
+18-24,Female,Degree,"£12,571-£50,270",East of England,Conservatives
+55-64,Female,GCSE,"£50,271-£125,140",Yorkshire and The Humber,Reform UK
+45-54,Female,None,"£12,571-£50,270",East Midlands,Labour
+65+,Female,Degree,"£12,571-£50,270",Yorkshire and The Humber,SNP
+25-34,Female,None,"£12,571-£50,270",West Midlands,Conservatives
+45-54,Female,GCSE,"£12,571-£50,270",North East,Labour
+65+,Male,Degree,"£12,571-£50,270",London,SNP
+55-64,Female,A-levels,"0-£12,570",East Midlands,Labour
+55-64,Male,GCSE,"0-£12,570",East Midlands,Labour
+35-44,Female,GCSE,"£12,571-£50,270",West Midlands,Conservatives
+65+,Male,GCSE,"£50,271-£125,140",East Midlands,Conservatives
+65+,Male,None,"£12,571-£50,270",Yorkshire and The Humber,Labour
+18-24,Female,None,"£50,271-£125,140",North West,Reform UK
+35-44,Male,GCSE,"£12,571-£50,270",Scotland,SNP
+35-44,Male,Degree,"£12,571-£50,270",West Midlands,Lib-Dems
+45-54,Female,GCSE,"0-£12,570",Scotland,Labour
+25-34,Male,Degree,"£12,571-£50,270",North East,Labour
+55-64,Male,Degree,"£50,271-£125,140",North West,Lib-Dems
+35-44,Male,GCSE,"£12,571-£50,270",Scotland,Reform UK
+35-44,Male,None,"£12,571-£50,270",South East,Labour
+35-44,Male,A-levels,"£50,271-£125,140",Yorkshire and The Humber,Conservatives
+35-44,Male,Degree,"£50,271-£125,140",Wales,Lib-Dems
+65+,Female,Degree,"0-£12,570",North West,Reform UK
+55-64,Male,Degree,"£12,571-£50,270",Wales,Greens
+45-54,Female,GCSE,"£12,571-£50,270",South West,Greens
+18-24,Male,Degree,"£125,140+",East of England,Conservatives
+18-24,Male,None,"£12,571-£50,270",North West,Greens
+65+,Male,A-levels,"£12,571-£50,270",South East,Reform UK
+55-64,Male,A-levels,"£12,571-£50,270",Scotland,SNP
+25-34,Male,None,"£12,571-£50,270",Scotland,SNP
+45-54,Female,A-levels,"£12,571-£50,270",Scotland,Reform UK
+55-64,Female,Degree,"£12,571-£50,270",Yorkshire and The Humber,Labour
+25-34,Female,Degree,"£12,571-£50,270",Scotland,Reform UK
+35-44,Female,A-levels,"£12,571-£50,270",East Midlands,Conservatives
+45-54,Female,GCSE,"£12,571-£50,270",South East,Conservatives
+65+,Female,GCSE,"£12,571-£50,270",West Midlands,Conservatives
+45-54,Female,GCSE,"0-£12,570",South West,Conservatives
+35-44,Female,None,"£12,571-£50,270",Scotland,Conservatives
+35-44,Female,None,"0-£12,570",East Midlands,Labour
+55-64,Male,None,"0-£12,570",South West,Reform UK
+18-24,Male,Degree,"£12,571-£50,270",South East,Lib-Dems
+45-54,Male,GCSE,"0-£12,570",Wales,Lib-Dems
+35-44,Female,GCSE,"0-£12,570",Yorkshire and The Humber,Labour
+65+,Male,GCSE,"£12,571-£50,270",South West,Conservatives
+25-34,Female,None,"£12,571-£50,270",South East,Labour
+55-64,Female,GCSE,"£125,140+",West Midlands,Labour
+25-34,Male,A-levels,"£12,571-£50,270",Scotland,Greens
+25-34,Male,A-levels,"£50,271-£125,140",London,Conservatives
+65+,Male,GCSE,"0-£12,570",South East,Greens
+55-64,Female,GCSE,"£12,571-£50,270",North West,Lib-Dems
+35-44,Male,Degree,"£12,571-£50,270",North West,Labour
+18-24,Male,A-levels,"£125,140+",South West,Lib-Dems
+18-24,Female,Degree,"£12,571-£50,270",South East,Greens
+55-64,Male,None,"£12,571-£50,270",North East,Labour
+25-34,Male,Degree,"£12,571-£50,270",North East,Conservatives
+45-54,Male,Degree,"£12,571-£50,270",East of England,Labour
+35-44,Female,GCSE,"£12,571-£50,270",North East,Reform UK
+35-44,Female,A-levels,"£12,571-£50,270",Wales,Reform UK
+35-44,Male,A-levels,"£12,571-£50,270",Yorkshire and The Humber,Reform UK
+35-44,Male,GCSE,"£12,571-£50,270",North West,Lib-Dems
+18-24,Male,A-levels,"£50,271-£125,140",West Midlands,Conservatives
+25-34,Male,None,"£12,571-£50,270",South East,Lib-Dems
+25-34,Female,GCSE,"£50,271-£125,140",Scotland,Greens
+35-44,Male,Degree,"£12,571-£50,270",Wales,Conservatives
+25-34,Male,Degree,"0-£12,570",Scotland,Reform UK
+45-54,Female,GCSE,"£125,140+",Wales,Lib-Dems
+35-44,Male,GCSE,"£50,271-£125,140",North East,Greens
+35-44,Female,GCSE,"£12,571-£50,270",South East,Labour
+55-64,Female,A-levels,"0-£12,570",East of England,Lib-Dems
+35-44,Female,Degree,"0-£12,570",Scotland,Conservatives
+25-34,Female,Degree,"£12,571-£50,270",East Midlands,Reform UK
+25-34,Male,None,"0-£12,570",Wales,Greens
+55-64,Female,A-levels,"0-£12,570",Yorkshire and The Humber,Labour
+65+,Female,None,"0-£12,570",Wales,Labour
+35-44,Female,A-levels,"£50,271-£125,140",North East,Lib-Dems
+25-34,Male,Degree,"£12,571-£50,270",North East,Lib-Dems
+55-64,Female,A-levels,"£125,140+",North West,Labour
+18-24,Female,A-levels,"0-£12,570",East of England,Labour
+35-44,Male,Degree,"£50,271-£125,140",Scotland,Labour
+18-24,Female,A-levels,"£12,571-£50,270",West Midlands,Reform UK
+45-54,Male,None,"0-£12,570",North West,Conservatives
+45-54,Female,Degree,"£12,571-£50,270",South West,Labour
+55-64,Female,Degree,"£12,571-£50,270",Scotland,Labour
+65+,Male,Degree,"£12,571-£50,270",North West,Labour
+55-64,Female,A-levels,"£12,571-£50,270",East of England,Conservatives
+55-64,Female,None,"£12,571-£50,270",South West,Labour
+55-64,Male,None,"£50,271-£125,140",South West,SNP
+45-54,Male,A-levels,"£12,571-£50,270",Yorkshire and The Humber,Lib-Dems
+18-24,Male,A-levels,"£12,571-£50,270",Wales,Labour
+25-34,Male,Degree,"£12,571-£50,270",North East,Labour
+45-54,Female,None,"£12,571-£50,270",East Midlands,Labour
+25-34,Female,A-levels,"£12,571-£50,270",East of England,Reform UK
+35-44,Male,A-levels,"£12,571-£50,270",East Midlands,Greens
+18-24,Female,A-levels,"0-£12,570",Scotland,Conservatives
+65+,Female,Degree,"£12,571-£50,270",Wales,Conservatives
+45-54,Female,GCSE,"£12,571-£50,270",East Midlands,Conservatives
+18-24,Male,None,"0-£12,570",West Midlands,Reform UK
+35-44,Male,Degree,"£50,271-£125,140",London,Conservatives
+25-34,Male,A-levels,"0-£12,570",East of England,Conservatives
+45-54,Female,Degree,"£12,571-£50,270",South East,Greens
+45-54,Female,Degree,"£50,271-£125,140",Yorkshire and The Humber,Greens
+35-44,Female,None,"£12,571-£50,270",Wales,Reform UK
+35-44,Female,GCSE,"£12,571-£50,270",North East,Labour
+65+,Male,None,"£12,571-£50,270",East Midlands,Greens
+35-44,Male,None,"£50,271-£125,140",East of England,Conservatives
+45-54,Male,GCSE,"£12,571-£50,270",North East,Greens
+65+,Male,None,"£50,271-£125,140",Wales,Conservatives
+18-24,Male,None,"£12,571-£50,270",East of England,Conservatives
+45-54,Female,GCSE,"£50,271-£125,140",East Midlands,Conservatives
+55-64,Male,A-levels,"£50,271-£125,140",South East,Reform UK
+45-54,Male,None,"£12,571-£50,270",East Midlands,Labour
+45-54,Male,GCSE,"0-£12,570",West Midlands,Conservatives
+18-24,Male,None,"£125,140+",West Midlands,Labour
+45-54,Male,GCSE,"£125,140+",South East,Conservatives
+65+,Female,Degree,"£12,571-£50,270",North East,Conservatives
+45-54,Male,Degree,"£125,140+",North East,Lib-Dems
+25-34,Male,A-levels,"£12,571-£50,270",Scotland,Reform UK
+45-54,Male,GCSE,"£12,571-£50,270",North West,Conservatives
+45-54,Male,None,"£12,571-£50,270",West Midlands,Greens
+55-64,Female,GCSE,"£12,571-£50,270",East Midlands,Conservatives
+45-54,Female,GCSE,"£12,571-£50,270",Wales,Labour
+25-34,Female,None,"0-£12,570",East of England,Conservatives
+55-64,Female,Degree,"£12,571-£50,270",South East,Greens
+45-54,Male,GCSE,"£50,271-£125,140",Scotland,Labour
+55-64,Female,Degree,"£50,271-£125,140",Yorkshire and The Humber,Conservatives
+45-54,Female,A-levels,"0-£12,570",Yorkshire and The Humber,Conservatives
+18-24,Male,None,"£12,571-£50,270",East of England,Conservatives
+65+,Male,GCSE,"0-£12,570",West Midlands,Greens
+18-24,Female,Degree,"£12,571-£50,270",South West,Conservatives
+45-54,Female,None,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+65+,Female,Degree,"£12,571-£50,270",North East,Greens
+55-64,Female,A-levels,"0-£12,570",London,Reform UK
+65+,Male,Degree,"£12,571-£50,270",London,Greens
+35-44,Female,Degree,"£50,271-£125,140",Yorkshire and The Humber,Greens
+55-64,Female,A-levels,"£50,271-£125,140",Wales,Conservatives
+65+,Female,A-levels,"0-£12,570",Wales,Labour
+35-44,Male,A-levels,"£12,571-£50,270",West Midlands,Reform UK
+55-64,Male,GCSE,"0-£12,570",North East,Labour
+35-44,Male,GCSE,"0-£12,570",East Midlands,Lib-Dems
+65+,Female,A-levels,"0-£12,570",North East,Labour
+45-54,Female,GCSE,"0-£12,570",East Midlands,SNP
+45-54,Female,GCSE,"0-£12,570",London,Labour
+45-54,Female,None,"£12,571-£50,270",Scotland,SNP
+18-24,Female,None,"£12,571-£50,270",North East,Labour
+25-34,Male,None,"£12,571-£50,270",London,Labour
+35-44,Female,Degree,"0-£12,570",West Midlands,Labour
+45-54,Male,Degree,"£50,271-£125,140",East Midlands,Labour
+55-64,Male,Degree,"£12,571-£50,270",Scotland,Lib-Dems
+25-34,Female,Degree,"£12,571-£50,270",North East,Conservatives
+55-64,Male,None,"£12,571-£50,270",Scotland,Conservatives
+55-64,Female,GCSE,"£12,571-£50,270",Scotland,Reform UK
+45-54,Male,GCSE,"0-£12,570",Yorkshire and The Humber,Reform UK
+35-44,Male,None,"£12,571-£50,270",East of England,Lib-Dems
+65+,Male,A-levels,"£12,571-£50,270",Wales,Greens
+45-54,Male,A-levels,"£12,571-£50,270",East of England,Conservatives
+35-44,Male,Degree,"£12,571-£50,270",North East,Labour
+25-34,Female,None,"£50,271-£125,140",North West,Lib-Dems
+45-54,Female,GCSE,"0-£12,570",East of England,Conservatives
+45-54,Male,A-levels,"£12,571-£50,270",South East,Lib-Dems
+65+,Female,Degree,"0-£12,570",Wales,Greens
+55-64,Female,A-levels,"0-£12,570",Wales,Labour
+35-44,Male,None,"£12,571-£50,270",London,Labour
+45-54,Male,GCSE,"£12,571-£50,270",South East,Greens
+55-64,Male,GCSE,"0-£12,570",South West,Conservatives
+25-34,Male,None,"£12,571-£50,270",North East,Labour
+55-64,Male,Degree,"£12,571-£50,270",Scotland,SNP
+25-34,Male,None,"£50,271-£125,140",North East,Conservatives
+45-54,Female,Degree,"0-£12,570",South West,Conservatives
+45-54,Female,A-levels,"£50,271-£125,140",South West,Lib-Dems
+45-54,Female,A-levels,"£125,140+",South East,Labour
+55-64,Female,Degree,"£12,571-£50,270",East of England,Labour
+45-54,Male,A-levels,"£12,571-£50,270",Yorkshire and The Humber,Reform UK
+25-34,Female,A-levels,"£50,271-£125,140",North East,Conservatives
+45-54,Female,None,"0-£12,570",Yorkshire and The Humber,Lib-Dems
+18-24,Male,GCSE,"£12,571-£50,270",South East,Labour
+35-44,Male,A-levels,"£50,271-£125,140",North East,Greens
+25-34,Male,Degree,"0-£12,570",South East,Conservatives
+55-64,Female,GCSE,"£12,571-£50,270",East of England,Greens
+25-34,Female,Degree,"£12,571-£50,270",East of England,Reform UK
+55-64,Female,GCSE,"£12,571-£50,270",North East,Labour
+45-54,Male,None,"£12,571-£50,270",South East,SNP
+55-64,Male,None,"£12,571-£50,270",South East,Labour
+55-64,Female,Degree,"£12,571-£50,270",East of England,Reform UK
+55-64,Male,Degree,"£12,571-£50,270",South West,Labour
+55-64,Female,A-levels,"£12,571-£50,270",East of England,Reform UK
+65+,Male,GCSE,"£12,571-£50,270",North East,Lib-Dems
+55-64,Female,Degree,"£12,571-£50,270",London,Reform UK
+55-64,Male,None,"0-£12,570",South West,Lib-Dems
+45-54,Female,Degree,"£12,571-£50,270",South East,Conservatives
+18-24,Male,Degree,"0-£12,570",Yorkshire and The Humber,Labour
+55-64,Female,Degree,"£12,571-£50,270",Scotland,SNP
+35-44,Male,A-levels,"£12,571-£50,270",London,Conservatives
+45-54,Female,GCSE,"£12,571-£50,270",South East,Reform UK
+65+,Male,A-levels,"0-£12,570",East of England,Conservatives
+35-44,Female,Degree,"£12,571-£50,270",South East,Labour
+35-44,Female,GCSE,"£12,571-£50,270",Yorkshire and The Humber,Greens
+18-24,Female,None,"£50,271-£125,140",South West,Labour
+35-44,Male,GCSE,"£12,571-£50,270",Wales,Lib-Dems
+45-54,Female,A-levels,"0-£12,570",London,Reform UK
+45-54,Male,Degree,"£12,571-£50,270",North West,Conservatives
+55-64,Female,A-levels,"£12,571-£50,270",London,Labour
+35-44,Female,GCSE,"£12,571-£50,270",East Midlands,Greens
+18-24,Female,Degree,"£12,571-£50,270",East Midlands,Labour
+65+,Female,A-levels,"0-£12,570",East of England,Conservatives
+55-64,Female,GCSE,"£125,140+",Yorkshire and The Humber,Reform UK
+45-54,Male,None,"£125,140+",East of England,Reform UK
+18-24,Female,Degree,"£50,271-£125,140",South West,Greens
+65+,Female,None,"£125,140+",North East,Reform UK
+18-24,Female,Degree,"£50,271-£125,140",Yorkshire and The Humber,Lib-Dems
+65+,Female,GCSE,"£12,571-£50,270",London,Greens
+55-64,Male,GCSE,"£12,571-£50,270",West Midlands,Conservatives
+18-24,Male,A-levels,"0-£12,570",East Midlands,Reform UK
+25-34,Male,GCSE,"£12,571-£50,270",South East,Greens
+45-54,Female,Degree,"£12,571-£50,270",Scotland,Conservatives
+55-64,Male,A-levels,"£12,571-£50,270",South West,Labour
+45-54,Male,A-levels,"£50,271-£125,140",Yorkshire and The Humber,Labour
+25-34,Female,Degree,"£50,271-£125,140",East of England,Labour
+35-44,Male,Degree,"£50,271-£125,140",North East,Lib-Dems
+45-54,Male,None,"£50,271-£125,140",West Midlands,Labour
+45-54,Female,None,"£12,571-£50,270",North West,Conservatives
+45-54,Male,GCSE,"£50,271-£125,140",North East,Lib-Dems
+18-24,Male,GCSE,"£12,571-£50,270",East of England,Conservatives
+55-64,Male,A-levels,"£12,571-£50,270",North East,Conservatives
+65+,Male,GCSE,"£12,571-£50,270",London,Greens
+65+,Female,Degree,"£50,271-£125,140",North East,Labour
+35-44,Male,A-levels,"£12,571-£50,270",North West,Conservatives
+35-44,Male,A-levels,"£12,571-£50,270",North East,Conservatives
+65+,Female,None,"£50,271-£125,140",Scotland,Lib-Dems
+35-44,Male,None,"0-£12,570",East Midlands,Lib-Dems
+45-54,Female,None,"£50,271-£125,140",East Midlands,Labour
+45-54,Female,GCSE,"£12,571-£50,270",London,Lib-Dems
+45-54,Female,None,"£12,571-£50,270",Wales,Conservatives
+25-34,Female,A-levels,"£12,571-£50,270",Scotland,Labour
+45-54,Male,None,"£12,571-£50,270",South East,Labour
+45-54,Female,Degree,"0-£12,570",South West,Reform UK
+35-44,Male,Degree,"£12,571-£50,270",North West,Lib-Dems
+55-64,Male,GCSE,"0-£12,570",West Midlands,Reform UK
+25-34,Female,GCSE,"£12,571-£50,270",North West,Conservatives
+55-64,Female,Degree,"0-£12,570",Scotland,SNP
+45-54,Male,None,"0-£12,570",East of England,Labour
+35-44,Male,GCSE,"0-£12,570",Scotland,Labour
+35-44,Female,None,"0-£12,570",Scotland,Lib-Dems
+35-44,Female,Degree,"£12,571-£50,270",East of England,Reform UK
+55-64,Female,A-levels,"£12,571-£50,270",South West,Labour
+45-54,Female,None,"0-£12,570",North West,Labour
+35-44,Male,GCSE,"£12,571-£50,270",North West,Greens
+25-34,Male,GCSE,"£12,571-£50,270",Wales,Conservatives
+65+,Male,A-levels,"£12,571-£50,270",East Midlands,SNP
+35-44,Male,GCSE,"0-£12,570",South East,Conservatives
+25-34,Female,Degree,"£50,271-£125,140",South West,Greens
+55-64,Female,GCSE,"£12,571-£50,270",London,Labour
+55-64,Male,GCSE,"£12,571-£50,270",West Midlands,SNP
+45-54,Male,A-levels,"£12,571-£50,270",Yorkshire and The Humber,Labour
+45-54,Male,GCSE,"£50,271-£125,140",North West,Reform UK
+55-64,Female,Degree,"£12,571-£50,270",Wales,Labour
+45-54,Male,None,"£12,571-£50,270",South East,Lib-Dems
+25-34,Male,GCSE,"0-£12,570",East of England,Reform UK
+55-64,Male,Degree,"£50,271-£125,140",East Midlands,Conservatives
+45-54,Male,Degree,"£50,271-£125,140",North West,Conservatives
+35-44,Female,None,"£12,571-£50,270",North East,Labour
+65+,Male,None,"0-£12,570",North East,Labour
+35-44,Male,A-levels,"£12,571-£50,270",North East,Labour
+55-64,Female,Degree,"0-£12,570",West Midlands,Conservatives
+35-44,Male,A-levels,"£12,571-£50,270",London,Lib-Dems
+18-24,Male,None,"£50,271-£125,140",Scotland,SNP
+18-24,Male,None,"£12,571-£50,270",North West,Conservatives
+35-44,Female,GCSE,"£50,271-£125,140",East Midlands,Conservatives
+55-64,Male,A-levels,"£50,271-£125,140",Scotland,SNP
+35-44,Male,GCSE,"£50,271-£125,140",Yorkshire and The Humber,Lib-Dems
+35-44,Male,Degree,"0-£12,570",London,SNP
+45-54,Female,GCSE,"£12,571-£50,270",South West,Labour
+18-24,Male,None,"£12,571-£50,270",London,Lib-Dems
+65+,Female,None,"£50,271-£125,140",North West,Lib-Dems
+35-44,Male,A-levels,"0-£12,570",Wales,Lib-Dems
+65+,Male,GCSE,"£12,571-£50,270",Yorkshire and The Humber,Lib-Dems
+25-34,Male,GCSE,"0-£12,570",South East,Conservatives
+35-44,Female,Degree,"£12,571-£50,270",Wales,Greens
+55-64,Male,A-levels,"£50,271-£125,140",London,Labour
+65+,Female,A-levels,"0-£12,570",East of England,Labour
+45-54,Female,A-levels,"0-£12,570",Wales,Reform UK
+35-44,Male,GCSE,"£125,140+",North West,Conservatives
+35-44,Female,A-levels,"£12,571-£50,270",North West,Conservatives
+45-54,Male,A-levels,"£12,571-£50,270",Wales,Conservatives
+65+,Female,GCSE,"£12,571-£50,270",South East,Labour
+18-24,Female,None,"0-£12,570",East Midlands,Conservatives
+65+,Male,A-levels,"£50,271-£125,140",East of England,Reform UK
+45-54,Male,A-levels,"£50,271-£125,140",North East,Labour
+25-34,Male,A-levels,"£12,571-£50,270",West Midlands,Reform UK
+55-64,Female,Degree,"£50,271-£125,140",Yorkshire and The Humber,Conservatives
+45-54,Male,A-levels,"0-£12,570",Yorkshire and The Humber,Labour
+65+,Female,GCSE,"0-£12,570",East of England,Labour
+65+,Female,GCSE,"£50,271-£125,140",Scotland,Reform UK
+18-24,Female,Degree,"£12,571-£50,270",East of England,Lib-Dems
+35-44,Male,None,"£12,571-£50,270",South West,Reform UK
+25-34,Female,A-levels,"£12,571-£50,270",West Midlands,Labour
+45-54,Female,A-levels,"£12,571-£50,270",Yorkshire and The Humber,Labour
+18-24,Male,Degree,"0-£12,570",North East,Reform UK
+55-64,Female,Degree,"£12,571-£50,270",South East,Reform UK
+35-44,Male,A-levels,"£50,271-£125,140",North West,Labour
+45-54,Male,A-levels,"0-£12,570",North West,Labour
+35-44,Female,GCSE,"£125,140+",North East,Labour
+55-64,Male,GCSE,"0-£12,570",West Midlands,Labour
+25-34,Male,GCSE,"£12,571-£50,270",East of England,Conservatives
+45-54,Male,A-levels,"£12,571-£50,270",West Midlands,Reform UK
+55-64,Female,None,"£12,571-£50,270",London,Greens
+25-34,Female,GCSE,"£12,571-£50,270",East Midlands,Lib-Dems
+45-54,Male,GCSE,"£12,571-£50,270",North East,Reform UK
+18-24,Female,A-levels,"£12,571-£50,270",West Midlands,Reform UK
+25-34,Female,GCSE,"£50,271-£125,140",Scotland,Reform UK
+18-24,Female,None,"£50,271-£125,140",South East,Labour
+45-54,Male,A-levels,"£50,271-£125,140",West Midlands,Lib-Dems
+55-64,Female,A-levels,"£12,571-£50,270",West Midlands,Conservatives
+18-24,Male,GCSE,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+18-24,Female,None,"£50,271-£125,140",West Midlands,Labour
+25-34,Female,None,"£12,571-£50,270",North West,Conservatives
+25-34,Male,A-levels,"£12,571-£50,270",Wales,Reform UK
+25-34,Female,A-levels,"£50,271-£125,140",London,Labour
+35-44,Male,GCSE,"£50,271-£125,140",Scotland,Labour
+55-64,Female,Degree,"0-£12,570",Scotland,SNP
+45-54,Male,Degree,"£12,571-£50,270",West Midlands,Greens
+65+,Male,Degree,"£12,571-£50,270",East Midlands,Conservatives
+65+,Male,A-levels,"£12,571-£50,270",South West,Conservatives
+45-54,Female,GCSE,"£12,571-£50,270",North East,Reform UK
+45-54,Male,Degree,"0-£12,570",Yorkshire and The Humber,Reform UK
+45-54,Male,Degree,"0-£12,570",South East,Labour
+45-54,Female,Degree,"£12,571-£50,270",Scotland,Lib-Dems
+45-54,Female,GCSE,"0-£12,570",East Midlands,Lib-Dems
+45-54,Female,Degree,"£12,571-£50,270",North East,Greens
+35-44,Male,A-levels,"0-£12,570",London,Greens
+65+,Male,GCSE,"£12,571-£50,270",East of England,Conservatives
+35-44,Female,Degree,"£50,271-£125,140",East Midlands,Labour
+35-44,Male,Degree,"0-£12,570",London,Greens
+65+,Female,None,"0-£12,570",Wales,Labour
+55-64,Male,A-levels,"0-£12,570",North East,Lib-Dems
+18-24,Male,GCSE,"0-£12,570",East Midlands,Lib-Dems
+45-54,Male,GCSE,"0-£12,570",North West,Reform UK
+65+,Female,Degree,"£12,571-£50,270",East Midlands,Lib-Dems
+55-64,Male,GCSE,"0-£12,570",Yorkshire and The Humber,Reform UK
+65+,Female,A-levels,"0-£12,570",East of England,Conservatives
+45-54,Male,Degree,"0-£12,570",West Midlands,Greens
+45-54,Female,A-levels,"0-£12,570",South West,Conservatives
+45-54,Female,A-levels,"0-£12,570",South West,Labour
+25-34,Female,Degree,"£50,271-£125,140",Yorkshire and The Humber,Conservatives
+25-34,Female,Degree,"£12,571-£50,270",North West,Conservatives
+35-44,Male,GCSE,"£50,271-£125,140",London,Labour
+65+,Male,GCSE,"0-£12,570",London,Reform UK
+55-64,Female,GCSE,"£50,271-£125,140",Scotland,Greens
+25-34,Female,A-levels,"£125,140+",East Midlands,Conservatives
+18-24,Female,GCSE,"£12,571-£50,270",South West,Labour
+65+,Female,A-levels,"£12,571-£50,270",Wales,Greens
+35-44,Male,GCSE,"£12,571-£50,270",North West,Labour
+65+,Male,GCSE,"£12,571-£50,270",East Midlands,Greens
+55-64,Male,Degree,"0-£12,570",Yorkshire and The Humber,Greens
+55-64,Male,GCSE,"0-£12,570",North West,Conservatives
+45-54,Male,None,"0-£12,570",Wales,Reform UK
+65+,Male,GCSE,"£12,571-£50,270",East Midlands,Labour
+65+,Female,Degree,"£12,571-£50,270",West Midlands,Labour
+55-64,Male,GCSE,"£12,571-£50,270",London,Labour
+35-44,Male,A-levels,"0-£12,570",Scotland,Reform UK
+25-34,Female,None,"£12,571-£50,270",Wales,Labour
+55-64,Male,GCSE,"0-£12,570",East Midlands,Lib-Dems
+35-44,Male,A-levels,"£50,271-£125,140",East of England,Labour
+25-34,Male,GCSE,"0-£12,570",South East,Conservatives
+55-64,Male,Degree,"0-£12,570",South East,Greens
+45-54,Female,GCSE,"0-£12,570",North East,Reform UK
+45-54,Female,A-levels,"0-£12,570",Yorkshire and The Humber,Labour
+55-64,Female,GCSE,"£12,571-£50,270",Wales,Conservatives
+65+,Male,A-levels,"£12,571-£50,270",Scotland,Labour
+35-44,Male,None,"0-£12,570",Wales,Labour
+45-54,Female,Degree,"£12,571-£50,270",East of England,Conservatives
+35-44,Female,None,"£50,271-£125,140",South East,Greens
+25-34,Male,Degree,"£125,140+",North East,Lib-Dems
+55-64,Male,A-levels,"£12,571-£50,270",Wales,Greens
+25-34,Female,GCSE,"£50,271-£125,140",South East,Reform UK
+55-64,Female,A-levels,"£12,571-£50,270",South East,Labour
+65+,Male,GCSE,"£50,271-£125,140",London,Conservatives
+18-24,Male,None,"£12,571-£50,270",South East,Labour
+55-64,Male,Degree,"£12,571-£50,270",North East,Reform UK
+55-64,Male,GCSE,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+25-34,Male,A-levels,"£12,571-£50,270",North West,Greens
+55-64,Male,A-levels,"£12,571-£50,270",West Midlands,Labour
+45-54,Female,GCSE,"0-£12,570",West Midlands,Conservatives
+35-44,Male,None,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+55-64,Male,GCSE,"£12,571-£50,270",North East,Lib-Dems
+25-34,Female,None,"£12,571-£50,270",Yorkshire and The Humber,Labour
+45-54,Male,A-levels,"£50,271-£125,140",East of England,Reform UK
+55-64,Male,A-levels,"£12,571-£50,270",London,Greens
+18-24,Male,Degree,"£12,571-£50,270",Wales,Labour
+35-44,Female,A-levels,"£12,571-£50,270",South East,Conservatives
+65+,Male,None,"£50,271-£125,140",Yorkshire and The Humber,Conservatives
+45-54,Female,None,"£12,571-£50,270",North West,Conservatives
+35-44,Female,Degree,"£50,271-£125,140",Scotland,SNP
+25-34,Female,A-levels,"£12,571-£50,270",East of England,Conservatives
+45-54,Male,Degree,"£125,140+",Yorkshire and The Humber,Conservatives
+65+,Male,None,"£12,571-£50,270",South West,Reform UK
+55-64,Male,GCSE,"£12,571-£50,270",West Midlands,Lib-Dems
+35-44,Female,GCSE,"0-£12,570",London,Reform UK
+18-24,Male,None,"£12,571-£50,270",North East,Conservatives
+65+,Male,GCSE,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+25-34,Female,Degree,"£12,571-£50,270",Scotland,Lib-Dems
+55-64,Male,GCSE,"£12,571-£50,270",South East,Conservatives
+45-54,Male,GCSE,"£12,571-£50,270",Wales,Reform UK
+35-44,Female,A-levels,"0-£12,570",North East,Greens
+45-54,Male,Degree,"£50,271-£125,140",North West,Lib-Dems
+25-34,Male,Degree,"£12,571-£50,270",London,Labour
+65+,Male,A-levels,"£50,271-£125,140",Scotland,SNP
+25-34,Male,None,"£50,271-£125,140",Scotland,Conservatives
+45-54,Male,A-levels,"0-£12,570",South West,Labour
+55-64,Male,Degree,"£12,571-£50,270",South West,Lib-Dems
+55-64,Female,GCSE,"0-£12,570",South East,Greens
+45-54,Female,Degree,"£12,571-£50,270",North East,Reform UK
+35-44,Female,GCSE,"£50,271-£125,140",Scotland,Greens
+55-64,Male,A-levels,"£50,271-£125,140",West Midlands,Lib-Dems
+55-64,Male,Degree,"0-£12,570",Yorkshire and The Humber,Labour
+45-54,Female,None,"£12,571-£50,270",Yorkshire and The Humber,Labour
+65+,Male,Degree,"£50,271-£125,140",South West,Greens
+65+,Male,Degree,"£12,571-£50,270",London,Greens
+55-64,Male,A-levels,"£12,571-£50,270",East of England,Labour
+55-64,Male,Degree,"£12,571-£50,270",Yorkshire and The Humber,Labour
+25-34,Male,A-levels,"£12,571-£50,270",West Midlands,Reform UK
+55-64,Female,A-levels,"£50,271-£125,140",East of England,Lib-Dems
+35-44,Male,Degree,"£50,271-£125,140",North West,Labour
+35-44,Male,Degree,"£12,571-£50,270",North East,Reform UK
+45-54,Male,Degree,"£12,571-£50,270",East Midlands,Labour
+55-64,Male,None,"£12,571-£50,270",North West,Reform UK
+45-54,Female,A-levels,"£12,571-£50,270",North East,Reform UK
+25-34,Male,GCSE,"£50,271-£125,140",South East,Greens
+25-34,Male,Degree,"£12,571-£50,270",London,Lib-Dems
+25-34,Male,None,"£12,571-£50,270",East Midlands,Lib-Dems
+65+,Male,A-levels,"£12,571-£50,270",Yorkshire and The Humber,Labour
+55-64,Female,GCSE,"£50,271-£125,140",South West,Labour
+35-44,Female,Degree,"£12,571-£50,270",North West,Reform UK
+25-34,Male,GCSE,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+55-64,Female,Degree,"£50,271-£125,140",Scotland,SNP
+18-24,Male,None,"0-£12,570",Wales,Conservatives
+65+,Male,GCSE,"£12,571-£50,270",East of England,Labour
+45-54,Male,GCSE,"0-£12,570",North West,Conservatives
+55-64,Male,GCSE,"£50,271-£125,140",West Midlands,Conservatives
+35-44,Female,A-levels,"0-£12,570",South East,Labour
+45-54,Male,None,"0-£12,570",South East,Labour
+55-64,Male,A-levels,"£12,571-£50,270",East Midlands,Labour
+55-64,Female,Degree,"£12,571-£50,270",South East,Conservatives
+25-34,Male,A-levels,"£12,571-£50,270",North East,Labour
+55-64,Female,GCSE,"£12,571-£50,270",West Midlands,Labour
+65+,Male,Degree,"£12,571-£50,270",Wales,Lib-Dems
+18-24,Male,GCSE,"£12,571-£50,270",North West,SNP
+65+,Female,None,"£12,571-£50,270",Wales,Labour
+35-44,Male,A-levels,"£12,571-£50,270",West Midlands,Reform UK
+55-64,Female,A-levels,"£12,571-£50,270",East Midlands,Conservatives
+35-44,Male,None,"£50,271-£125,140",North East,SNP
+45-54,Female,None,"0-£12,570",East of England,Labour
+65+,Female,None,"£125,140+",North West,Greens
+35-44,Female,GCSE,"0-£12,570",London,Conservatives
+55-64,Male,GCSE,"£12,571-£50,270",East of England,Labour
+55-64,Male,Degree,"£12,571-£50,270",East of England,Labour
+35-44,Male,Degree,"0-£12,570",East of England,Conservatives
+35-44,Female,Degree,"£12,571-£50,270",Yorkshire and The Humber,Labour
+65+,Male,Degree,"£50,271-£125,140",North West,Lib-Dems
+18-24,Male,None,"£12,571-£50,270",Wales,Greens
+18-24,Male,None,"0-£12,570",Wales,Labour
+25-34,Male,None,"£12,571-£50,270",West Midlands,Reform UK
+18-24,Female,GCSE,"0-£12,570",East of England,Labour
+55-64,Male,None,"£12,571-£50,270",Scotland,SNP
+25-34,Male,GCSE,"£12,571-£50,270",East Midlands,Labour
+55-64,Female,GCSE,"£12,571-£50,270",Wales,Labour
+45-54,Female,None,"£50,271-£125,140",North West,SNP
+45-54,Male,Degree,"£12,571-£50,270",London,Labour
+25-34,Female,A-levels,"£12,571-£50,270",North West,Reform UK
+25-34,Female,Degree,"£12,571-£50,270",Wales,Labour
+35-44,Female,GCSE,"£12,571-£50,270",North East,Labour
+55-64,Male,Degree,"£12,571-£50,270",South East,Labour
+45-54,Male,None,"£12,571-£50,270",East of England,Labour
+55-64,Male,Degree,"0-£12,570",London,Labour
+55-64,Female,None,"£12,571-£50,270",Wales,Labour
+25-34,Female,Degree,"£12,571-£50,270",South West,Greens
+65+,Female,GCSE,"£12,571-£50,270",Yorkshire and The Humber,Greens
+45-54,Female,None,"£125,140+",Yorkshire and The Humber,SNP
+25-34,Female,Degree,"£50,271-£125,140",South East,Conservatives
+25-34,Male,GCSE,"0-£12,570",Yorkshire and The Humber,Conservatives
+65+,Female,GCSE,"£12,571-£50,270",South West,Greens
+45-54,Male,Degree,"£50,271-£125,140",South East,Conservatives
+55-64,Male,None,"£12,571-£50,270",North West,Labour
+55-64,Female,GCSE,"0-£12,570",Scotland,Greens
+35-44,Female,None,"0-£12,570",Scotland,Lib-Dems
+45-54,Female,Degree,"0-£12,570",South East,Conservatives
+65+,Male,GCSE,"£125,140+",South East,Greens
+45-54,Female,Degree,"£12,571-£50,270",North West,Reform UK
+35-44,Female,GCSE,"£12,571-£50,270",North West,Greens
+35-44,Female,Degree,"0-£12,570",East Midlands,Conservatives
+55-64,Male,GCSE,"£12,571-£50,270",South West,Conservatives
+18-24,Female,Degree,"£50,271-£125,140",South East,Conservatives
+65+,Male,Degree,"£50,271-£125,140",East Midlands,Labour
+45-54,Female,A-levels,"0-£12,570",Wales,Conservatives
+18-24,Female,None,"£12,571-£50,270",London,Greens
+65+,Female,Degree,"£12,571-£50,270",Yorkshire and The Humber,Labour
+35-44,Male,Degree,"£12,571-£50,270",South West,Labour
+55-64,Female,A-levels,"£12,571-£50,270",North East,Lib-Dems
+18-24,Female,None,"£50,271-£125,140",West Midlands,Labour
+55-64,Male,GCSE,"£12,571-£50,270",North West,Greens
+45-54,Male,Degree,"£12,571-£50,270",North East,Greens
+55-64,Male,GCSE,"£12,571-£50,270",London,Conservatives
+65+,Male,A-levels,"£12,571-£50,270",South East,Conservatives
+18-24,Male,GCSE,"£12,571-£50,270",North West,SNP
+35-44,Male,None,"£12,571-£50,270",South East,Labour
+55-64,Female,None,"£12,571-£50,270",North East,Conservatives
+18-24,Male,GCSE,"£12,571-£50,270",South East,Conservatives
+55-64,Female,None,"0-£12,570",North East,Labour
+55-64,Female,A-levels,"0-£12,570",South East,Labour
+65+,Male,A-levels,"£12,571-£50,270",London,Labour
+65+,Male,Degree,"0-£12,570",South East,Labour
+45-54,Female,GCSE,"0-£12,570",West Midlands,Reform UK
+35-44,Female,Degree,"0-£12,570",North East,Conservatives
+25-34,Male,None,"£12,571-£50,270",Wales,Labour
+35-44,Male,A-levels,"£12,571-£50,270",Scotland,Conservatives
+55-64,Male,A-levels,"£12,571-£50,270",East Midlands,Conservatives
+45-54,Male,GCSE,"£125,140+",South West,Reform UK
+65+,Male,None,"£50,271-£125,140",West Midlands,Conservatives
+45-54,Female,A-levels,"£12,571-£50,270",South East,Conservatives
+55-64,Female,None,"£12,571-£50,270",East of England,Conservatives
+55-64,Male,None,"£12,571-£50,270",North West,Greens
+65+,Female,Degree,"£12,571-£50,270",London,Greens
+45-54,Female,A-levels,"£12,571-£50,270",North West,Labour
+35-44,Male,Degree,"£12,571-£50,270",Yorkshire and The Humber,Reform UK
+55-64,Male,None,"£12,571-£50,270",North East,Greens
+18-24,Male,A-levels,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+65+,Female,Degree,"£12,571-£50,270",East of England,Labour
+18-24,Female,None,"0-£12,570",East Midlands,Lib-Dems
+25-34,Male,GCSE,"£12,571-£50,270",London,Labour
+65+,Male,A-levels,"£12,571-£50,270",London,SNP
+65+,Male,None,"£12,571-£50,270",East of England,Reform UK
+45-54,Female,GCSE,"£12,571-£50,270",South West,Reform UK
+55-64,Female,A-levels,"£12,571-£50,270",South East,Labour
+55-64,Male,None,"£50,271-£125,140",South East,Labour
+45-54,Male,GCSE,"£12,571-£50,270",East Midlands,Reform UK
+65+,Female,GCSE,"£50,271-£125,140",West Midlands,Reform UK
+55-64,Male,GCSE,"0-£12,570",North West,Labour
+35-44,Male,GCSE,"£12,571-£50,270",North East,Conservatives
+25-34,Male,Degree,"£12,571-£50,270",Wales,Greens
+35-44,Male,GCSE,"0-£12,570",Scotland,SNP
+55-64,Male,GCSE,"£12,571-£50,270",South East,Greens
+25-34,Female,None,"£125,140+",Scotland,Conservatives
+35-44,Female,None,"£12,571-£50,270",North East,Conservatives
+25-34,Male,Degree,"£12,571-£50,270",London,Labour
+25-34,Female,GCSE,"0-£12,570",East of England,Labour
+18-24,Male,A-levels,"0-£12,570",South East,Conservatives
+55-64,Female,GCSE,"£12,571-£50,270",North East,Reform UK
+45-54,Male,Degree,"0-£12,570",South West,Labour
+55-64,Female,None,"£12,571-£50,270",West Midlands,Labour
+35-44,Female,None,"£12,571-£50,270",Yorkshire and The Humber,Reform UK
+65+,Male,Degree,"£50,271-£125,140",South East,Conservatives
+25-34,Female,A-levels,"£12,571-£50,270",London,Labour
+25-34,Male,GCSE,"0-£12,570",Yorkshire and The Humber,Labour
+35-44,Female,Degree,"£12,571-£50,270",Wales,Lib-Dems
+55-64,Male,A-levels,"£125,140+",North East,Conservatives
+55-64,Male,A-levels,"£50,271-£125,140",Scotland,SNP
+35-44,Female,Degree,"£12,571-£50,270",Scotland,Reform UK
+65+,Male,GCSE,"£12,571-£50,270",East of England,Conservatives
+35-44,Female,GCSE,"0-£12,570",London,Conservatives
+35-44,Female,Degree,"£12,571-£50,270",London,Conservatives
+35-44,Female,Degree,"£12,571-£50,270",Yorkshire and The Humber,Lib-Dems
+45-54,Male,GCSE,"£50,271-£125,140",South West,Conservatives
+25-34,Male,Degree,"0-£12,570",North East,Conservatives
+35-44,Male,None,"£12,571-£50,270",South East,Labour
+45-54,Male,None,"£12,571-£50,270",South East,Conservatives
+55-64,Male,GCSE,"£50,271-£125,140",South East,Reform UK
+25-34,Male,None,"£12,571-£50,270",South East,Conservatives
+45-54,Male,A-levels,"0-£12,570",East of England,Greens
+65+,Male,A-levels,"0-£12,570",West Midlands,Conservatives
+18-24,Male,None,"£12,571-£50,270",North East,Reform UK
+65+,Female,GCSE,"£12,571-£50,270",Scotland,Conservatives
+25-34,Female,Degree,"£12,571-£50,270",East of England,Reform UK
+55-64,Female,A-levels,"£12,571-£50,270",South East,Conservatives
+45-54,Female,A-levels,"£12,571-£50,270",Yorkshire and The Humber,Labour
+35-44,Male,Degree,"£12,571-£50,270",West Midlands,Conservatives
+55-64,Female,Degree,"£12,571-£50,270",South West,Labour
+45-54,Female,Degree,"£12,571-£50,270",Wales,Conservatives
+65+,Male,GCSE,"£50,271-£125,140",Scotland,SNP
+25-34,Male,Degree,"0-£12,570",East of England,Conservatives
+55-64,Male,A-levels,"£12,571-£50,270",South East,Conservatives
+35-44,Female,A-levels,"0-£12,570",North East,Reform UK
+45-54,Female,GCSE,"£50,271-£125,140",Yorkshire and The Humber,Conservatives
+35-44,Male,GCSE,"£50,271-£125,140",East Midlands,Conservatives
+55-64,Male,Degree,"£12,571-£50,270",North East,Labour
+35-44,Female,None,"£12,571-£50,270",East of England,Reform UK
+65+,Female,A-levels,"£12,571-£50,270",London,Labour
+65+,Male,Degree,"£12,571-£50,270",North West,Labour
+45-54,Male,GCSE,"£12,571-£50,270",Wales,Conservatives
+55-64,Male,Degree,"£50,271-£125,140",North West,Greens
+35-44,Female,Degree,"£50,271-£125,140",East of England,Greens
+55-64,Female,Degree,"£50,271-£125,140",Yorkshire and The Humber,Labour
+18-24,Female,None,"£12,571-£50,270",Yorkshire and The Humber,Reform UK
+55-64,Male,Degree,"£125,140+",Yorkshire and The Humber,Conservatives
+25-34,Male,GCSE,"£12,571-£50,270",North West,Conservatives
+45-54,Male,A-levels,"0-£12,570",East Midlands,Lib-Dems
+45-54,Female,A-levels,"0-£12,570",Yorkshire and The Humber,Reform UK
+18-24,Female,A-levels,"£50,271-£125,140",East Midlands,SNP
+35-44,Female,A-levels,"£50,271-£125,140",North West,Lib-Dems
+25-34,Female,Degree,"£12,571-£50,270",South West,Greens
+55-64,Male,A-levels,"£50,271-£125,140",Wales,Lib-Dems
+35-44,Female,GCSE,"£12,571-£50,270",Wales,Labour
+18-24,Male,GCSE,"£50,271-£125,140",London,Greens
+45-54,Male,Degree,"£12,571-£50,270",West Midlands,Labour
+55-64,Female,GCSE,"£50,271-£125,140",West Midlands,Lib-Dems
+45-54,Female,Degree,"0-£12,570",East of England,Reform UK
+35-44,Female,A-levels,"£12,571-£50,270",Scotland,Greens
+65+,Female,Degree,"£125,140+",North West,Labour
+25-34,Male,GCSE,"£50,271-£125,140",North West,Lib-Dems
+45-54,Male,A-levels,"£50,271-£125,140",East of England,Lib-Dems
+45-54,Male,A-levels,"£12,571-£50,270",Yorkshire and The Humber,Labour
+25-34,Female,A-levels,"£12,571-£50,270",West Midlands,Lib-Dems
+25-34,Female,None,"£12,571-£50,270",East Midlands,Labour
+55-64,Male,Degree,"£12,571-£50,270",Yorkshire and The Humber,Labour
+65+,Female,Degree,"£50,271-£125,140",East Midlands,Reform UK
+55-64,Male,Degree,"£12,571-£50,270",East of England,Lib-Dems
+35-44,Male,Degree,"£12,571-£50,270",South West,Labour
+35-44,Male,None,"£50,271-£125,140",North West,Labour
+25-34,Female,Degree,"£12,571-£50,270",Scotland,Greens
+25-34,Male,None,"£50,271-£125,140",South East,Labour
+35-44,Male,GCSE,"£12,571-£50,270",South East,Labour
+35-44,Female,Degree,"£12,571-£50,270",West Midlands,Reform UK
+55-64,Female,A-levels,"0-£12,570",South East,Conservatives
+55-64,Female,GCSE,"0-£12,570",Yorkshire and The Humber,Greens
+35-44,Male,Degree,"£12,571-£50,270",South West,Lib-Dems
+45-54,Male,A-levels,"£12,571-£50,270",East of England,Reform UK
+18-24,Male,A-levels,"£12,571-£50,270",South East,Labour
+45-54,Male,A-levels,"£50,271-£125,140",Wales,Reform UK
+35-44,Male,Degree,"£125,140+",North West,Lib-Dems
+35-44,Female,None,"£50,271-£125,140",South East,Conservatives
+25-34,Male,GCSE,"£12,571-£50,270",West Midlands,Labour
+35-44,Female,None,"£50,271-£125,140",South East,Greens
+45-54,Male,GCSE,"£12,571-£50,270",North West,Conservatives
+25-34,Female,Degree,"£12,571-£50,270",North East,Labour
+18-24,Female,None,"£12,571-£50,270",Wales,Conservatives
+65+,Female,GCSE,"£50,271-£125,140",North West,Conservatives
+35-44,Male,A-levels,"£50,271-£125,140",Yorkshire and The Humber,Labour
+55-64,Male,A-levels,"0-£12,570",East Midlands,Lib-Dems
+35-44,Female,GCSE,"£12,571-£50,270",South West,Reform UK
+18-24,Female,A-levels,"£50,271-£125,140",East Midlands,Reform UK
+55-64,Male,GCSE,"0-£12,570",Yorkshire and The Humber,Reform UK
+18-24,Male,A-levels,"£50,271-£125,140",East Midlands,Lib-Dems
+45-54,Male,GCSE,"0-£12,570",East Midlands,Greens
+65+,Male,GCSE,"£12,571-£50,270",South West,Greens
+35-44,Female,Degree,"0-£12,570",East Midlands,Labour
+45-54,Female,GCSE,"£50,271-£125,140",Wales,Reform UK
+65+,Male,A-levels,"£12,571-£50,270",East of England,Labour
+45-54,Female,Degree,"£12,571-£50,270",East of England,SNP
+45-54,Male,A-levels,"£50,271-£125,140",South East,Conservatives
+45-54,Male,A-levels,"£50,271-£125,140",London,Lib-Dems
+45-54,Male,Degree,"£50,271-£125,140",Wales,Reform UK
+25-34,Female,A-levels,"£50,271-£125,140",North East,SNP
+55-64,Female,A-levels,"£12,571-£50,270",East Midlands,Conservatives
+18-24,Male,Degree,"£12,571-£50,270",South East,Conservatives
+55-64,Female,GCSE,"£50,271-£125,140",London,Labour
+25-34,Male,Degree,"£12,571-£50,270",Wales,Greens
+25-34,Female,GCSE,"£50,271-£125,140",West Midlands,Labour
+45-54,Male,Degree,"£12,571-£50,270",West Midlands,Reform UK
+55-64,Male,Degree,"0-£12,570",South West,Labour
+45-54,Female,GCSE,"0-£12,570",Wales,Greens
+18-24,Male,None,"£12,571-£50,270",South East,Labour
+35-44,Female,Degree,"£12,571-£50,270",East Midlands,Labour
+25-34,Male,Degree,"£12,571-£50,270",South East,Labour
+35-44,Male,GCSE,"£50,271-£125,140",West Midlands,Labour
+65+,Female,GCSE,"£50,271-£125,140",Yorkshire and The Humber,Greens
+25-34,Male,GCSE,"£12,571-£50,270",London,Labour
+25-34,Female,None,"£12,571-£50,270",East of England,Labour
+45-54,Female,None,"£50,271-£125,140",East Midlands,Labour
+65+,Female,A-levels,"0-£12,570",South West,Labour
+35-44,Female,None,"£12,571-£50,270",London,Reform UK
+45-54,Male,A-levels,"£50,271-£125,140",Yorkshire and The Humber,Reform UK
+55-64,Male,Degree,"£12,571-£50,270",Scotland,Reform UK
+25-34,Female,Degree,"0-£12,570",Scotland,SNP
+55-64,Male,A-levels,"£12,571-£50,270",Yorkshire and The Humber,Labour
+65+,Female,GCSE,"£12,571-£50,270",Scotland,Labour
+18-24,Male,Degree,"0-£12,570",Yorkshire and The Humber,Conservatives
+45-54,Male,A-levels,"£50,271-£125,140",London,Reform UK
+45-54,Female,A-levels,"£50,271-£125,140",East Midlands,Conservatives
+65+,Male,Degree,"£12,571-£50,270",North East,Labour
+55-64,Male,GCSE,"£12,571-£50,270",South East,Reform UK
+25-34,Female,A-levels,"£12,571-£50,270",West Midlands,Labour
+25-34,Female,GCSE,"£12,571-£50,270",Scotland,Conservatives
+45-54,Female,A-levels,"£12,571-£50,270",North West,Conservatives
+55-64,Female,Degree,"£12,571-£50,270",West Midlands,Lib-Dems
+35-44,Male,A-levels,"£50,271-£125,140",North West,Reform UK
+25-34,Female,GCSE,"0-£12,570",Wales,Greens
+55-64,Male,Degree,"0-£12,570",South East,Labour
+65+,Male,A-levels,"£12,571-£50,270",Wales,Labour
+35-44,Male,None,"0-£12,570",Wales,Labour
+55-64,Male,A-levels,"0-£12,570",West Midlands,Reform UK
+18-24,Female,A-levels,"0-£12,570",London,Labour
+55-64,Male,GCSE,"£50,271-£125,140",East Midlands,Conservatives
+45-54,Female,GCSE,"0-£12,570",Yorkshire and The Humber,Lib-Dems
+45-54,Male,GCSE,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+18-24,Female,GCSE,"£12,571-£50,270",South East,Greens
+45-54,Male,None,"0-£12,570",North East,Conservatives
+65+,Female,GCSE,"£12,571-£50,270",North West,Reform UK
+18-24,Female,GCSE,"£50,271-£125,140",West Midlands,Labour
+45-54,Male,GCSE,"£12,571-£50,270",East of England,SNP
+25-34,Male,Degree,"0-£12,570",London,Lib-Dems
+55-64,Female,None,"0-£12,570",Scotland,Conservatives
+55-64,Male,Degree,"0-£12,570",Wales,Reform UK
+35-44,Male,A-levels,"£12,571-£50,270",Yorkshire and The Humber,Labour
+35-44,Female,Degree,"0-£12,570",North East,Labour
+45-54,Male,Degree,"£12,571-£50,270",Yorkshire and The Humber,Lib-Dems
+55-64,Male,Degree,"£12,571-£50,270",West Midlands,Lib-Dems
+45-54,Female,A-levels,"£12,571-£50,270",Scotland,Lib-Dems
+25-34,Male,None,"£50,271-£125,140",Wales,Lib-Dems
+65+,Female,A-levels,"£12,571-£50,270",East of England,Labour
+65+,Male,Degree,"£12,571-£50,270",South East,Labour
+55-64,Male,Degree,"£50,271-£125,140",South West,Conservatives
+45-54,Male,GCSE,"£12,571-£50,270",South West,Lib-Dems
+18-24,Female,A-levels,"£50,271-£125,140",South East,Reform UK
+25-34,Male,Degree,"0-£12,570",London,Labour
+55-64,Female,Degree,"£12,571-£50,270",London,Greens
+45-54,Male,A-levels,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+25-34,Female,GCSE,"£12,571-£50,270",Scotland,Lib-Dems
+18-24,Female,Degree,"£12,571-£50,270",North East,Greens
+55-64,Female,A-levels,"£50,271-£125,140",Scotland,Conservatives
+35-44,Female,None,"£12,571-£50,270",South East,Conservatives
+45-54,Male,None,"0-£12,570",East of England,Reform UK
+35-44,Male,Degree,"0-£12,570",London,Greens
+35-44,Male,None,"£12,571-£50,270",North East,Lib-Dems
+18-24,Male,GCSE,"£50,271-£125,140",London,Greens
+55-64,Female,GCSE,"£12,571-£50,270",East of England,Conservatives
+45-54,Male,None,"£12,571-£50,270",South West,Reform UK
+35-44,Female,A-levels,"£12,571-£50,270",West Midlands,Reform UK
+25-34,Male,A-levels,"£12,571-£50,270",North West,Conservatives
+55-64,Male,GCSE,"£12,571-£50,270",East of England,Reform UK
+55-64,Male,GCSE,"0-£12,570",East of England,Labour
+45-54,Male,None,"£12,571-£50,270",North West,Conservatives
+45-54,Male,Degree,"£12,571-£50,270",Yorkshire and The Humber,Labour
+65+,Female,GCSE,"0-£12,570",Yorkshire and The Humber,Labour
+35-44,Female,None,"0-£12,570",Wales,Greens
+35-44,Male,None,"£12,571-£50,270",Wales,Labour
+45-54,Female,GCSE,"£50,271-£125,140",South West,Lib-Dems
+25-34,Female,A-levels,"£12,571-£50,270",East of England,Labour
+45-54,Male,Degree,"£12,571-£50,270",Scotland,Greens
+18-24,Male,None,"£125,140+",North East,Labour
+55-64,Female,A-levels,"0-£12,570",Scotland,Conservatives
+45-54,Male,A-levels,"£50,271-£125,140",East of England,Reform UK
+35-44,Female,A-levels,"£50,271-£125,140",North East,Greens
+35-44,Male,None,"£12,571-£50,270",North West,Labour
+35-44,Female,A-levels,"£50,271-£125,140",Wales,Labour
+45-54,Female,A-levels,"£50,271-£125,140",Wales,Conservatives
+65+,Female,None,"0-£12,570",North West,Lib-Dems
+45-54,Male,Degree,"0-£12,570",West Midlands,Reform UK
+65+,Male,GCSE,"0-£12,570",East Midlands,Conservatives
+25-34,Male,GCSE,"£50,271-£125,140",North West,Labour
+65+,Male,Degree,"£12,571-£50,270",East of England,SNP
+65+,Male,Degree,"£12,571-£50,270",London,SNP
+18-24,Female,GCSE,"£50,271-£125,140",East Midlands,Reform UK
+55-64,Female,GCSE,"£50,271-£125,140",West Midlands,Lib-Dems
+25-34,Male,None,"£50,271-£125,140",London,Reform UK
+55-64,Female,A-levels,"0-£12,570",West Midlands,Conservatives
+25-34,Female,Degree,"0-£12,570",Yorkshire and The Humber,Conservatives
+35-44,Female,None,"£12,571-£50,270",Yorkshire and The Humber,Lib-Dems
+55-64,Female,A-levels,"0-£12,570",South West,Reform UK
+65+,Male,None,"£50,271-£125,140",South East,Labour
+65+,Female,Degree,"£12,571-£50,270",East of England,Reform UK
+45-54,Female,A-levels,"£12,571-£50,270",West Midlands,Reform UK
+45-54,Male,None,"£12,571-£50,270",East Midlands,Greens
+55-64,Female,Degree,"0-£12,570",London,Labour
+18-24,Male,Degree,"£50,271-£125,140",North East,Reform UK
+35-44,Male,Degree,"0-£12,570",Scotland,SNP
+45-54,Female,A-levels,"£50,271-£125,140",West Midlands,Conservatives
+45-54,Female,A-levels,"£50,271-£125,140",East of England,Conservatives
+35-44,Male,Degree,"£12,571-£50,270",Yorkshire and The Humber,Greens
+45-54,Male,A-levels,"£12,571-£50,270",London,Lib-Dems
+45-54,Female,GCSE,"£50,271-£125,140",West Midlands,Labour
+35-44,Male,Degree,"£12,571-£50,270",Yorkshire and The Humber,Labour
+25-34,Female,GCSE,"£12,571-£50,270",West Midlands,Lib-Dems
+45-54,Male,Degree,"£50,271-£125,140",South West,Conservatives
+65+,Male,A-levels,"£12,571-£50,270",London,Greens
+65+,Male,A-levels,"0-£12,570",North West,Labour
+25-34,Female,Degree,"0-£12,570",Wales,Labour
+45-54,Male,GCSE,"0-£12,570",North West,Reform UK
+45-54,Female,Degree,"£12,571-£50,270",Yorkshire and The Humber,Greens
+55-64,Female,Degree,"0-£12,570",South East,Lib-Dems
+65+,Male,GCSE,"£12,571-£50,270",South West,Reform UK
+35-44,Female,A-levels,"0-£12,570",Yorkshire and The Humber,Lib-Dems
+35-44,Male,GCSE,"£50,271-£125,140",London,Conservatives
+45-54,Male,A-levels,"£12,571-£50,270",South West,SNP
+45-54,Male,Degree,"£50,271-£125,140",Wales,Labour
+45-54,Male,A-levels,"£125,140+",Yorkshire and The Humber,Labour
+65+,Female,GCSE,"£12,571-£50,270",South East,Greens
+45-54,Male,GCSE,"£12,571-£50,270",West Midlands,Reform UK
+18-24,Female,A-levels,"£50,271-£125,140",South East,Reform UK
+25-34,Female,GCSE,"£12,571-£50,270",North East,Conservatives
+35-44,Male,Degree,"0-£12,570",West Midlands,Conservatives
+65+,Female,Degree,"0-£12,570",South West,Reform UK
+55-64,Male,Degree,"£12,571-£50,270",North East,Reform UK
+45-54,Female,GCSE,"0-£12,570",London,Conservatives
+25-34,Female,Degree,"£12,571-£50,270",South East,Reform UK
+18-24,Female,GCSE,"£50,271-£125,140",East Midlands,Reform UK
+25-34,Male,None,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+35-44,Male,A-levels,"£12,571-£50,270",West Midlands,Labour
+25-34,Female,None,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+55-64,Female,A-levels,"£50,271-£125,140",Yorkshire and The Humber,Reform UK
+45-54,Male,Degree,"£12,571-£50,270",North West,Reform UK
+55-64,Male,None,"0-£12,570",East of England,Greens
+25-34,Male,Degree,"£50,271-£125,140",East of England,Reform UK
+35-44,Male,None,"£50,271-£125,140",South East,Labour
+65+,Female,None,"£50,271-£125,140",Yorkshire and The Humber,Reform UK
+35-44,Female,A-levels,"£50,271-£125,140",East Midlands,SNP
+55-64,Female,Degree,"£12,571-£50,270",London,Reform UK
+18-24,Female,Degree,"£50,271-£125,140",Scotland,Conservatives
+25-34,Male,GCSE,"£12,571-£50,270",South West,Labour
+35-44,Female,None,"£12,571-£50,270",Wales,Labour
+18-24,Male,Degree,"£125,140+",Scotland,SNP
+25-34,Male,Degree,"£12,571-£50,270",London,Conservatives
+45-54,Male,None,"0-£12,570",South East,Conservatives
+55-64,Female,A-levels,"£12,571-£50,270",North East,Conservatives
+55-64,Male,GCSE,"£12,571-£50,270",South East,Labour
+25-34,Female,GCSE,"0-£12,570",West Midlands,Greens
+25-34,Male,None,"£12,571-£50,270",West Midlands,Conservatives
+45-54,Male,Degree,"£12,571-£50,270",North East,Reform UK
+45-54,Male,GCSE,"£12,571-£50,270",South West,Labour
+25-34,Male,A-levels,"£12,571-£50,270",South East,Greens
+35-44,Male,Degree,"£12,571-£50,270",South West,Labour
+35-44,Female,GCSE,"£12,571-£50,270",South West,Conservatives
+55-64,Female,Degree,"£12,571-£50,270",South East,Lib-Dems
+55-64,Female,Degree,"0-£12,570",North East,Conservatives
+45-54,Male,A-levels,"£50,271-£125,140",Yorkshire and The Humber,Labour
+55-64,Female,None,"£50,271-£125,140",North West,Labour
+35-44,Male,A-levels,"£12,571-£50,270",London,Labour
+25-34,Female,Degree,"£125,140+",London,SNP
+65+,Male,None,"£50,271-£125,140",East of England,Conservatives
+35-44,Female,Degree,"£50,271-£125,140",Yorkshire and The Humber,Reform UK
+35-44,Male,A-levels,"£12,571-£50,270",London,Conservatives
+25-34,Female,Degree,"£12,571-£50,270",South East,SNP
+55-64,Female,GCSE,"£12,571-£50,270",London,Greens
+18-24,Female,GCSE,"£50,271-£125,140",Scotland,Reform UK
+65+,Male,GCSE,"£12,571-£50,270",North East,Labour
+45-54,Male,A-levels,"£12,571-£50,270",London,Labour
+25-34,Male,GCSE,"0-£12,570",South East,Reform UK
+35-44,Female,None,"£12,571-£50,270",Scotland,Conservatives
+65+,Male,Degree,"£12,571-£50,270",South East,Greens
+35-44,Male,Degree,"£12,571-£50,270",East Midlands,Labour
+65+,Female,A-levels,"£12,571-£50,270",South East,Reform UK
+65+,Female,None,"£50,271-£125,140",Scotland,Labour
+65+,Male,Degree,"0-£12,570",North East,Reform UK
+25-34,Female,GCSE,"0-£12,570",East Midlands,Conservatives
+45-54,Male,Degree,"£12,571-£50,270",South West,Lib-Dems
+18-24,Female,Degree,"0-£12,570",East of England,Labour
+55-64,Male,A-levels,"£50,271-£125,140",London,Labour
+45-54,Male,A-levels,"0-£12,570",Scotland,SNP
+45-54,Female,Degree,"£12,571-£50,270",Yorkshire and The Humber,Lib-Dems
+65+,Male,GCSE,"£12,571-£50,270",Wales,Lib-Dems
+55-64,Female,GCSE,"£12,571-£50,270",North West,Reform UK
+18-24,Male,Degree,"£12,571-£50,270",London,Labour
+65+,Male,A-levels,"0-£12,570",West Midlands,Greens
+55-64,Female,None,"0-£12,570",South West,Reform UK
+65+,Male,A-levels,"£12,571-£50,270",South West,Reform UK
+35-44,Female,A-levels,"0-£12,570",Yorkshire and The Humber,Greens
+45-54,Female,Degree,"£12,571-£50,270",Wales,Conservatives
+35-44,Female,Degree,"£12,571-£50,270",South East,Lib-Dems
+18-24,Female,A-levels,"0-£12,570",North West,Conservatives
+45-54,Male,None,"£12,571-£50,270",East of England,Conservatives
+55-64,Female,None,"0-£12,570",North East,Labour
+55-64,Female,None,"£12,571-£50,270",South East,Lib-Dems
+35-44,Male,GCSE,"0-£12,570",London,Labour
+45-54,Male,A-levels,"£12,571-£50,270",East Midlands,Labour
+35-44,Female,GCSE,"£12,571-£50,270",Scotland,Conservatives
+18-24,Female,Degree,"£12,571-£50,270",North West,Lib-Dems
+25-34,Male,A-levels,"£12,571-£50,270",East of England,Labour
+55-64,Male,None,"£12,571-£50,270",Wales,Lib-Dems
+45-54,Female,GCSE,"0-£12,570",Wales,Labour
+45-54,Male,A-levels,"0-£12,570",South West,Lib-Dems
+45-54,Male,None,"£12,571-£50,270",North East,Greens
+45-54,Female,None,"£50,271-£125,140",East Midlands,Reform UK
+55-64,Female,None,"£50,271-£125,140",South West,Reform UK
+35-44,Male,A-levels,"0-£12,570",South West,Reform UK
+65+,Female,Degree,"£12,571-£50,270",South West,Greens
+45-54,Male,A-levels,"0-£12,570",West Midlands,Lib-Dems
+65+,Male,GCSE,"£12,571-£50,270",East of England,Lib-Dems
+45-54,Male,Degree,"£50,271-£125,140",East Midlands,Lib-Dems
+55-64,Female,None,"£12,571-£50,270",North West,Reform UK
+35-44,Male,Degree,"0-£12,570",Wales,Reform UK
+25-34,Male,Degree,"£50,271-£125,140",Scotland,Conservatives
+45-54,Male,A-levels,"0-£12,570",Yorkshire and The Humber,Conservatives
+35-44,Male,A-levels,"£50,271-£125,140",West Midlands,Labour
+35-44,Female,GCSE,"£12,571-£50,270",West Midlands,Conservatives
+45-54,Female,Degree,"0-£12,570",Wales,Labour
+55-64,Male,Degree,"0-£12,570",South West,Labour
+45-54,Male,A-levels,"£12,571-£50,270",East Midlands,Reform UK
+18-24,Female,GCSE,"£50,271-£125,140",Wales,Labour
+55-64,Female,Degree,"£50,271-£125,140",South West,Lib-Dems
+45-54,Male,None,"0-£12,570",Wales,Reform UK
+65+,Female,None,"0-£12,570",East Midlands,Labour
+65+,Female,A-levels,"£12,571-£50,270",North East,Reform UK
+45-54,Male,A-levels,"0-£12,570",North West,Greens
+35-44,Female,A-levels,"£12,571-£50,270",London,Labour
+45-54,Male,GCSE,"£125,140+",Wales,Lib-Dems
+65+,Female,Degree,"£12,571-£50,270",Scotland,Labour
+25-34,Female,None,"0-£12,570",East of England,Lib-Dems
+55-64,Female,A-levels,"0-£12,570",North East,Lib-Dems
+65+,Female,GCSE,"£12,571-£50,270",North West,Lib-Dems
+25-34,Male,A-levels,"0-£12,570",London,Greens
+35-44,Male,None,"0-£12,570",West Midlands,Greens
+65+,Female,GCSE,"£50,271-£125,140",South East,Labour
+18-24,Male,A-levels,"£12,571-£50,270",South West,Reform UK
+18-24,Female,GCSE,"£50,271-£125,140",East Midlands,Greens
+45-54,Male,None,"£12,571-£50,270",South West,Greens
+35-44,Male,A-levels,"£50,271-£125,140",Scotland,SNP
+45-54,Female,GCSE,"0-£12,570",South West,Labour
+35-44,Female,Degree,"0-£12,570",North East,Reform UK
+55-64,Male,GCSE,"£12,571-£50,270",East of England,Labour
+35-44,Female,None,"£12,571-£50,270",East Midlands,Labour
+45-54,Female,None,"0-£12,570",North West,Labour
+55-64,Female,A-levels,"£12,571-£50,270",North West,Conservatives
+55-64,Male,Degree,"0-£12,570",Yorkshire and The Humber,Reform UK
+55-64,Male,A-levels,"0-£12,570",West Midlands,Labour
+65+,Male,None,"0-£12,570",East of England,Conservatives
+25-34,Male,Degree,"£12,571-£50,270",North West,Conservatives
+18-24,Female,None,"0-£12,570",East Midlands,Labour
+35-44,Female,Degree,"£12,571-£50,270",South West,Labour
+18-24,Male,Degree,"£12,571-£50,270",Wales,Labour
+65+,Female,Degree,"£12,571-£50,270",South West,Lib-Dems
+45-54,Female,Degree,"0-£12,570",Yorkshire and The Humber,Greens
+55-64,Female,None,"£12,571-£50,270",Wales,Lib-Dems
+25-34,Female,None,"£12,571-£50,270",Wales,Reform UK
+65+,Male,Degree,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+45-54,Male,A-levels,"0-£12,570",North East,Reform UK
+18-24,Female,GCSE,"£12,571-£50,270",South East,Labour
+35-44,Male,A-levels,"£12,571-£50,270",North West,Labour
+55-64,Male,None,"0-£12,570",North West,Greens
+25-34,Female,None,"£12,571-£50,270",Wales,Greens
+55-64,Female,Degree,"£12,571-£50,270",East Midlands,Lib-Dems
+55-64,Male,Degree,"£12,571-£50,270",North East,Conservatives
+45-54,Female,Degree,"£50,271-£125,140",East of England,Reform UK
+55-64,Male,GCSE,"£12,571-£50,270",London,Lib-Dems
+25-34,Female,None,"£12,571-£50,270",Yorkshire and The Humber,Labour
+45-54,Female,None,"£50,271-£125,140",Scotland,Labour
+25-34,Male,Degree,"0-£12,570",East Midlands,Conservatives
+25-34,Female,A-levels,"£50,271-£125,140",North East,Greens
+25-34,Male,GCSE,"£12,571-£50,270",South West,Labour
+35-44,Male,Degree,"0-£12,570",South West,Lib-Dems
+45-54,Female,Degree,"0-£12,570",Yorkshire and The Humber,Labour
+35-44,Female,A-levels,"0-£12,570",East Midlands,Labour
+45-54,Female,None,"£12,571-£50,270",North East,Reform UK
+65+,Male,None,"0-£12,570",Yorkshire and The Humber,Conservatives
+35-44,Female,None,"£12,571-£50,270",East of England,Reform UK
+45-54,Female,None,"£50,271-£125,140",London,Labour
+35-44,Female,GCSE,"£12,571-£50,270",South East,Labour
+35-44,Female,Degree,"£12,571-£50,270",East Midlands,Labour
+65+,Male,GCSE,"£12,571-£50,270",South West,Reform UK
+55-64,Female,A-levels,"£12,571-£50,270",East of England,Lib-Dems
+55-64,Female,A-levels,"£12,571-£50,270",West Midlands,Lib-Dems
+55-64,Female,GCSE,"£12,571-£50,270",London,Greens
+35-44,Male,GCSE,"£12,571-£50,270",East Midlands,Lib-Dems
+45-54,Female,GCSE,"£125,140+",East of England,Lib-Dems
+45-54,Female,Degree,"£50,271-£125,140",West Midlands,Conservatives
+55-64,Female,GCSE,"0-£12,570",East of England,Reform UK
+65+,Female,Degree,"£50,271-£125,140",North West,Lib-Dems
+35-44,Male,None,"£12,571-£50,270",South West,SNP
+35-44,Male,Degree,"0-£12,570",West Midlands,Labour
+65+,Male,GCSE,"£12,571-£50,270",East Midlands,Lib-Dems
+25-34,Female,None,"0-£12,570",West Midlands,SNP
+45-54,Female,Degree,"£12,571-£50,270",North East,Labour
+55-64,Female,Degree,"0-£12,570",South West,Labour
+55-64,Female,Degree,"£12,571-£50,270",East Midlands,Reform UK
+35-44,Male,Degree,"£12,571-£50,270",East of England,Labour
+25-34,Male,None,"£12,571-£50,270",North West,SNP
+45-54,Female,A-levels,"£12,571-£50,270",London,Conservatives
+35-44,Female,GCSE,"0-£12,570",South East,Labour
+55-64,Male,Degree,"£12,571-£50,270",East Midlands,Labour
+45-54,Female,GCSE,"£50,271-£125,140",North East,Labour
+35-44,Male,GCSE,"0-£12,570",East of England,Conservatives
+45-54,Female,GCSE,"0-£12,570",East of England,Labour
+18-24,Female,None,"£12,571-£50,270",Wales,Lib-Dems
+25-34,Male,A-levels,"£12,571-£50,270",London,Lib-Dems
+25-34,Female,A-levels,"£12,571-£50,270",West Midlands,Labour
+25-34,Female,None,"£12,571-£50,270",North East,Labour
+45-54,Male,None,"£12,571-£50,270",West Midlands,Lib-Dems
+55-64,Female,None,"£50,271-£125,140",North West,Labour
+25-34,Female,Degree,"£50,271-£125,140",South West,Lib-Dems
+18-24,Female,None,"£12,571-£50,270",Scotland,Conservatives
+35-44,Male,None,"£50,271-£125,140",Wales,Conservatives
+35-44,Male,A-levels,"£125,140+",Wales,Labour
+55-64,Male,GCSE,"£12,571-£50,270",South West,Greens
+25-34,Female,None,"0-£12,570",East of England,Lib-Dems
+25-34,Male,Degree,"£12,571-£50,270",Wales,Greens
+45-54,Female,GCSE,"£12,571-£50,270",North West,Reform UK
+65+,Female,Degree,"0-£12,570",South West,Greens
+45-54,Female,None,"0-£12,570",North West,Labour
+25-34,Male,Degree,"0-£12,570",London,Lib-Dems
+55-64,Female,Degree,"0-£12,570",Yorkshire and The Humber,Labour
+35-44,Male,GCSE,"£50,271-£125,140",North East,Labour
+45-54,Female,GCSE,"£12,571-£50,270",East of England,Labour
+65+,Female,GCSE,"£125,140+",South West,SNP
+55-64,Female,None,"£12,571-£50,270",West Midlands,Greens
+45-54,Female,A-levels,"£12,571-£50,270",South West,Conservatives
+35-44,Male,A-levels,"£50,271-£125,140",Scotland,Lib-Dems
+35-44,Male,Degree,"£50,271-£125,140",West Midlands,Conservatives
+35-44,Male,Degree,"0-£12,570",North East,Labour
+45-54,Male,GCSE,"£50,271-£125,140",Wales,Reform UK
+25-34,Female,GCSE,"£12,571-£50,270",South West,Reform UK
+55-64,Female,A-levels,"£12,571-£50,270",Yorkshire and The Humber,Labour
+35-44,Female,GCSE,"£50,271-£125,140",South East,Labour
+35-44,Female,Degree,"£12,571-£50,270",East of England,Conservatives
+55-64,Female,GCSE,"0-£12,570",South West,Greens
+18-24,Female,A-levels,"£50,271-£125,140",London,Lib-Dems
+35-44,Male,Degree,"0-£12,570",South East,Reform UK
+35-44,Female,Degree,"£125,140+",London,Labour
+55-64,Male,A-levels,"£12,571-£50,270",East of England,Conservatives
+18-24,Male,A-levels,"0-£12,570",London,Labour
+45-54,Male,None,"0-£12,570",South West,Labour
+65+,Male,A-levels,"£12,571-£50,270",North West,Labour
+55-64,Female,A-levels,"0-£12,570",London,Lib-Dems
+25-34,Male,A-levels,"0-£12,570",West Midlands,SNP
+25-34,Male,GCSE,"£12,571-£50,270",Scotland,SNP
+25-34,Male,Degree,"£12,571-£50,270",Scotland,Conservatives
+55-64,Male,None,"£12,571-£50,270",London,Conservatives
+55-64,Female,None,"£12,571-£50,270",West Midlands,Greens
+35-44,Female,Degree,"£50,271-£125,140",South East,Conservatives
+35-44,Female,A-levels,"0-£12,570",South West,Conservatives
+45-54,Male,A-levels,"0-£12,570",East of England,Conservatives
+65+,Male,GCSE,"£12,571-£50,270",East of England,Greens
+65+,Female,GCSE,"£125,140+",South East,Labour
+65+,Female,GCSE,"£12,571-£50,270",South West,Conservatives
+65+,Female,None,"0-£12,570",Scotland,SNP
+25-34,Male,A-levels,"£50,271-£125,140",West Midlands,Reform UK
+35-44,Male,None,"0-£12,570",North East,Reform UK
+35-44,Male,Degree,"£50,271-£125,140",London,Greens
+18-24,Female,GCSE,"0-£12,570",East of England,Labour
+35-44,Male,A-levels,"£12,571-£50,270",North East,Conservatives
+35-44,Female,GCSE,"£12,571-£50,270",Wales,Labour
+35-44,Male,GCSE,"0-£12,570",Scotland,Labour
+65+,Male,None,"0-£12,570",South West,Labour
+65+,Male,Degree,"0-£12,570",London,Labour
+55-64,Male,Degree,"£12,571-£50,270",South East,Conservatives
+25-34,Male,A-levels,"£50,271-£125,140",South East,Conservatives
+25-34,Female,None,"£12,571-£50,270",North East,Labour
+45-54,Female,GCSE,"0-£12,570",South East,Labour
+18-24,Female,GCSE,"£12,571-£50,270",London,Lib-Dems
+65+,Male,Degree,"£12,571-£50,270",North West,Greens
+45-54,Male,A-levels,"£12,571-£50,270",Wales,Labour
+65+,Female,GCSE,"£12,571-£50,270",East Midlands,Conservatives
+18-24,Female,A-levels,"£12,571-£50,270",East of England,Labour
+45-54,Male,Degree,"£12,571-£50,270",Wales,Conservatives
+55-64,Male,A-levels,"£12,571-£50,270",Yorkshire and The Humber,Labour
+18-24,Male,GCSE,"£12,571-£50,270",Yorkshire and The Humber,Greens
+65+,Male,None,"£12,571-£50,270",Scotland,Reform UK
+35-44,Male,None,"£12,571-£50,270",North East,Reform UK
+45-54,Male,GCSE,"£12,571-£50,270",West Midlands,Conservatives
+65+,Female,GCSE,"£12,571-£50,270",East of England,Lib-Dems
+35-44,Male,None,"£12,571-£50,270",South West,Reform UK
+55-64,Female,Degree,"0-£12,570",South East,Labour
+35-44,Male,GCSE,"£50,271-£125,140",North West,Conservatives
+35-44,Male,None,"0-£12,570",South West,Labour
+55-64,Male,Degree,"0-£12,570",London,Labour
+35-44,Female,None,"£50,271-£125,140",Scotland,Reform UK
+35-44,Female,GCSE,"£50,271-£125,140",Yorkshire and The Humber,Lib-Dems
+35-44,Female,None,"£12,571-£50,270",London,Conservatives
+45-54,Female,None,"0-£12,570",Wales,Conservatives
+25-34,Female,GCSE,"£50,271-£125,140",Wales,Labour
+35-44,Male,Degree,"0-£12,570",South East,Reform UK
+55-64,Female,GCSE,"£12,571-£50,270",East of England,Reform UK
+18-24,Female,GCSE,"£12,571-£50,270",Scotland,Conservatives
+18-24,Female,Degree,"0-£12,570",London,Conservatives
+55-64,Male,None,"£50,271-£125,140",Scotland,Labour
+65+,Male,Degree,"£12,571-£50,270",East Midlands,Reform UK
+25-34,Female,A-levels,"£12,571-£50,270",West Midlands,Reform UK
+25-34,Male,GCSE,"£12,571-£50,270",London,Labour
+35-44,Male,A-levels,"£12,571-£50,270",Yorkshire and The Humber,Reform UK
+35-44,Male,GCSE,"£12,571-£50,270",North East,Lib-Dems
+35-44,Female,GCSE,"0-£12,570",Wales,Labour
+35-44,Female,Degree,"£12,571-£50,270",South East,Reform UK
+65+,Female,Degree,"£12,571-£50,270",East of England,Greens
+65+,Female,Degree,"£12,571-£50,270",North East,Lib-Dems
+45-54,Male,A-levels,"£12,571-£50,270",London,Reform UK
+55-64,Male,A-levels,"£12,571-£50,270",North East,Labour
+55-64,Female,None,"£12,571-£50,270",East of England,Reform UK
+45-54,Female,Degree,"0-£12,570",North West,Labour
+35-44,Female,Degree,"0-£12,570",London,Conservatives
+35-44,Male,Degree,"0-£12,570",West Midlands,Labour
+65+,Male,GCSE,"£12,571-£50,270",South West,Labour
+65+,Male,A-levels,"£125,140+",South East,Lib-Dems
+65+,Female,Degree,"0-£12,570",North East,Conservatives
+55-64,Female,GCSE,"£12,571-£50,270",East Midlands,Conservatives
+18-24,Female,Degree,"0-£12,570",West Midlands,Labour
+45-54,Male,Degree,"0-£12,570",East of England,Conservatives
+35-44,Female,Degree,"£12,571-£50,270",North West,Labour
+65+,Male,A-levels,"£50,271-£125,140",Scotland,SNP
+35-44,Female,A-levels,"0-£12,570",South West,Conservatives
+55-64,Male,GCSE,"£12,571-£50,270",East Midlands,Reform UK
+45-54,Female,GCSE,"£12,571-£50,270",Wales,Reform UK
+25-34,Male,None,"£50,271-£125,140",East of England,SNP
+65+,Female,GCSE,"£12,571-£50,270",East Midlands,Labour
+25-34,Female,A-levels,"£12,571-£50,270",North East,Conservatives
+18-24,Female,Degree,"£12,571-£50,270",North West,Conservatives
+35-44,Female,A-levels,"£50,271-£125,140",Yorkshire and The Humber,Labour
+35-44,Female,None,"0-£12,570",South West,Reform UK
+45-54,Female,None,"£12,571-£50,270",East of England,Conservatives
+65+,Female,Degree,"0-£12,570",Scotland,SNP
+35-44,Female,None,"0-£12,570",South West,Labour
+65+,Male,Degree,"£50,271-£125,140",North West,Conservatives
+18-24,Female,Degree,"£12,571-£50,270",London,SNP
+45-54,Male,Degree,"£12,571-£50,270",South West,Conservatives
+65+,Male,A-levels,"£12,571-£50,270",South West,Labour
+45-54,Male,GCSE,"£125,140+",South East,Labour
+35-44,Male,A-levels,"£12,571-£50,270",North East,Conservatives
+45-54,Female,A-levels,"£12,571-£50,270",London,Labour
+55-64,Female,Degree,"£125,140+",North East,Labour
+55-64,Male,None,"£12,571-£50,270",London,Reform UK
+25-34,Female,None,"£12,571-£50,270",North West,Lib-Dems
+65+,Female,None,"£50,271-£125,140",London,SNP
+35-44,Male,GCSE,"£50,271-£125,140",South West,Labour
+55-64,Female,Degree,"£12,571-£50,270",Yorkshire and The Humber,Reform UK
+25-34,Male,A-levels,"£12,571-£50,270",Yorkshire and The Humber,Labour
+55-64,Male,A-levels,"0-£12,570",North West,Lib-Dems
+35-44,Female,GCSE,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+65+,Male,A-levels,"0-£12,570",Scotland,Reform UK
+25-34,Female,GCSE,"£50,271-£125,140",South East,Greens
+55-64,Female,A-levels,"0-£12,570",South East,Lib-Dems
+55-64,Male,A-levels,"£12,571-£50,270",East of England,Labour
+55-64,Female,None,"£12,571-£50,270",Yorkshire and The Humber,Lib-Dems
+18-24,Female,Degree,"£12,571-£50,270",West Midlands,Conservatives
+65+,Male,GCSE,"£125,140+",London,Reform UK
+35-44,Male,None,"0-£12,570",East of England,Conservatives
+55-64,Female,Degree,"£12,571-£50,270",Yorkshire and The Humber,Labour
+55-64,Female,A-levels,"£12,571-£50,270",Wales,Conservatives
+25-34,Female,Degree,"£12,571-£50,270",South West,Lib-Dems
+25-34,Female,GCSE,"0-£12,570",East of England,Greens
+35-44,Female,Degree,"£12,571-£50,270",London,Labour
+65+,Female,GCSE,"£12,571-£50,270",West Midlands,Lib-Dems
+55-64,Male,GCSE,"£12,571-£50,270",East Midlands,Lib-Dems
+45-54,Female,A-levels,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+65+,Female,Degree,"£12,571-£50,270",North West,Reform UK
+45-54,Female,A-levels,"£12,571-£50,270",East of England,Reform UK
+25-34,Female,A-levels,"0-£12,570",Wales,Labour
+55-64,Male,GCSE,"0-£12,570",Wales,Conservatives
+55-64,Female,Degree,"£12,571-£50,270",South East,Lib-Dems
+35-44,Female,Degree,"£50,271-£125,140",North East,Lib-Dems
+65+,Female,None,"0-£12,570",West Midlands,Reform UK
+55-64,Female,A-levels,"£12,571-£50,270",South West,Conservatives
+55-64,Female,Degree,"£50,271-£125,140",North East,Labour
+45-54,Female,Degree,"£50,271-£125,140",East Midlands,Reform UK
+45-54,Female,GCSE,"£12,571-£50,270",West Midlands,Lib-Dems
+55-64,Female,None,"£50,271-£125,140",London,Reform UK
+55-64,Female,Degree,"£50,271-£125,140",East Midlands,Greens
+65+,Female,GCSE,"0-£12,570",Wales,Labour
+65+,Female,Degree,"0-£12,570",Scotland,SNP
+45-54,Male,A-levels,"£125,140+",Wales,Labour
+65+,Female,None,"£125,140+",Scotland,SNP
+65+,Male,None,"0-£12,570",West Midlands,Lib-Dems
+45-54,Female,GCSE,"0-£12,570",London,Conservatives
+35-44,Male,Degree,"£12,571-£50,270",North West,Labour
+25-34,Male,Degree,"£12,571-£50,270",West Midlands,Lib-Dems
+35-44,Male,GCSE,"£12,571-£50,270",Yorkshire and The Humber,Reform UK
+55-64,Female,None,"£125,140+",Wales,Labour
+45-54,Female,None,"£50,271-£125,140",South East,Greens
+18-24,Male,Degree,"£12,571-£50,270",North West,Labour
+45-54,Male,Degree,"£12,571-£50,270",East Midlands,Reform UK
+35-44,Male,A-levels,"£12,571-£50,270",London,Reform UK
+55-64,Male,None,"£50,271-£125,140",London,Lib-Dems
+65+,Male,A-levels,"£50,271-£125,140",Scotland,Greens
+35-44,Female,Degree,"£12,571-£50,270",Yorkshire and The Humber,Greens
+35-44,Male,Degree,"0-£12,570",West Midlands,Greens
+35-44,Female,Degree,"£12,571-£50,270",West Midlands,Labour
+55-64,Female,Degree,"£12,571-£50,270",North East,Conservatives
+25-34,Male,None,"0-£12,570",Scotland,Conservatives
+65+,Female,A-levels,"£12,571-£50,270",East Midlands,Conservatives
+25-34,Male,GCSE,"£12,571-£50,270",Wales,Reform UK
+45-54,Male,GCSE,"£12,571-£50,270",Wales,Labour
+55-64,Female,GCSE,"£12,571-£50,270",Wales,Lib-Dems
+65+,Female,A-levels,"£12,571-£50,270",Scotland,SNP
+45-54,Female,A-levels,"£12,571-£50,270",South West,Lib-Dems
+35-44,Male,A-levels,"£12,571-£50,270",Scotland,Labour
+45-54,Female,Degree,"£12,571-£50,270",East of England,Reform UK
+65+,Female,A-levels,"£125,140+",South West,Labour
+35-44,Male,None,"£50,271-£125,140",North West,Labour
+55-64,Female,Degree,"£50,271-£125,140",Scotland,SNP
+55-64,Female,A-levels,"£12,571-£50,270",North East,Conservatives
+45-54,Female,A-levels,"0-£12,570",Scotland,Conservatives
+45-54,Male,GCSE,"0-£12,570",North East,Reform UK
+45-54,Female,GCSE,"£12,571-£50,270",North West,Lib-Dems
+65+,Male,A-levels,"£12,571-£50,270",West Midlands,Reform UK
+55-64,Female,A-levels,"0-£12,570",East of England,Lib-Dems
+35-44,Female,A-levels,"£12,571-£50,270",North West,Greens
+65+,Male,GCSE,"£12,571-£50,270",Wales,Greens
+45-54,Female,A-levels,"0-£12,570",East Midlands,Labour
+65+,Female,None,"£12,571-£50,270",East of England,Labour
+65+,Male,Degree,"£12,571-£50,270",East of England,Lib-Dems
+35-44,Female,GCSE,"£12,571-£50,270",Wales,Lib-Dems
+35-44,Male,GCSE,"£12,571-£50,270",South East,Conservatives
+35-44,Female,None,"£50,271-£125,140",South East,Lib-Dems
+18-24,Male,A-levels,"£12,571-£50,270",South East,Lib-Dems
+25-34,Male,None,"£12,571-£50,270",London,Greens
+45-54,Female,A-levels,"£12,571-£50,270",Wales,Labour
+45-54,Male,GCSE,"£12,571-£50,270",Wales,Greens
+45-54,Female,A-levels,"£12,571-£50,270",North East,Conservatives
+18-24,Male,Degree,"£125,140+",Wales,Conservatives
+55-64,Female,GCSE,"£12,571-£50,270",East Midlands,Labour
+35-44,Female,GCSE,"0-£12,570",London,Reform UK
+45-54,Female,Degree,"£12,571-£50,270",Yorkshire and The Humber,Reform UK
+55-64,Male,A-levels,"£12,571-£50,270",Yorkshire and The Humber,Greens
+55-64,Male,A-levels,"0-£12,570",East of England,Labour
+25-34,Female,GCSE,"£12,571-£50,270",North West,Greens
+45-54,Female,Degree,"£12,571-£50,270",North East,Greens
+55-64,Male,GCSE,"£12,571-£50,270",East of England,Greens
+18-24,Male,Degree,"0-£12,570",West Midlands,Labour
+18-24,Female,A-levels,"£12,571-£50,270",East of England,Greens
+55-64,Female,Degree,"£12,571-£50,270",East of England,Conservatives
+35-44,Female,Degree,"0-£12,570",East Midlands,Labour
+55-64,Female,A-levels,"£12,571-£50,270",North West,Reform UK
+25-34,Male,Degree,"£125,140+",West Midlands,Reform UK
+25-34,Male,GCSE,"£12,571-£50,270",South East,Greens
+55-64,Female,Degree,"0-£12,570",South East,Reform UK
+45-54,Male,GCSE,"0-£12,570",East of England,Reform UK
+65+,Male,GCSE,"£12,571-£50,270",East of England,Labour
+25-34,Male,GCSE,"£12,571-£50,270",Scotland,Conservatives
+45-54,Male,Degree,"£12,571-£50,270",West Midlands,Labour
+18-24,Male,GCSE,"£12,571-£50,270",Wales,Labour
+55-64,Male,None,"£12,571-£50,270",Yorkshire and The Humber,Greens
+45-54,Female,None,"£12,571-£50,270",West Midlands,Labour
+45-54,Male,GCSE,"£12,571-£50,270",East of England,Conservatives
+35-44,Male,A-levels,"£125,140+",Scotland,SNP
+35-44,Female,None,"£50,271-£125,140",East Midlands,Reform UK
+25-34,Female,Degree,"0-£12,570",Scotland,Labour
+35-44,Female,Degree,"0-£12,570",South East,Labour
+25-34,Female,Degree,"£12,571-£50,270",North East,Lib-Dems
+18-24,Female,GCSE,"0-£12,570",East of England,Reform UK
+45-54,Male,GCSE,"£12,571-£50,270",North West,Conservatives
+35-44,Female,A-levels,"0-£12,570",East of England,Reform UK
+35-44,Female,None,"£12,571-£50,270",South West,Conservatives
+25-34,Female,A-levels,"£12,571-£50,270",North East,Reform UK
+65+,Female,Degree,"£12,571-£50,270",North West,Lib-Dems
+25-34,Female,GCSE,"£50,271-£125,140",London,Lib-Dems
+55-64,Female,A-levels,"£12,571-£50,270",London,Labour
+45-54,Female,A-levels,"£50,271-£125,140",London,Greens
+25-34,Female,None,"0-£12,570",London,Reform UK
+65+,Female,A-levels,"£50,271-£125,140",South East,Lib-Dems
+55-64,Male,GCSE,"£12,571-£50,270",Scotland,SNP
+35-44,Female,GCSE,"£12,571-£50,270",South East,Labour
+35-44,Male,None,"£12,571-£50,270",Wales,Conservatives
+35-44,Male,A-levels,"£12,571-£50,270",West Midlands,Labour
+55-64,Female,None,"£12,571-£50,270",East Midlands,Conservatives
+18-24,Male,Degree,"£12,571-£50,270",East Midlands,Greens
+25-34,Male,Degree,"£12,571-£50,270",London,Greens
+65+,Female,None,"£50,271-£125,140",South East,Conservatives
+55-64,Male,Degree,"£12,571-£50,270",South West,Conservatives
+55-64,Male,Degree,"£50,271-£125,140",Scotland,SNP
+55-64,Female,GCSE,"0-£12,570",North West,Lib-Dems
+65+,Female,Degree,"£12,571-£50,270",South West,Reform UK
+65+,Female,A-levels,"£12,571-£50,270",East Midlands,Reform UK
+45-54,Male,GCSE,"0-£12,570",North East,SNP
+65+,Male,Degree,"£12,571-£50,270",West Midlands,Lib-Dems
+45-54,Female,None,"£12,571-£50,270",Scotland,Conservatives
+35-44,Male,GCSE,"0-£12,570",East Midlands,Reform UK
+35-44,Male,A-levels,"£125,140+",South West,Greens
+25-34,Female,A-levels,"£50,271-£125,140",East of England,Labour
+55-64,Male,GCSE,"£12,571-£50,270",North East,Labour
+25-34,Male,A-levels,"£12,571-£50,270",Yorkshire and The Humber,Reform UK
+25-34,Male,A-levels,"£12,571-£50,270",North East,Reform UK
+45-54,Male,Degree,"0-£12,570",South East,Labour
+45-54,Female,Degree,"£12,571-£50,270",Scotland,Conservatives
+35-44,Female,Degree,"£50,271-£125,140",East of England,Conservatives
+45-54,Female,None,"£50,271-£125,140",Yorkshire and The Humber,Reform UK
+35-44,Female,GCSE,"£12,571-£50,270",North East,Reform UK
+35-44,Female,A-levels,"£12,571-£50,270",Yorkshire and The Humber,Reform UK
+18-24,Male,Degree,"£12,571-£50,270",South West,Labour
+45-54,Female,A-levels,"£12,571-£50,270",London,Greens
+55-64,Female,None,"£50,271-£125,140",London,Conservatives
+35-44,Female,None,"£50,271-£125,140",North West,Greens
+45-54,Female,Degree,"£50,271-£125,140",Yorkshire and The Humber,Reform UK
+45-54,Female,None,"0-£12,570",East of England,Greens
+45-54,Male,None,"£12,571-£50,270",Yorkshire and The Humber,Lib-Dems
+65+,Female,GCSE,"£12,571-£50,270",Wales,Labour
+35-44,Female,GCSE,"£12,571-£50,270",Yorkshire and The Humber,Greens
+65+,Male,Degree,"£50,271-£125,140",North West,Conservatives
+55-64,Male,GCSE,"0-£12,570",Yorkshire and The Humber,Reform UK
+55-64,Male,Degree,"£12,571-£50,270",Scotland,SNP
+55-64,Female,Degree,"£12,571-£50,270",Yorkshire and The Humber,Greens
+45-54,Female,Degree,"£12,571-£50,270",South West,Conservatives
+35-44,Male,GCSE,"£50,271-£125,140",Wales,Labour
+35-44,Female,GCSE,"0-£12,570",Scotland,Labour
+55-64,Male,GCSE,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+18-24,Male,A-levels,"£50,271-£125,140",West Midlands,Labour
+35-44,Male,Degree,"£12,571-£50,270",West Midlands,Labour
+18-24,Female,Degree,"£12,571-£50,270",West Midlands,Lib-Dems
+35-44,Female,Degree,"£12,571-£50,270",East of England,Reform UK
+25-34,Female,None,"£50,271-£125,140",East of England,Conservatives
+55-64,Male,GCSE,"£12,571-£50,270",East Midlands,Conservatives
+45-54,Female,GCSE,"0-£12,570",East of England,Lib-Dems
+35-44,Male,Degree,"£12,571-£50,270",North West,Labour
+35-44,Male,Degree,"£12,571-£50,270",South East,Conservatives
+45-54,Male,A-levels,"0-£12,570",South East,Conservatives
+25-34,Male,GCSE,"£125,140+",North East,Reform UK
+55-64,Female,None,"£12,571-£50,270",Scotland,SNP
+18-24,Male,A-levels,"£50,271-£125,140",North West,Reform UK
+18-24,Male,Degree,"0-£12,570",North East,Conservatives
+55-64,Female,A-levels,"£12,571-£50,270",North East,Labour
+45-54,Male,GCSE,"£12,571-£50,270",North West,Labour
+35-44,Male,GCSE,"£12,571-£50,270",South West,Lib-Dems
+35-44,Female,None,"0-£12,570",East of England,Lib-Dems
+35-44,Female,A-levels,"£50,271-£125,140",East of England,Labour
+45-54,Male,Degree,"£50,271-£125,140",Yorkshire and The Humber,Conservatives
+35-44,Male,Degree,"£50,271-£125,140",West Midlands,Greens
+25-34,Male,A-levels,"£125,140+",East Midlands,Greens
+65+,Female,GCSE,"£50,271-£125,140",North West,Lib-Dems
+25-34,Male,GCSE,"£12,571-£50,270",North East,Conservatives
+45-54,Female,None,"£12,571-£50,270",East Midlands,Conservatives
+45-54,Male,A-levels,"£50,271-£125,140",Wales,Reform UK
+55-64,Female,GCSE,"£12,571-£50,270",Scotland,Labour
+35-44,Male,GCSE,"£12,571-£50,270",East Midlands,Conservatives
+18-24,Female,A-levels,"0-£12,570",Wales,Reform UK
+35-44,Female,GCSE,"£12,571-£50,270",North West,Reform UK
+55-64,Female,A-levels,"£12,571-£50,270",East Midlands,Lib-Dems
+65+,Male,GCSE,"£12,571-£50,270",London,Lib-Dems
+25-34,Female,GCSE,"£12,571-£50,270",North West,Greens
+35-44,Female,Degree,"0-£12,570",West Midlands,Conservatives
+25-34,Female,Degree,"£12,571-£50,270",South West,Labour
+35-44,Female,GCSE,"0-£12,570",North West,SNP
+18-24,Male,A-levels,"0-£12,570",South West,Greens
+35-44,Male,GCSE,"£12,571-£50,270",West Midlands,Conservatives
+35-44,Male,GCSE,"£12,571-£50,270",South East,Reform UK
+45-54,Female,GCSE,"£50,271-£125,140",South West,Conservatives
+25-34,Male,GCSE,"£12,571-£50,270",East Midlands,Reform UK
+65+,Male,None,"£12,571-£50,270",East Midlands,Labour
+35-44,Male,A-levels,"0-£12,570",West Midlands,Conservatives
+25-34,Female,A-levels,"0-£12,570",North East,Conservatives
+35-44,Male,Degree,"0-£12,570",North West,Labour
+65+,Female,A-levels,"£12,571-£50,270",South East,Greens
+65+,Female,None,"£50,271-£125,140",East of England,Labour
+18-24,Male,GCSE,"0-£12,570",South East,Labour
+35-44,Female,Degree,"£12,571-£50,270",Wales,Greens
+35-44,Female,GCSE,"£50,271-£125,140",East Midlands,Labour
+45-54,Male,A-levels,"£12,571-£50,270",West Midlands,Conservatives
+55-64,Male,A-levels,"£12,571-£50,270",North West,Labour
+55-64,Male,GCSE,"£12,571-£50,270",North West,Greens
+55-64,Male,Degree,"0-£12,570",North East,Labour
+35-44,Male,Degree,"£50,271-£125,140",Yorkshire and The Humber,Labour
+55-64,Male,Degree,"£50,271-£125,140",West Midlands,Reform UK
+55-64,Female,A-levels,"£12,571-£50,270",South East,Labour
+45-54,Female,None,"£12,571-£50,270",North East,Labour
+45-54,Male,GCSE,"£12,571-£50,270",London,Lib-Dems
+45-54,Male,Degree,"£12,571-£50,270",Yorkshire and The Humber,Labour
+45-54,Male,None,"£50,271-£125,140",South East,Conservatives
+35-44,Female,Degree,"£50,271-£125,140",East Midlands,Conservatives
+25-34,Female,Degree,"£12,571-£50,270",South West,Labour
+18-24,Male,Degree,"£50,271-£125,140",Scotland,Greens
+55-64,Male,None,"£50,271-£125,140",West Midlands,Greens
+25-34,Female,Degree,"£12,571-£50,270",Wales,Reform UK
+45-54,Male,Degree,"0-£12,570",West Midlands,Conservatives
+35-44,Female,GCSE,"£50,271-£125,140",London,Labour
+55-64,Male,A-levels,"£12,571-£50,270",London,Greens
+65+,Male,None,"£12,571-£50,270",Wales,Labour
+65+,Male,None,"0-£12,570",Yorkshire and The Humber,Conservatives
+55-64,Male,GCSE,"£12,571-£50,270",South West,Conservatives
+35-44,Male,Degree,"£12,571-£50,270",South East,SNP
+55-64,Female,Degree,"£12,571-£50,270",South East,Lib-Dems
+55-64,Male,GCSE,"£12,571-£50,270",East Midlands,Conservatives
+45-54,Male,None,"0-£12,570",Yorkshire and The Humber,Conservatives
+25-34,Female,A-levels,"£50,271-£125,140",South East,Labour
+45-54,Female,A-levels,"£12,571-£50,270",South West,Reform UK
+45-54,Male,A-levels,"£50,271-£125,140",East of England,Reform UK
+35-44,Male,Degree,"£12,571-£50,270",Yorkshire and The Humber,Labour
+18-24,Male,GCSE,"0-£12,570",Scotland,Lib-Dems
+55-64,Female,None,"£50,271-£125,140",East of England,Conservatives
+25-34,Female,GCSE,"£12,571-£50,270",Wales,Labour
+35-44,Female,Degree,"£50,271-£125,140",South West,Labour
+65+,Male,None,"0-£12,570",Scotland,Labour
+45-54,Male,A-levels,"£50,271-£125,140",West Midlands,Greens
+18-24,Male,Degree,"£12,571-£50,270",East of England,Lib-Dems
+25-34,Female,None,"£50,271-£125,140",North West,Conservatives
+25-34,Female,A-levels,"£12,571-£50,270",East of England,Conservatives
+35-44,Female,Degree,"£50,271-£125,140",East of England,Labour
+65+,Female,A-levels,"0-£12,570",North East,Labour
+35-44,Male,Degree,"£12,571-£50,270",East of England,Conservatives
+65+,Female,Degree,"£12,571-£50,270",North West,Lib-Dems
+35-44,Male,None,"£12,571-£50,270",Scotland,SNP
+55-64,Female,GCSE,"0-£12,570",South East,SNP
+35-44,Female,A-levels,"£50,271-£125,140",Wales,Labour
+35-44,Male,A-levels,"£12,571-£50,270",South East,Labour
+65+,Female,GCSE,"0-£12,570",South West,Conservatives
+55-64,Female,GCSE,"£12,571-£50,270",East Midlands,Labour
+55-64,Female,None,"0-£12,570",West Midlands,Conservatives
+35-44,Female,A-levels,"£50,271-£125,140",London,Conservatives
+18-24,Female,GCSE,"£12,571-£50,270",South East,Labour
+45-54,Female,Degree,"0-£12,570",Scotland,Conservatives
+35-44,Female,A-levels,"£12,571-£50,270",North East,Labour
+45-54,Female,None,"£12,571-£50,270",North East,Labour
+18-24,Male,None,"£125,140+",Scotland,Lib-Dems
+45-54,Female,A-levels,"0-£12,570",South West,Labour
+45-54,Male,None,"£12,571-£50,270",London,Reform UK
+65+,Female,Degree,"£12,571-£50,270",Yorkshire and The Humber,Labour
+45-54,Female,GCSE,"0-£12,570",East of England,Greens
+55-64,Male,None,"0-£12,570",Scotland,Labour
+55-64,Male,Degree,"£50,271-£125,140",East of England,Reform UK
+65+,Male,A-levels,"0-£12,570",South East,Labour
+45-54,Male,None,"£12,571-£50,270",North West,Conservatives
+55-64,Female,None,"£12,571-£50,270",South West,Lib-Dems
+25-34,Male,Degree,"£50,271-£125,140",South East,Labour
+25-34,Female,A-levels,"£12,571-£50,270",East Midlands,Greens
+25-34,Female,Degree,"£12,571-£50,270",North East,Lib-Dems
+25-34,Male,None,"0-£12,570",South East,Labour
+45-54,Male,A-levels,"£12,571-£50,270",Yorkshire and The Humber,SNP
+35-44,Male,Degree,"0-£12,570",London,Reform UK
+45-54,Female,A-levels,"£125,140+",West Midlands,Reform UK
+55-64,Female,GCSE,"0-£12,570",West Midlands,Conservatives
+45-54,Female,None,"0-£12,570",North West,SNP
+18-24,Male,Degree,"£12,571-£50,270",London,Labour
+55-64,Male,GCSE,"£12,571-£50,270",East Midlands,Greens
+25-34,Female,GCSE,"£12,571-£50,270",South East,Conservatives
+25-34,Male,GCSE,"£50,271-£125,140",Scotland,SNP
+65+,Male,None,"£12,571-£50,270",North East,Conservatives
+25-34,Male,None,"£12,571-£50,270",North West,Greens
+45-54,Female,Degree,"£12,571-£50,270",West Midlands,Reform UK
+65+,Male,Degree,"£50,271-£125,140",East of England,Reform UK
+18-24,Female,A-levels,"£12,571-£50,270",South West,Labour
+65+,Female,A-levels,"£12,571-£50,270",Wales,Lib-Dems
+45-54,Female,Degree,"£50,271-£125,140",South West,Labour
+45-54,Female,GCSE,"£12,571-£50,270",Yorkshire and The Humber,Greens
+55-64,Male,GCSE,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+25-34,Male,Degree,"£12,571-£50,270",Yorkshire and The Humber,Reform UK
+18-24,Male,Degree,"£50,271-£125,140",North West,Greens
+18-24,Female,Degree,"0-£12,570",Wales,Labour
+65+,Female,GCSE,"£12,571-£50,270",East Midlands,Labour
+35-44,Female,Degree,"£12,571-£50,270",South West,Conservatives
+25-34,Male,A-levels,"£12,571-£50,270",South East,Labour
+35-44,Female,None,"£125,140+",Wales,Labour
+55-64,Female,A-levels,"£12,571-£50,270",East Midlands,Labour
+35-44,Male,GCSE,"£125,140+",Wales,Lib-Dems
+55-64,Female,GCSE,"£50,271-£125,140",Wales,Conservatives
+65+,Male,Degree,"£12,571-£50,270",East of England,Conservatives
+35-44,Female,None,"0-£12,570",North East,Lib-Dems
+35-44,Male,A-levels,"£12,571-£50,270",North West,Labour
+25-34,Female,Degree,"0-£12,570",West Midlands,Labour
+55-64,Female,Degree,"0-£12,570",Wales,Greens
+55-64,Female,Degree,"0-£12,570",East Midlands,Labour
+18-24,Female,Degree,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+18-24,Female,A-levels,"£12,571-£50,270",Scotland,SNP
+45-54,Female,GCSE,"0-£12,570",East of England,Greens
+45-54,Male,Degree,"0-£12,570",Scotland,Conservatives
+55-64,Male,GCSE,"£12,571-£50,270",Scotland,Reform UK
+55-64,Female,Degree,"0-£12,570",South East,Greens
+45-54,Male,None,"0-£12,570",East of England,Labour
+65+,Male,A-levels,"£50,271-£125,140",Yorkshire and The Humber,Labour
+18-24,Male,Degree,"£50,271-£125,140",East Midlands,Reform UK
+25-34,Male,None,"£12,571-£50,270",London,Labour
+35-44,Male,A-levels,"0-£12,570",South East,Conservatives
+65+,Male,None,"£12,571-£50,270",Yorkshire and The Humber,Labour
+55-64,Female,None,"£50,271-£125,140",Scotland,Labour
+65+,Female,None,"£50,271-£125,140",East Midlands,Greens
+55-64,Male,None,"£12,571-£50,270",South East,Reform UK
+25-34,Female,GCSE,"£12,571-£50,270",East Midlands,Reform UK
+18-24,Female,Degree,"£50,271-£125,140",London,Labour
+65+,Male,GCSE,"£50,271-£125,140",Scotland,Labour
+65+,Male,GCSE,"£12,571-£50,270",East Midlands,Reform UK
+55-64,Male,None,"£50,271-£125,140",Scotland,Reform UK
+25-34,Male,Degree,"£12,571-£50,270",West Midlands,Conservatives
+25-34,Male,A-levels,"£50,271-£125,140",South West,Reform UK
+65+,Male,GCSE,"£12,571-£50,270",Yorkshire and The Humber,Reform UK
+35-44,Female,A-levels,"£50,271-£125,140",South East,Conservatives
+45-54,Female,Degree,"£12,571-£50,270",East of England,Conservatives
+55-64,Female,GCSE,"£50,271-£125,140",Wales,Labour
+55-64,Male,A-levels,"£12,571-£50,270",North West,Labour
+65+,Female,None,"£50,271-£125,140",North West,Labour
+45-54,Female,A-levels,"0-£12,570",Yorkshire and The Humber,SNP
+55-64,Female,Degree,"£12,571-£50,270",East of England,Conservatives
+65+,Female,None,"£12,571-£50,270",East Midlands,Labour
+45-54,Male,A-levels,"0-£12,570",South West,Conservatives
+45-54,Female,Degree,"£12,571-£50,270",North West,Labour
+18-24,Male,None,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+25-34,Female,None,"£12,571-£50,270",East of England,Conservatives
+35-44,Male,GCSE,"£125,140+",South West,Conservatives
+55-64,Male,GCSE,"£50,271-£125,140",Yorkshire and The Humber,Lib-Dems
+35-44,Male,A-levels,"£12,571-£50,270",Wales,Greens
+55-64,Male,GCSE,"£12,571-£50,270",East Midlands,Conservatives
+35-44,Male,A-levels,"£12,571-£50,270",Wales,Greens
+55-64,Female,Degree,"£50,271-£125,140",East Midlands,Labour
+65+,Male,Degree,"£12,571-£50,270",London,Reform UK
+35-44,Male,None,"£50,271-£125,140",East of England,Conservatives
+35-44,Female,None,"£12,571-£50,270",North East,Labour
+35-44,Female,GCSE,"0-£12,570",South East,Greens
+18-24,Female,GCSE,"£125,140+",Scotland,Reform UK
+55-64,Male,GCSE,"£12,571-£50,270",Yorkshire and The Humber,Greens
+65+,Male,GCSE,"£12,571-£50,270",South West,Reform UK
+55-64,Male,Degree,"£50,271-£125,140",Wales,Conservatives
+25-34,Male,Degree,"0-£12,570",North East,Labour
+25-34,Female,GCSE,"£125,140+",South West,Conservatives
+65+,Male,None,"£12,571-£50,270",Scotland,SNP
+65+,Male,Degree,"£50,271-£125,140",Yorkshire and The Humber,Lib-Dems
+45-54,Male,None,"0-£12,570",East of England,Reform UK
+65+,Female,A-levels,"£50,271-£125,140",Scotland,Conservatives
+25-34,Male,GCSE,"£50,271-£125,140",South West,Labour
+45-54,Male,Degree,"0-£12,570",South East,Labour
+45-54,Female,Degree,"0-£12,570",Wales,Greens
+45-54,Female,A-levels,"0-£12,570",Scotland,SNP
+45-54,Female,A-levels,"£12,571-£50,270",Wales,Reform UK
+65+,Male,Degree,"0-£12,570",North West,Lib-Dems
+55-64,Male,A-levels,"0-£12,570",East of England,Labour
+45-54,Female,Degree,"0-£12,570",North East,Reform UK
+65+,Male,None,"£12,571-£50,270",South West,Lib-Dems
+35-44,Male,Degree,"£125,140+",Wales,Greens
+35-44,Male,GCSE,"£12,571-£50,270",East Midlands,Lib-Dems
+45-54,Female,A-levels,"0-£12,570",North East,Lib-Dems
+55-64,Female,GCSE,"0-£12,570",South West,Labour
+55-64,Male,None,"£50,271-£125,140",London,Labour
+35-44,Male,A-levels,"£12,571-£50,270",North East,SNP
+35-44,Female,A-levels,"0-£12,570",Yorkshire and The Humber,Labour
+45-54,Male,Degree,"£50,271-£125,140",North East,SNP
+18-24,Male,None,"0-£12,570",Wales,Labour
+55-64,Female,A-levels,"£12,571-£50,270",North West,Reform UK
+35-44,Female,Degree,"£12,571-£50,270",North West,Labour
+55-64,Female,A-levels,"£12,571-£50,270",West Midlands,SNP
+25-34,Female,Degree,"0-£12,570",Yorkshire and The Humber,Reform UK
+45-54,Male,Degree,"0-£12,570",Scotland,Reform UK
+25-34,Male,GCSE,"0-£12,570",North East,Labour
+18-24,Female,GCSE,"£12,571-£50,270",North East,Labour
+35-44,Female,GCSE,"£125,140+",London,Reform UK
+65+,Female,Degree,"£12,571-£50,270",Wales,Reform UK
+35-44,Male,GCSE,"0-£12,570",Yorkshire and The Humber,Greens
+65+,Female,A-levels,"£12,571-£50,270",East Midlands,Labour
+35-44,Female,GCSE,"£50,271-£125,140",East of England,Labour
+45-54,Male,A-levels,"£12,571-£50,270",North West,Labour
+55-64,Male,Degree,"£12,571-£50,270",London,Reform UK
+65+,Male,A-levels,"£12,571-£50,270",North West,Lib-Dems
+55-64,Male,GCSE,"£12,571-£50,270",South East,Conservatives
+18-24,Male,Degree,"£125,140+",South West,Labour
+55-64,Female,Degree,"£12,571-£50,270",South East,Labour
+45-54,Male,A-levels,"£12,571-£50,270",West Midlands,Greens
+55-64,Female,None,"0-£12,570",West Midlands,Reform UK
+55-64,Male,None,"£12,571-£50,270",West Midlands,Lib-Dems
+65+,Female,A-levels,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+65+,Female,A-levels,"0-£12,570",East of England,Conservatives
+25-34,Male,A-levels,"0-£12,570",East Midlands,Labour
+45-54,Male,Degree,"£12,571-£50,270",East Midlands,Conservatives
+45-54,Male,None,"£50,271-£125,140",London,Reform UK
+35-44,Male,A-levels,"£12,571-£50,270",Wales,Greens
+65+,Female,Degree,"0-£12,570",North East,Labour
+55-64,Male,Degree,"£50,271-£125,140",East of England,Lib-Dems
+45-54,Female,None,"£12,571-£50,270",South East,Conservatives
+18-24,Female,Degree,"£50,271-£125,140",North West,Conservatives
+25-34,Male,None,"0-£12,570",Scotland,Labour
+45-54,Female,GCSE,"£12,571-£50,270",North East,Labour
+25-34,Female,GCSE,"£12,571-£50,270",Wales,Labour
+25-34,Female,A-levels,"£50,271-£125,140",Wales,Labour
+55-64,Male,GCSE,"£12,571-£50,270",South West,Reform UK
+55-64,Female,A-levels,"£12,571-£50,270",North West,Labour
+18-24,Female,None,"0-£12,570",Wales,Reform UK
+35-44,Male,Degree,"£50,271-£125,140",North West,Conservatives
+35-44,Male,GCSE,"£50,271-£125,140",East Midlands,Labour
+35-44,Female,A-levels,"0-£12,570",South West,Reform UK
+25-34,Female,GCSE,"£12,571-£50,270",East of England,Lib-Dems
+18-24,Male,Degree,"£50,271-£125,140",South West,Greens
+25-34,Female,A-levels,"0-£12,570",London,Labour
+65+,Male,Degree,"£12,571-£50,270",London,Labour
+45-54,Female,None,"£12,571-£50,270",North West,Conservatives
+65+,Female,None,"£12,571-£50,270",East Midlands,Labour
+45-54,Male,GCSE,"0-£12,570",South West,Labour
+18-24,Male,Degree,"£50,271-£125,140",South East,Conservatives
+45-54,Male,Degree,"£125,140+",Scotland,Labour
+55-64,Male,GCSE,"£12,571-£50,270",North West,Lib-Dems
+45-54,Female,None,"£12,571-£50,270",Scotland,Labour
+18-24,Male,Degree,"£125,140+",South West,Labour
+55-64,Male,None,"0-£12,570",South East,Greens
+25-34,Male,A-levels,"£12,571-£50,270",South East,Labour
+65+,Female,A-levels,"£12,571-£50,270",Wales,Labour
+55-64,Male,A-levels,"£12,571-£50,270",North West,Lib-Dems
+35-44,Male,None,"£125,140+",London,Reform UK
+55-64,Male,A-levels,"0-£12,570",Yorkshire and The Humber,Conservatives
+65+,Male,Degree,"£12,571-£50,270",West Midlands,Reform UK
+35-44,Female,Degree,"0-£12,570",Wales,Conservatives
+25-34,Male,None,"£50,271-£125,140",Wales,Greens
+35-44,Male,None,"£50,271-£125,140",West Midlands,Lib-Dems
+35-44,Female,None,"0-£12,570",North East,Conservatives
+35-44,Male,GCSE,"£12,571-£50,270",East of England,Conservatives
+65+,Female,None,"£12,571-£50,270",West Midlands,Reform UK
+55-64,Female,GCSE,"0-£12,570",West Midlands,Lib-Dems
+45-54,Female,None,"£12,571-£50,270",Yorkshire and The Humber,Lib-Dems
+65+,Male,A-levels,"0-£12,570",Yorkshire and The Humber,Labour
+45-54,Male,A-levels,"£12,571-£50,270",East Midlands,Labour
+35-44,Female,GCSE,"£12,571-£50,270",North West,Labour
+55-64,Female,Degree,"£12,571-£50,270",Scotland,Reform UK
+45-54,Female,A-levels,"0-£12,570",South West,Conservatives
+35-44,Male,GCSE,"0-£12,570",Wales,Greens
+45-54,Male,A-levels,"0-£12,570",South West,Lib-Dems
+65+,Female,Degree,"0-£12,570",Yorkshire and The Humber,Greens
+45-54,Male,A-levels,"0-£12,570",East Midlands,Greens
+35-44,Female,None,"£12,571-£50,270",Scotland,SNP
+35-44,Male,A-levels,"0-£12,570",Yorkshire and The Humber,Labour
+55-64,Female,Degree,"£50,271-£125,140",South West,Lib-Dems
+55-64,Male,GCSE,"0-£12,570",North East,Labour
+45-54,Male,None,"£12,571-£50,270",North West,Labour
+25-34,Male,GCSE,"£50,271-£125,140",East Midlands,Conservatives
+45-54,Female,None,"0-£12,570",North West,Labour
+55-64,Male,A-levels,"£12,571-£50,270",West Midlands,Conservatives
+25-34,Female,None,"£12,571-£50,270",London,Lib-Dems
+65+,Female,None,"£50,271-£125,140",East Midlands,Conservatives
+35-44,Male,GCSE,"£50,271-£125,140",London,Labour
+25-34,Female,A-levels,"£12,571-£50,270",Wales,Reform UK
+55-64,Male,Degree,"£12,571-£50,270",Yorkshire and The Humber,Labour
+25-34,Male,Degree,"0-£12,570",East Midlands,Labour
+65+,Male,None,"£12,571-£50,270",Wales,Conservatives
+25-34,Male,Degree,"£50,271-£125,140",London,Conservatives
+65+,Male,A-levels,"£12,571-£50,270",East of England,Labour
+65+,Male,Degree,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+45-54,Female,Degree,"0-£12,570",Scotland,SNP
+45-54,Female,None,"£12,571-£50,270",North East,Conservatives
+18-24,Male,A-levels,"£12,571-£50,270",West Midlands,Conservatives
+25-34,Male,GCSE,"£12,571-£50,270",North West,Labour
+35-44,Female,A-levels,"£50,271-£125,140",North East,Labour
+25-34,Female,None,"£50,271-£125,140",Scotland,Conservatives
+55-64,Female,None,"£12,571-£50,270",London,Conservatives
+18-24,Male,Degree,"0-£12,570",West Midlands,Labour
+35-44,Male,None,"£12,571-£50,270",North East,Lib-Dems
+55-64,Male,GCSE,"£12,571-£50,270",West Midlands,Labour
+45-54,Female,Degree,"£12,571-£50,270",North East,Reform UK
+45-54,Male,GCSE,"£12,571-£50,270",Scotland,SNP
+65+,Female,Degree,"£12,571-£50,270",North East,Greens
+65+,Female,A-levels,"£12,571-£50,270",Wales,Labour
+18-24,Male,A-levels,"£50,271-£125,140",East of England,Labour
+25-34,Male,None,"0-£12,570",North East,Labour
+55-64,Male,A-levels,"£12,571-£50,270",South East,Conservatives
+45-54,Female,None,"0-£12,570",East Midlands,Reform UK
+45-54,Male,None,"£50,271-£125,140",East of England,Greens
+65+,Male,None,"£12,571-£50,270",South West,Conservatives
+18-24,Male,Degree,"£12,571-£50,270",West Midlands,Labour
+35-44,Male,A-levels,"£12,571-£50,270",London,Labour
+45-54,Female,None,"£12,571-£50,270",North East,Conservatives
+18-24,Female,Degree,"£12,571-£50,270",North West,Labour
+25-34,Female,None,"£12,571-£50,270",Yorkshire and The Humber,Greens
+45-54,Female,GCSE,"£50,271-£125,140",Wales,Conservatives
+35-44,Male,None,"£12,571-£50,270",South West,Conservatives
+55-64,Female,None,"£12,571-£50,270",Yorkshire and The Humber,Lib-Dems
+35-44,Male,Degree,"0-£12,570",London,Reform UK
+65+,Male,None,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+18-24,Female,GCSE,"£12,571-£50,270",Scotland,SNP
+18-24,Female,A-levels,"£12,571-£50,270",Wales,Lib-Dems
+35-44,Male,GCSE,"£50,271-£125,140",South West,Labour
+35-44,Female,A-levels,"£50,271-£125,140",Scotland,Labour
+55-64,Female,Degree,"£12,571-£50,270",South East,Lib-Dems
+45-54,Female,None,"0-£12,570",North East,Reform UK
+35-44,Female,A-levels,"0-£12,570",East Midlands,Reform UK
+55-64,Female,None,"£12,571-£50,270",East Midlands,Reform UK
+35-44,Male,GCSE,"£50,271-£125,140",South East,Labour
+25-34,Male,Degree,"0-£12,570",South West,Reform UK
+25-34,Female,A-levels,"£12,571-£50,270",South East,Lib-Dems
+25-34,Female,A-levels,"£12,571-£50,270",East Midlands,Lib-Dems
+35-44,Male,None,"0-£12,570",Scotland,Lib-Dems
+35-44,Female,A-levels,"£12,571-£50,270",East Midlands,Greens
+45-54,Female,A-levels,"£12,571-£50,270",North West,Lib-Dems
+45-54,Female,GCSE,"£12,571-£50,270",South West,Conservatives
+55-64,Female,GCSE,"£50,271-£125,140",Scotland,SNP
+25-34,Male,Degree,"0-£12,570",East of England,Labour
+35-44,Male,GCSE,"0-£12,570",East of England,Lib-Dems
+35-44,Male,Degree,"£12,571-£50,270",West Midlands,Conservatives
+65+,Female,Degree,"£12,571-£50,270",Yorkshire and The Humber,Greens
+35-44,Male,GCSE,"£12,571-£50,270",North East,Labour
+35-44,Male,Degree,"£12,571-£50,270",East Midlands,Reform UK
+25-34,Female,Degree,"£50,271-£125,140",Yorkshire and The Humber,Conservatives
+65+,Female,A-levels,"0-£12,570",West Midlands,Lib-Dems
+55-64,Female,Degree,"£12,571-£50,270",Scotland,Conservatives
+65+,Female,GCSE,"0-£12,570",North East,Conservatives
+25-34,Female,A-levels,"0-£12,570",Wales,Labour
+25-34,Female,None,"£12,571-£50,270",Yorkshire and The Humber,Labour
+25-34,Female,Degree,"£12,571-£50,270",Wales,Greens
+45-54,Male,GCSE,"£50,271-£125,140",Yorkshire and The Humber,Reform UK
+55-64,Female,Degree,"£12,571-£50,270",South West,Reform UK
+65+,Female,GCSE,"£12,571-£50,270",West Midlands,Greens
+55-64,Male,Degree,"£50,271-£125,140",South East,Conservatives
+25-34,Female,GCSE,"0-£12,570",South West,Reform UK
+65+,Female,GCSE,"£12,571-£50,270",Yorkshire and The Humber,Lib-Dems
+25-34,Female,Degree,"£12,571-£50,270",East of England,Labour
+55-64,Female,GCSE,"0-£12,570",East of England,Labour
+65+,Male,Degree,"£12,571-£50,270",London,Reform UK
+25-34,Male,A-levels,"0-£12,570",Yorkshire and The Humber,Labour
+55-64,Female,GCSE,"£12,571-£50,270",North East,Conservatives
+55-64,Female,A-levels,"£50,271-£125,140",East of England,SNP
+55-64,Male,GCSE,"0-£12,570",South East,Reform UK
+65+,Male,Degree,"£50,271-£125,140",East of England,Labour
+55-64,Male,None,"0-£12,570",North West,Labour
+35-44,Male,Degree,"£12,571-£50,270",Wales,Conservatives
+45-54,Female,GCSE,"£12,571-£50,270",Wales,Greens
+18-24,Female,A-levels,"£50,271-£125,140",Wales,Conservatives
+55-64,Male,A-levels,"0-£12,570",South East,Conservatives
+35-44,Male,GCSE,"£12,571-£50,270",North East,Labour
+55-64,Female,None,"£12,571-£50,270",East Midlands,Lib-Dems
+55-64,Female,A-levels,"0-£12,570",Scotland,Conservatives
+55-64,Male,A-levels,"£12,571-£50,270",Wales,Labour
+55-64,Female,GCSE,"£12,571-£50,270",South East,Reform UK
+55-64,Male,A-levels,"£12,571-£50,270",North West,Reform UK
+45-54,Female,GCSE,"£50,271-£125,140",London,Labour
+45-54,Male,GCSE,"£12,571-£50,270",London,Labour
+55-64,Male,Degree,"0-£12,570",Scotland,Greens
+55-64,Male,None,"£12,571-£50,270",South East,Conservatives
+18-24,Male,Degree,"0-£12,570",Yorkshire and The Humber,Conservatives
+25-34,Male,Degree,"£50,271-£125,140",Scotland,Lib-Dems
+55-64,Male,Degree,"£12,571-£50,270",Yorkshire and The Humber,Greens
+65+,Female,None,"0-£12,570",East of England,Labour
+25-34,Male,None,"£125,140+",Wales,Reform UK
+65+,Female,A-levels,"£50,271-£125,140",London,Labour
+35-44,Male,GCSE,"£12,571-£50,270",West Midlands,Labour
+35-44,Female,None,"£50,271-£125,140",Scotland,SNP
+55-64,Male,A-levels,"£12,571-£50,270",East of England,Labour
+35-44,Male,GCSE,"£12,571-£50,270",Wales,Labour
+35-44,Female,A-levels,"0-£12,570",East Midlands,Greens
+65+,Male,GCSE,"£12,571-£50,270",East of England,Conservatives
+45-54,Male,A-levels,"£125,140+",North East,Conservatives
+18-24,Male,GCSE,"£12,571-£50,270",East of England,Reform UK
+25-34,Female,Degree,"£12,571-£50,270",Scotland,Conservatives
+45-54,Female,A-levels,"0-£12,570",South West,Reform UK
+45-54,Male,GCSE,"0-£12,570",South East,Greens
+25-34,Female,A-levels,"£12,571-£50,270",South West,Conservatives
+25-34,Male,A-levels,"0-£12,570",East Midlands,Lib-Dems
+65+,Female,GCSE,"£12,571-£50,270",Yorkshire and The Humber,Greens
+65+,Male,Degree,"£50,271-£125,140",East of England,Lib-Dems
+55-64,Female,Degree,"£12,571-£50,270",East of England,Reform UK
+55-64,Female,Degree,"0-£12,570",North West,Lib-Dems
+35-44,Female,Degree,"0-£12,570",South West,Lib-Dems
+25-34,Female,A-levels,"£12,571-£50,270",Wales,Conservatives
+55-64,Female,None,"£50,271-£125,140",Scotland,Conservatives
+18-24,Male,Degree,"£12,571-£50,270",Wales,Reform UK
+65+,Male,GCSE,"£50,271-£125,140",North West,Greens
+25-34,Female,GCSE,"£125,140+",North West,Labour
+45-54,Male,Degree,"£12,571-£50,270",Wales,Labour
+25-34,Male,GCSE,"£12,571-£50,270",London,Lib-Dems
+65+,Male,A-levels,"£50,271-£125,140",Yorkshire and The Humber,Lib-Dems
+18-24,Female,Degree,"£50,271-£125,140",South East,Labour
+65+,Female,A-levels,"£50,271-£125,140",East of England,Lib-Dems
+25-34,Female,GCSE,"£125,140+",North East,Greens
+35-44,Male,A-levels,"£50,271-£125,140",Yorkshire and The Humber,Reform UK
+35-44,Female,A-levels,"£50,271-£125,140",East Midlands,Conservatives
+25-34,Female,None,"£12,571-£50,270",Yorkshire and The Humber,Labour
+25-34,Female,Degree,"0-£12,570",Yorkshire and The Humber,Labour
+55-64,Male,None,"0-£12,570",North West,Labour
+55-64,Male,GCSE,"£12,571-£50,270",East of England,Labour
+55-64,Female,Degree,"£12,571-£50,270",Wales,Conservatives
+18-24,Female,GCSE,"0-£12,570",London,Labour
+35-44,Male,None,"£12,571-£50,270",South East,Reform UK
+35-44,Female,GCSE,"£12,571-£50,270",South East,Greens
+65+,Male,A-levels,"£12,571-£50,270",South West,Greens
+45-54,Male,Degree,"£125,140+",North East,Reform UK
+45-54,Male,Degree,"£50,271-£125,140",North West,Labour
+65+,Female,GCSE,"£12,571-£50,270",South West,Reform UK
+55-64,Male,GCSE,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+45-54,Male,Degree,"£12,571-£50,270",North West,Greens
+35-44,Male,GCSE,"£12,571-£50,270",Wales,Lib-Dems
+18-24,Female,Degree,"£12,571-£50,270",East Midlands,Labour
+55-64,Male,GCSE,"£12,571-£50,270",East Midlands,Conservatives
+35-44,Male,A-levels,"£50,271-£125,140",South East,Labour
+35-44,Female,None,"£12,571-£50,270",East of England,Conservatives
+45-54,Male,A-levels,"0-£12,570",West Midlands,Conservatives
+65+,Female,A-levels,"£50,271-£125,140",South West,Conservatives
+45-54,Female,GCSE,"0-£12,570",London,Conservatives
+25-34,Male,Degree,"£12,571-£50,270",North East,Labour
+25-34,Male,None,"£12,571-£50,270",West Midlands,Conservatives
+65+,Female,Degree,"£12,571-£50,270",Yorkshire and The Humber,Conservatives
+55-64,Female,GCSE,"£12,571-£50,270",North West,Lib-Dems
+65+,Female,Degree,"£12,571-£50,270",South West,Reform UK
+65+,Male,Degree,"0-£12,570",South East,Labour
+35-44,Male,None,"0-£12,570",East of England,Conservatives
+25-34,Male,None,"£50,271-£125,140",North East,Labour
+65+,Male,None,"£12,571-£50,270",East Midlands,Lib-Dems
+35-44,Female,A-levels,"0-£12,570",East Midlands,Reform UK
+25-34,Male,A-levels,"£12,571-£50,270",East of England,Labour
+45-54,Male,A-levels,"0-£12,570",East Midlands,Labour
+25-34,Male,A-levels,"£12,571-£50,270",North West,Labour
+35-44,Female,None,"£50,271-£125,140",Wales,Greens
+35-44,Female,GCSE,"0-£12,570",South West,Labour
+45-54,Female,None,"0-£12,570",South West,Conservatives
+55-64,Female,A-levels,"0-£12,570",South East,Reform UK
+18-24,Male,GCSE,"0-£12,570",Scotland,Conservatives
+35-44,Male,None,"£12,571-£50,270",North West,Labour
+65+,Female,Degree,"£12,571-£50,270",North West,Labour
+65+,Male,Degree,"£12,571-£50,270",East of England,Reform UK
+45-54,Male,A-levels,"0-£12,570",North West,Greens
+25-34,Male,Degree,"£12,571-£50,270",East of England,Labour
+18-24,Female,A-levels,"£125,140+",London,Labour
+35-44,Male,GCSE,"£12,571-£50,270",West Midlands,Labour
+65+,Female,Degree,"£12,571-£50,270",South East,Conservatives
+35-44,Male,A-levels,"£50,271-£125,140",North East,Conservatives
+45-54,Female,A-levels,"£12,571-£50,270",South West,Greens
+45-54,Male,A-levels,"£12,571-£50,270",South East,Lib-Dems
+18-24,Male,None,"0-£12,570",South West,Labour
+45-54,Female,GCSE,"0-£12,570",North East,Conservatives
+45-54,Male,A-levels,"£12,571-£50,270",South East,Greens
+55-64,Female,Degree,"0-£12,570",North East,SNP
+55-64,Female,A-levels,"£50,271-£125,140",West Midlands,Labour
+35-44,Male,A-levels,"£12,571-£50,270",London,Greens
+65+,Female,None,"0-£12,570",London,Conservatives
+65+,Male,A-levels,"£50,271-£125,140",South West,Greens
+25-34,Male,None,"0-£12,570",West Midlands,Labour
+35-44,Female,A-levels,"£50,271-£125,140",London,Lib-Dems
+35-44,Male,A-levels,"0-£12,570",South West,Greens
+35-44,Female,GCSE,"£12,571-£50,270",London,Reform UK
+65+,Female,None,"£12,571-£50,270",London,Labour
+35-44,Male,GCSE,"£12,571-£50,270",South East,Lib-Dems
+65+,Male,Degree,"0-£12,570",North West,Conservatives
+65+,Female,GCSE,"0-£12,570",East Midlands,Labour
+25-34,Female,GCSE,"£50,271-£125,140",South West,Conservatives
+25-34,Male,GCSE,"£125,140+",Yorkshire and The Humber,Reform UK
+65+,Male,None,"0-£12,570",West Midlands,Labour
+65+,Male,Degree,"£12,571-£50,270",North West,Conservatives
+35-44,Female,None,"0-£12,570",London,Reform UK
+65+,Female,Degree,"£125,140+",South West,Lib-Dems
+35-44,Male,GCSE,"£12,571-£50,270",Scotland,SNP
+55-64,Female,GCSE,"£12,571-£50,270",Scotland,Greens
+65+,Male,None,"0-£12,570",West Midlands,Labour
+25-34,Female,Degree,"£50,271-£125,140",Yorkshire and The Humber,Labour
+18-24,Female,Degree,"£50,271-£125,140",East of England,Labour
+35-44,Female,A-levels,"£12,571-£50,270",East of England,Lib-Dems
+65+,Female,None,"£50,271-£125,140",Scotland,SNP
+45-54,Male,GCSE,"0-£12,570",North East,Conservatives
+55-64,Female,Degree,"0-£12,570",East of England,Lib-Dems
+45-54,Female,None,"0-£12,570",East of England,Labour
+35-44,Female,None,"£12,571-£50,270",South West,Reform UK
+45-54,Male,A-levels,"0-£12,570",South West,Reform UK
+45-54,Female,None,"0-£12,570",London,Labour
+45-54,Male,Degree,"£50,271-£125,140",East Midlands,Reform UK
+45-54,Female,None,"£50,271-£125,140",Wales,Conservatives
+18-24,Male,GCSE,"0-£12,570",South West,Labour
+35-44,Male,GCSE,"£50,271-£125,140",East Midlands,Lib-Dems
+35-44,Male,None,"£50,271-£125,140",Yorkshire and The Humber,Reform UK
+55-64,Male,None,"£12,571-£50,270",North East,Lib-Dems
+45-54,Male,GCSE,"£12,571-£50,270",West Midlands,Reform UK
+18-24,Male,Degree,"£12,571-£50,270",Wales,Labour
+55-64,Female,GCSE,"£12,571-£50,270",South East,Conservatives
+25-34,Female,GCSE,"0-£12,570",East Midlands,Reform UK
+45-54,Male,Degree,"0-£12,570",North West,Labour
+18-24,Female,A-levels,"£50,271-£125,140",North West,Conservatives
+45-54,Female,A-levels,"£12,571-£50,270",East of England,Conservatives
+55-64,Female,None,"£12,571-£50,270",London,Reform UK
+55-64,Female,Degree,"£12,571-£50,270",London,Greens
+35-44,Female,Degree,"£12,571-£50,270",East of England,Conservatives
+35-44,Female,A-levels,"£12,571-£50,270",South East,Conservatives
+18-24,Male,A-levels,"£12,571-£50,270",South West,Conservatives
+45-54,Male,None,"£125,140+",Yorkshire and The Humber,Labour
+45-54,Male,Degree,"£12,571-£50,270",Wales,Labour
+25-34,Female,Degree,"£12,571-£50,270",South West,Lib-Dems
+35-44,Male,None,"£50,271-£125,140",Yorkshire and The Humber,Lib-Dems
+55-64,Male,A-levels,"£50,271-£125,140",Yorkshire and The Humber,Labour
+55-64,Female,A-levels,"£12,571-£50,270",South West,Reform UK
+55-64,Female,A-levels,"£12,571-£50,270",Scotland,Reform UK
+35-44,Female,Degree,"£12,571-£50,270",South West,Lib-Dems
+35-44,Female,A-levels,"£12,571-£50,270",West Midlands,Labour
+55-64,Male,GCSE,"0-£12,570",East of England,Lib-Dems
+25-34,Female,None,"£12,571-£50,270",Wales,Greens
+35-44,Female,Degree,"£50,271-£125,140",North West,Labour
+55-64,Male,A-levels,"£12,571-£50,270",Scotland,Reform UK
+35-44,Female,A-levels,"£12,571-£50,270",London,Lib-Dems
+18-24,Female,Degree,"£12,571-£50,270",Yorkshire and The Humber,Labour
+65+,Female,None,"£12,571-£50,270",North East,Reform UK
+35-44,Female,None,"£50,271-£125,140",East of England,Labour
+45-54,Female,None,"£12,571-£50,270",West Midlands,Labour
+65+,Male,Degree,"£125,140+",London,Labour
+25-34,Male,A-levels,"£12,571-£50,270",London,Labour
+55-64,Male,GCSE,"£125,140+",South West,Conservatives
+45-54,Female,GCSE,"£12,571-£50,270",East Midlands,Greens
+45-54,Female,GCSE,"£12,571-£50,270",London,Labour
+35-44,Male,A-levels,"0-£12,570",East Midlands,Labour
+35-44,Male,A-levels,"0-£12,570",West Midlands,Conservatives
+65+,Male,Degree,"£125,140+",Wales,Conservatives
+35-44,Female,A-levels,"£50,271-£125,140",East Midlands,Lib-Dems
+55-64,Female,GCSE,"£50,271-£125,140",London,Conservatives
+55-64,Female,A-levels,"£50,271-£125,140",South West,Reform UK
+45-54,Male,A-levels,"£12,571-£50,270",South East,Reform UK
+65+,Male,A-levels,"£12,571-£50,270",South West,Lib-Dems
+45-54,Female,GCSE,"£12,571-£50,270",South West,Conservatives
+25-34,Female,A-levels,"£50,271-£125,140",East Midlands,Labour
+25-34,Female,A-levels,"0-£12,570",North West,Conservatives
+65+,Male,GCSE,"£50,271-£125,140",London,Greens
+55-64,Male,Degree,"£12,571-£50,270",West Midlands,Conservatives
+65+,Female,GCSE,"£50,271-£125,140",North East,Greens
+65+,Male,None,"£50,271-£125,140",West Midlands,Greens
+35-44,Female,None,"£12,571-£50,270",Yorkshire and The Humber,Reform UK
+45-54,Male,Degree,"£12,571-£50,270",East of England,Labour
+35-44,Female,Degree,"0-£12,570",Yorkshire and The Humber,SNP
+18-24,Male,None,"£12,571-£50,270",East of England,Labour
+65+,Female,None,"£12,571-£50,270",South East,Lib-Dems
+45-54,Female,Degree,"0-£12,570",Wales,Greens
+55-64,Female,Degree,"£12,571-£50,270",East Midlands,Lib-Dems
+45-54,Male,GCSE,"0-£12,570",Scotland,SNP
+45-54,Female,Degree,"£12,571-£50,270",West Midlands,Conservatives
+25-34,Female,None,"£12,571-£50,270",Wales,Lib-Dems
+55-64,Female,None,"0-£12,570",Yorkshire and The Humber,Reform UK
+65+,Female,A-levels,"0-£12,570",East Midlands,Labour
+18-24,Male,None,"0-£12,570",London,Labour
+65+,Female,A-levels,"£12,571-£50,270",East of England,Labour
+35-44,Male,GCSE,"£50,271-£125,140",South West,Reform UK
+35-44,Female,Degree,"0-£12,570",East of England,Greens
+45-54,Male,A-levels,"£12,571-£50,270",London,Conservatives
+65+,Female,A-levels,"£12,571-£50,270",West Midlands,Conservatives
